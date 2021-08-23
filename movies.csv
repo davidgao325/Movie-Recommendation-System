@@ -1,0 +1,1001 @@
+,movie,year,genres,directors,actors,timeMin,ratings,metascore,votes,us_grossMillions
+0,Once Upon a Time... In Hollywood,(2019),"Comedy, Drama",Quentin Tarantino,"['Leonardo DiCaprio', 'Brad Pitt', 'Margot Robbie', 'Emile Hirsch']",161 min,7.6,83        ,"619,491",$142.50M
+1,Zack Snyder's Justice League,(2021),"Action, Adventure, Fantasy",Zack Snyder,"['Henry Cavill', 'Ben Affleck', 'Gal Gadot', 'Amy Adams']",242 min,8.1,54        ,"324,109",-
+2,The Shawshank Redemption,(1994),Drama,Frank Darabont,"['Tim Robbins', 'Morgan Freeman', 'Bob Gunton', 'William Sadler']",142 min,9.3,80        ,"2,440,675",$28.34M
+3,Knives Out,(2019),"Comedy, Crime, Drama",Rian Johnson,"['Daniel Craig', 'Chris Evans', 'Ana de Armas', 'Jamie Lee Curtis']",130 min,7.9,82        ,"512,829",$165.36M
+4,Avengers: Endgame,(2019),"Action, Adventure, Drama",Anthony Russo,"['Joe Russo', 'Robert Downey Jr.', 'Chris Evans', 'Mark Ruffalo', 'Chris Hemsworth']",181 min,8.4,78        ,"919,622",$858.37M
+5,Joker,(2019),"Crime, Drama, Thriller",Todd Phillips,"['Joaquin Phoenix', 'Robert De Niro', 'Zazie Beetz', 'Frances Conroy']",122 min,8.4,59        ,"1,044,236",$335.45M
+6,The Godfather,(1972),"Crime, Drama",Francis Ford Coppola,"['Marlon Brando', 'Al Pacino', 'James Caan', 'Diane Keaton']",175 min,9.2,100        ,"1,689,648",$134.97M
+7,Harry Potter and the Sorcerer's Stone,(2001),"Adventure, Family, Fantasy",Chris Columbus,"['Daniel Radcliffe', 'Rupert Grint', 'Richard Harris', 'Maggie Smith']",152 min,7.6,64        ,"691,602",$317.58M
+8,The Dark Knight,(2008),"Action, Crime, Drama",Christopher Nolan,"['Christian Bale', 'Heath Ledger', 'Aaron Eckhart', 'Michael Caine']",152 min,9.0,84        ,"2,396,753",$534.86M
+9,Forrest Gump,(1994),"Drama, Romance",Robert Zemeckis,"['Tom Hanks', 'Robin Wright', 'Gary Sinise', 'Sally Field']",142 min,8.8,82        ,"1,887,139",$330.25M
+10,The Wolf of Wall Street,(2013),"Biography, Crime, Drama",Martin Scorsese,"['Leonardo DiCaprio', 'Jonah Hill', 'Margot Robbie', 'Matthew McConaughey']",180 min,8.2,75        ,"1,249,670",$116.90M
+11,Interstellar,(2014),"Adventure, Drama, Sci-Fi",Christopher Nolan,"['Matthew McConaughey', 'Anne Hathaway', 'Jessica Chastain', 'Mackenzie Foy']",169 min,8.6,74        ,"1,595,235",$188.02M
+12,Django Unchained,(2012),"Drama, Western",Quentin Tarantino,"['Jamie Foxx', 'Christoph Waltz', 'Leonardo DiCaprio', 'Kerry Washington']",165 min,8.4,81        ,"1,413,337",$162.81M
+13,Guardians of the Galaxy,(2014),"Action, Adventure, Comedy",James Gunn,"['Chris Pratt', 'Vin Diesel', 'Bradley Cooper', 'Zoe Saldana']",121 min,8.0,76        ,"1,083,547",$333.18M
+14,The Matrix,(1999),"Action, Sci-Fi",Lana Wachowski,"['Lilly Wachowski', 'Keanu Reeves', 'Laurence Fishburne', 'Carrie-Anne Moss', 'Hugo Weaving']",136 min,8.7,73        ,"1,738,324",$171.48M
+15,The Lord of the Rings: The Fellowship of the Ring,(2001),"Action, Adventure, Drama",Peter Jackson,"['Elijah Wood', 'Ian McKellen', 'Orlando Bloom', 'Sean Bean']",178 min,8.8,92        ,"1,718,386",$315.54M
+16,Back to the Future,(1985),"Adventure, Comedy, Sci-Fi",Robert Zemeckis,"['Michael J. Fox', 'Christopher Lloyd', 'Lea Thompson', 'Crispin Glover']",116 min,8.5,87        ,"1,103,101",$210.61M
+17,Pulp Fiction,(1994),"Crime, Drama",Quentin Tarantino,"['John Travolta', 'Uma Thurman', 'Samuel L. Jackson', 'Bruce Willis']",154 min,8.9,94        ,"1,893,282",$107.93M
+18,Blade Runner 2049,(2017),"Action, Drama, Mystery",Denis Villeneuve,"['Harrison Ford', 'Ryan Gosling', 'Ana de Armas', 'Dave Bautista']",164 min,8.0,81        ,"491,463",$92.05M
+19,Pride & Prejudice,(2005),"Drama, Romance",Joe Wright,"['Keira Knightley', 'Matthew Macfadyen', 'Brenda Blethyn', 'Donald Sutherland']",129 min,7.8,82        ,"270,816",$38.41M
+20,Parasite,(2019),"Comedy, Drama, Thriller",Bong Joon Ho,"['Kang-ho Song', 'Sun-kyun Lee', 'Yeo-jeong Cho', 'Woo-sik Choi']",132 min,8.6,96        ,"642,917",$53.37M
+21,Jurassic Park,(1993),"Action, Adventure, Sci-Fi",Steven Spielberg,"['Sam Neill', 'Laura Dern', 'Jeff Goldblum', 'Richard Attenborough']",127 min,8.1,68        ,"900,946",$402.45M
+22,Tombstone,(1993),"Action, Biography, Drama",George P. Cosmatos,"['Kevin Jarre', 'Kurt Russell', 'Val Kilmer', 'Sam Elliott', 'Bill Paxton']",130 min,7.8,50        ,"133,684",$56.51M
+23,Inception,(2010),"Action, Adventure, Sci-Fi",Christopher Nolan,"['Leonardo DiCaprio', 'Joseph Gordon-Levitt', 'Elliot Page', 'Ken Watanabe']",148 min,8.8,74        ,"2,150,695",$292.58M
+24,The Gentlemen,(2019),"Action, Comedy, Crime",Guy Ritchie,"['Matthew McConaughey', 'Charlie Hunnam', 'Michelle Dockery', 'Jeremy Strong']",113 min,7.8,51        ,"276,072",-
+25,Harry Potter and the Goblet of Fire,(2005),"Adventure, Family, Fantasy",Mike Newell,"['Daniel Radcliffe', 'Emma Watson', 'Rupert Grint', 'Eric Sykes']",157 min,7.7,81        ,"569,580",$290.01M
+26,Inglourious Basterds,(2009),"Adventure, Drama, War",Quentin Tarantino,"['Brad Pitt', 'Diane Kruger', 'Eli Roth', 'Mélanie Laurent']",153 min,8.3,69        ,"1,320,689",$120.54M
+27,Thor: Ragnarok,(2017),"Action, Adventure, Comedy",Taika Waititi,"['Chris Hemsworth', 'Tom Hiddleston', 'Cate Blanchett', 'Mark Ruffalo']",130 min,7.9,74        ,"636,930",$315.06M
+28,Titanic,(1997),"Drama, Romance",James Cameron,"['Leonardo DiCaprio', 'Kate Winslet', 'Billy Zane', 'Kathy Bates']",194 min,7.8,75        ,"1,085,535",$659.33M
+29,The Father,(I) (2020),Drama,Florian Zeller,"['Anthony Hopkins', 'Olivia Colman', 'Mark Gatiss', 'Olivia Williams']",97 min,8.3,88        ,"85,463",-
+30,Avengers: Infinity War,(2018),"Action, Adventure, Sci-Fi",Anthony Russo,"['Joe Russo', 'Robert Downey Jr.', 'Chris Hemsworth', 'Mark Ruffalo', 'Chris Evans']",149 min,8.4,68        ,"908,989",$678.82M
+31,The Departed,(2006),"Crime, Drama, Thriller",Martin Scorsese,"['Leonardo DiCaprio', 'Matt Damon', 'Jack Nicholson', 'Mark Wahlberg']",151 min,8.5,85        ,"1,231,325",$132.38M
+32,Another Round,(2020),"Comedy, Drama",Thomas Vinterberg,"['Mads Mikkelsen', 'Thomas Bo Larsen', 'Magnus Millang', 'Lars Ranthe']",117 min,7.8,79        ,"98,904",-
+33,Fight Club,(1999),Drama,David Fincher,"['Brad Pitt', 'Edward Norton', 'Meat Loaf', 'Zach Grenier']",139 min,8.8,66        ,"1,924,467",$37.03M
+34,Gone Girl,(2014),"Drama, Mystery, Thriller",David Fincher,"['Ben Affleck', 'Rosamund Pike', 'Neil Patrick Harris', 'Tyler Perry']",149 min,8.1,79        ,"899,024",$167.77M
+35,Ghostbusters,(1984),"Action, Comedy, Fantasy",Ivan Reitman,"['Bill Murray', 'Dan Aykroyd', 'Sigourney Weaver', 'Harold Ramis']",105 min,7.8,71        ,"369,980",$238.63M
+36,Alien,(1979),"Horror, Sci-Fi",Ridley Scott,"['Sigourney Weaver', 'Tom Skerritt', 'John Hurt', 'Veronica Cartwright']",117 min,8.4,89        ,"816,809",$78.90M
+37,Jaws,(1975),"Adventure, Thriller",Steven Spielberg,"['Roy Scheider', 'Robert Shaw', 'Richard Dreyfuss', 'Lorraine Gary']",124 min,8.0,87        ,"560,783",$260.00M
+38,Pirates of the Caribbean: The Curse of the Black Pearl,(2003),"Action, Adventure, Fantasy",Gore Verbinski,"['Johnny Depp', 'Geoffrey Rush', 'Orlando Bloom', 'Keira Knightley']",143 min,8.0,63        ,"1,040,064",$305.41M
+39,Se7en,(1995),"Crime, Drama, Mystery",David Fincher,"['Morgan Freeman', 'Brad Pitt', 'Kevin Spacey', 'Andrew Kevin Walker']",127 min,8.6,65        ,"1,503,233",$100.13M
+40,Watchmen,(2009),"Action, Drama, Mystery",Zack Snyder,"['Jackie Earle Haley', 'Patrick Wilson', 'Carla Gugino', 'Malin Akerman']",162 min,7.6,56        ,"523,159",$107.51M
+41,Goodfellas,(1990),"Biography, Crime, Drama",Martin Scorsese,"['Robert De Niro', 'Ray Liotta', 'Joe Pesci', 'Lorraine Bracco']",146 min,8.7,90        ,"1,060,729",$46.84M
+42,Gladiator,(2000),"Action, Adventure, Drama",Ridley Scott,"['Russell Crowe', 'Joaquin Phoenix', 'Connie Nielsen', 'Oliver Reed']",155 min,8.5,67        ,"1,388,311",$187.71M
+43,The Big Lebowski,(1998),"Comedy, Crime, Sport",Joel Coen,"['Ethan Coen', 'Jeff Bridges', 'John Goodman', 'Julianne Moore', 'Steve Buscemi']",117 min,8.1,71        ,"760,282",$17.50M
+44,Prisoners,(2013),"Crime, Drama, Mystery",Denis Villeneuve,"['Hugh Jackman', 'Jake Gyllenhaal', 'Viola Davis', 'Melissa Leo']",153 min,8.1,70        ,"630,183",$61.00M
+45,Requiem for a Dream,(2000),Drama,Darren Aronofsky,"['Ellen Burstyn', 'Jared Leto', 'Jennifer Connelly', 'Marlon Wayans']",102 min,8.3,68        ,"790,383",$3.64M
+46,Guardians of the Galaxy Vol. 2,(2017),"Action, Adventure, Comedy",James Gunn,"['Chris Pratt', 'Zoe Saldana', 'Dave Bautista', 'Vin Diesel']",136 min,7.6,67        ,"602,897",$389.81M
+47,1917,(2019),"Drama, Thriller, War",Sam Mendes,"['Dean-Charles Chapman', 'George MacKay', 'Daniel Mays', 'Colin Firth']",119 min,8.3,78        ,"480,480",$159.23M
+48,Deadpool,(2016),"Action, Adventure, Comedy",Tim Miller,"['Ryan Reynolds', 'Morena Baccarin', 'T.J. Miller', 'Ed Skrein']",108 min,8.0,65        ,"939,604",$363.07M
+49,Ford v Ferrari,(2019),"Action, Biography, Drama",James Mangold,"['Matt Damon', 'Christian Bale', 'Jon Bernthal', 'Caitriona Balfe']",152 min,8.1,81        ,"327,951",$117.62M
+50,The Princess Bride,(1987),"Adventure, Family, Fantasy",Rob Reiner,"['Cary Elwes', 'Mandy Patinkin', 'Robin Wright', 'Chris Sarandon']",98 min,8.1,77        ,"405,557",$30.86M
+51,Star Trek,(2009),"Action, Adventure, Sci-Fi",J.J. Abrams,"['Chris Pine', 'Zachary Quinto', 'Simon Pegg', 'Leonard Nimoy']",127 min,7.9,82        ,"587,546",$257.73M
+52,Little Women,(2019),"Drama, Romance",Greta Gerwig,"['Saoirse Ronan', 'Emma Watson', 'Florence Pugh', 'Eliza Scanlen']",135 min,7.8,91        ,"161,619",$108.10M
+53,No Country for Old Men,(2007),"Crime, Drama, Thriller",Ethan Coen,"['Joel Coen', 'Tommy Lee Jones', 'Javier Bardem', 'Josh Brolin', 'Woody Harrelson']",122 min,8.1,91        ,"892,789",$74.28M
+54,The Silence of the Lambs,(1991),"Crime, Drama, Thriller",Jonathan Demme,"['Jodie Foster', 'Anthony Hopkins', 'Lawrence A. Bonney', 'Kasi Lemmons']",118 min,8.6,85        ,"1,320,888",$130.74M
+55,Shutter Island,(2010),"Mystery, Thriller",Martin Scorsese,"['Leonardo DiCaprio', 'Emily Mortimer', 'Mark Ruffalo', 'Ben Kingsley']",138 min,8.2,63        ,"1,183,768",$128.01M
+56,American Psycho,(2000),"Comedy, Crime, Drama",Mary Harron,"['Christian Bale', 'Justin Theroux', 'Josh Lucas', 'Bill Sage']",101 min,7.6,64        ,"519,261",$15.07M
+57,Aliens,(1986),"Action, Adventure, Sci-Fi",James Cameron,"['Sigourney Weaver', 'Michael Biehn', 'Carrie Henn', 'Paul Reiser']",137 min,8.3,84        ,"673,930",$85.16M
+58,Boogie Nights,(1997),Drama,Paul Thomas Anderson,"['Mark Wahlberg', 'Julianne Moore', 'Burt Reynolds', 'Luis Guzmán']",155 min,7.9,85        ,"248,343",$26.40M
+59,Ferris Bueller's Day Off,(1986),Comedy,John Hughes,"['Matthew Broderick', 'Alan Ruck', 'Mia Sara', 'Jeffrey Jones']",103 min,7.8,61        ,"332,526",$70.14M
+60,Blade Runner,(1982),"Action, Sci-Fi, Thriller",Ridley Scott,"['Harrison Ford', 'Rutger Hauer', 'Sean Young', 'Edward James Olmos']",117 min,8.1,84        ,"716,467",$32.87M
+61,The Prestige,(2006),"Drama, Mystery, Sci-Fi",Christopher Nolan,"['Christian Bale', 'Hugh Jackman', 'Scarlett Johansson', 'Michael Caine']",130 min,8.5,66        ,"1,234,723",$53.09M
+62,Good Will Hunting,(1997),"Drama, Romance",Gus Van Sant,"['Robin Williams', 'Matt Damon', 'Ben Affleck', 'Stellan Skarsgård']",126 min,8.3,70        ,"893,417",$138.43M
+63,Soul,(2020),"Animation, Adventure, Comedy",Pete Docter,"['Kemp Powers', 'Jamie Foxx', 'Tina Fey', 'Graham Norton', 'Rachel House']",100 min,8.1,83        ,"270,057",-
+64,Call Me by Your Name,(2017),"Drama, Romance",Luca Guadagnino,"['Armie Hammer', 'Timothée Chalamet', 'Michael Stuhlbarg', 'Amira Casar']",132 min,7.9,93        ,"232,422",$18.10M
+65,The Dark Knight Rises,(2012),"Action, Adventure",Christopher Nolan,"['Christian Bale', 'Tom Hardy', 'Anne Hathaway', 'Gary Oldman']",164 min,8.4,78        ,"1,566,491",$448.14M
+66,The Goonies,(1985),"Adventure, Comedy, Family",Richard Donner,"['Sean Astin', 'Josh Brolin', 'Jeff Cohen', 'Corey Feldman']",114 min,7.8,62        ,"253,531",$61.50M
+67,Schindler's List,(1993),"Biography, Drama, History",Steven Spielberg,"['Liam Neeson', 'Ralph Fiennes', 'Ben Kingsley', 'Caroline Goodall']",195 min,8.9,94        ,"1,256,199",$96.90M
+68,The Hateful Eight,(2015),"Crime, Drama, Mystery",Quentin Tarantino,"['Samuel L. Jackson', 'Kurt Russell', 'Jennifer Jason Leigh', 'Walton Goggins']",168 min,7.8,68        ,"544,665",$54.12M
+69,The Game,(1997),"Drama, Mystery, Thriller",David Fincher,"['Michael Douglas', 'Deborah Kara Unger', 'Sean Penn', 'James Rebhorn']",129 min,7.7,61        ,"365,350",$48.32M
+70,Heat,(1995),"Crime, Drama, Thriller",Michael Mann,"['Al Pacino', 'Robert De Niro', 'Val Kilmer', 'Jon Voight']",170 min,8.2,76        ,"601,363",$67.44M
+71,Jojo Rabbit,(2019),"Comedy, Drama, War",Taika Waititi,"['Roman Griffin Davis', 'Thomasin McKenzie', 'Scarlett Johansson', 'Taika Waititi']",108 min,7.9,58        ,"332,699",$0.35M
+72,Saving Private Ryan,(1998),"Drama, War",Steven Spielberg,"['Tom Hanks', 'Matt Damon', 'Tom Sizemore', 'Edward Burns']",169 min,8.6,91        ,"1,282,035",$216.54M
+73,The Shining,(1980),"Drama, Horror",Stanley Kubrick,"['Jack Nicholson', 'Shelley Duvall', 'Danny Lloyd', 'Scatman Crothers']",146 min,8.4,66        ,"933,969",$44.02M
+74,The Lord of the Rings: The Return of the King,(2003),"Action, Adventure, Drama",Peter Jackson,"['Elijah Wood', 'Viggo Mortensen', 'Ian McKellen', 'Orlando Bloom']",201 min,8.9,94        ,"1,697,161",$377.85M
+75,The Irishman,(2019),"Biography, Crime, Drama",Martin Scorsese,"['Robert De Niro', 'Al Pacino', 'Joe Pesci', 'Harvey Keitel']",209 min,7.8,94        ,"347,207",$7.00M
+76,Avatar,(2009),"Action, Adventure, Fantasy",James Cameron,"['Sam Worthington', 'Zoe Saldana', 'Sigourney Weaver', 'Michelle Rodriguez']",162 min,7.8,83        ,"1,150,031",$760.51M
+77,The Green Mile,(1999),"Crime, Drama, Fantasy",Frank Darabont,"['Tom Hanks', 'Michael Clarke Duncan', 'David Morse', 'Bonnie Hunt']",189 min,8.6,61        ,"1,193,556",$136.80M
+78,Deadpool 2,(2018),"Action, Adventure, Comedy",David Leitch,"['Ryan Reynolds', 'Josh Brolin', 'Morena Baccarin', 'Julian Dennison']",119 min,7.7,66        ,"511,067",$324.59M
+79,The Mitchells vs the Machines,(2021),"Animation, Adventure, Comedy",Michael Rianda,"['Jeff Rowe', 'Abbi Jacobson', 'Danny McBride', 'Maya Rudolph', 'Michael Rianda']",113 min,7.7,80        ,"71,214",-
+80,The Avengers,(2012),"Action, Adventure, Sci-Fi",Joss Whedon,"['Robert Downey Jr.', 'Chris Evans', 'Scarlett Johansson', 'Jeremy Renner']",143 min,8.0,69        ,"1,299,806",$623.28M
+81,Mad Max: Fury Road,(2015),"Action, Adventure, Sci-Fi",George Miller,"['Tom Hardy', 'Charlize Theron', 'Nicholas Hoult', 'Zoë Kravitz']",120 min,8.1,90        ,"918,988",$154.06M
+82,The Hobbit: An Unexpected Journey,(2012),"Adventure, Fantasy",Peter Jackson,"['Martin Freeman', 'Ian McKellen', 'Richard Armitage', 'Andy Serkis']",169 min,7.8,58        ,"776,561",$303.00M
+83,Léon: The Professional,(1994),"Action, Crime, Drama",Luc Besson,"['Jean Reno', 'Gary Oldman', 'Natalie Portman', 'Danny Aiello']",110 min,8.5,64        ,"1,072,961",$19.50M
+84,A Clockwork Orange,(1971),"Crime, Drama, Sci-Fi",Stanley Kubrick,"['Malcolm McDowell', 'Patrick Magee', 'Michael Bates', 'Warren Clarke']",136 min,8.3,77        ,"780,784",$6.21M
+85,300,(2006),"Action, Drama",Zack Snyder,"['Gerard Butler', 'Lena Headey', 'David Wenham', 'Dominic West']",117 min,7.6,52        ,"753,585",$210.61M
+86,Iron Man,(2008),"Action, Adventure, Sci-Fi",Jon Favreau,"['Robert Downey Jr.', 'Gwyneth Paltrow', 'Terrence Howard', 'Jeff Bridges']",126 min,7.9,79        ,"975,947",$318.41M
+87,Sicario,(2015),"Action, Crime, Drama",Denis Villeneuve,"['Emily Blunt', 'Josh Brolin', 'Benicio Del Toro', 'Jon Bernthal']",121 min,7.6,82        ,"389,473",$46.89M
+88,American Beauty,(1999),Drama,Sam Mendes,"['Kevin Spacey', 'Annette Bening', 'Thora Birch', 'Wes Bentley']",122 min,8.3,84        ,"1,098,521",$130.10M
+89,Harry Potter and the Deathly Hallows: Part 2,(2011),"Adventure, Drama, Fantasy",David Yates,"['Daniel Radcliffe', 'Emma Watson', 'Rupert Grint', 'Michael Gambon']",130 min,8.1,85        ,"795,937",$381.01M
+90,Reservoir Dogs,(1992),"Crime, Drama, Thriller",Quentin Tarantino,"['Harvey Keitel', 'Tim Roth', 'Michael Madsen', 'Chris Penn']",99 min,8.3,79        ,"950,948",$2.83M
+91,There Will Be Blood,(2007),Drama,Paul Thomas Anderson,"['Daniel Day-Lewis', 'Paul Dano', 'Ciarán Hinds', 'Martin Stringer']",158 min,8.2,93        ,"539,870",$40.22M
+92,Bohemian Rhapsody,(2018),"Biography, Drama, Music",Bryan Singer,"['Rami Malek', 'Lucy Boynton', 'Gwilym Lee', 'Ben Hardy']",134 min,7.9,49        ,"480,240",$216.43M
+93,Snatch,(2000),"Comedy, Crime",Guy Ritchie,"['Jason Statham', 'Brad Pitt', 'Stephen Graham', 'Vinnie Jones']",102 min,8.3,55        ,"806,336",$30.33M
+94,The Hangover,(2009),Comedy,Todd Phillips,"['Zach Galifianakis', 'Bradley Cooper', 'Justin Bartha', 'Ed Helms']",100 min,7.7,73        ,"737,468",$277.32M
+95,Kill Bill: Vol. 1,(2003),"Action, Crime, Drama",Quentin Tarantino,"['Uma Thurman', 'David Carradine', 'Daryl Hannah', 'Michael Madsen']",111 min,8.1,69        ,"1,037,936",$70.10M
+96,Blood Diamond,(2006),"Adventure, Drama, Thriller",Edward Zwick,"['Leonardo DiCaprio', 'Djimon Hounsou', 'Jennifer Connelly', 'Kagiso Kuypers']",143 min,8.0,64        ,"515,323",$57.37M
+97,Mulholland Dr.,(2001),"Drama, Mystery, Thriller",David Lynch,"['Naomi Watts', 'Laura Harring', 'Justin Theroux', 'Jeanne Bates']",147 min,7.9,85        ,"335,178",$7.22M
+98,Scarface,(1983),"Crime, Drama",Brian De Palma,"['Al Pacino', 'Michelle Pfeiffer', 'Steven Bauer', 'Mary Elizabeth Mastrantonio']",170 min,8.3,65        ,"772,016",$45.60M
+99,Hamilton,(2020),"Biography, Drama, History",Thomas Kail,"['Lin-Manuel Miranda', 'Phillipa Soo', 'Leslie Odom Jr.', 'Renée Elise Goldsberry']",160 min,8.4,90        ,"70,898",-
+100,Batman Begins,(2005),"Action, Adventure",Christopher Nolan,"['Christian Bale', 'Michael Caine', 'Ken Watanabe', 'Liam Neeson']",140 min,8.2,70        ,"1,350,652",$206.85M
+101,Whiplash,(2014),"Drama, Music",Damien Chazelle,"['Miles Teller', 'J.K. Simmons', 'Melissa Benoist', 'Paul Reiser']",106 min,8.5,88        ,"754,961",$13.09M
+102,Catch Me If You Can,(2002),"Biography, Crime, Drama",Steven Spielberg,"['Leonardo DiCaprio', 'Tom Hanks', 'Christopher Walken', 'Martin Sheen']",141 min,8.1,75        ,"874,008",$164.62M
+103,Harry Potter and the Prisoner of Azkaban,(2004),"Adventure, Family, Fantasy",Alfonso Cuarón,"['Daniel Radcliffe', 'Emma Watson', 'Rupert Grint', 'Richard Griffiths']",142 min,7.9,82        ,"575,386",$249.36M
+104,Edge of Tomorrow,(2014),"Action, Adventure, Sci-Fi",Doug Liman,"['Tom Cruise', 'Emily Blunt', 'Bill Paxton', 'Brendan Gleeson']",113 min,7.9,71        ,"625,482",$100.21M
+105,Apocalypse Now,(1979),"Drama, Mystery, War",Francis Ford Coppola,"['Martin Sheen', 'Marlon Brando', 'Robert Duvall', 'Frederic Forrest']",147 min,8.4,94        ,"625,627",$83.47M
+106,Indiana Jones and the Raiders of the Lost Ark,(1981),"Action, Adventure",Steven Spielberg,"['Harrison Ford', 'Karen Allen', 'Paul Freeman', 'John Rhys-Davies']",115 min,8.4,85        ,"911,303",$248.16M
+107,Stand by Me,(1986),"Adventure, Drama",Rob Reiner,"['Wil Wheaton', 'River Phoenix', 'Corey Feldman', ""Jerry O'Connell""]",89 min,8.1,75        ,"377,776",$52.29M
+108,Kingsman: The Secret Service,(2014),"Action, Adventure, Comedy",Matthew Vaughn,"['Colin Firth', 'Taron Egerton', 'Samuel L. Jackson', 'Michael Caine']",129 min,7.7,60        ,"611,611",$128.26M
+109,Spider-Man: Into the Spider-Verse,(2018),"Animation, Action, Adventure",Bob Persichetti,"['Peter Ramsey', 'Rodney Rothman', 'Shameik Moore', 'Jake Johnson', 'Hailee Steinfeld', 'Mahershala Ali']",117 min,8.4,87        ,"417,740",$190.24M
+110,Terminator 2: Judgment Day,(1991),"Action, Sci-Fi",James Cameron,"['Arnold Schwarzenegger', 'Linda Hamilton', 'Edward Furlong', 'Robert Patrick']",137 min,8.5,75        ,"1,026,892",$204.84M
+111,Taxi Driver,(1976),"Crime, Drama",Martin Scorsese,"['Robert De Niro', 'Jodie Foster', 'Cybill Shepherd', 'Albert Brooks']",114 min,8.2,94        ,"755,177",$28.26M
+112,Dunkirk,(2017),"Action, Drama, History",Christopher Nolan,"['Fionn Whitehead', 'Barry Keoghan', 'Mark Rylance', 'Tom Hardy']",106 min,7.8,94        ,"588,604",$188.37M
+113,The Grand Budapest Hotel,(2014),"Adventure, Comedy, Crime",Wes Anderson,"['Ralph Fiennes', 'F. Murray Abraham', 'Mathieu Amalric', 'Adrien Brody']",99 min,8.1,88        ,"739,019",$59.10M
+114,The Usual Suspects,(1995),"Crime, Mystery, Thriller",Bryan Singer,"['Kevin Spacey', 'Gabriel Byrne', 'Chazz Palminteri', 'Stephen Baldwin']",106 min,8.5,77        ,"1,022,041",$23.34M
+115,The Fifth Element,(1997),"Action, Adventure, Sci-Fi",Luc Besson,"['Bruce Willis', 'Milla Jovovich', 'Gary Oldman', 'Ian Holm']",126 min,7.7,52        ,"446,601",$63.54M
+116,"The Good, the Bad and the Ugly",(1966),Western,Sergio Leone,"['Clint Eastwood', 'Eli Wallach', 'Lee Van Cleef', 'Aldo Giuffrè']",178 min,8.8,90        ,"712,367",$6.10M
+117,True Romance,(1993),"Crime, Drama, Romance",Tony Scott,"['Christian Slater', 'Patricia Arquette', 'Dennis Hopper', 'Val Kilmer']",119 min,7.9,59        ,"215,267",$12.28M
+118,Zodiac,(2007),"Crime, Drama, Mystery",David Fincher,"['Jake Gyllenhaal', 'Robert Downey Jr.', 'Mark Ruffalo', 'Anthony Edwards']",157 min,7.7,78        ,"490,760",$33.08M
+119,Arrival,(II) (2016),"Drama, Sci-Fi",Denis Villeneuve,"['Amy Adams', 'Jeremy Renner', 'Forest Whitaker', 'Michael Stuhlbarg']",116 min,7.9,81        ,"626,485",$100.55M
+120,Die Hard,(1988),"Action, Thriller",John McTiernan,"['Bruce Willis', 'Alan Rickman', 'Bonnie Bedelia', 'Reginald VelJohnson']",132 min,8.2,72        ,"815,870",$83.01M
+121,Get Out,(I) (2017),"Horror, Mystery, Thriller",Jordan Peele,"['Daniel Kaluuya', 'Allison Williams', 'Bradley Whitford', 'Catherine Keener']",104 min,7.7,85        ,"523,532",$176.04M
+122,Braveheart,(1995),"Biography, Drama, History",Mel Gibson,"['Mel Gibson', 'Sophie Marceau', 'Patrick McGoohan', 'Angus Macfadyen']",178 min,8.3,68        ,"983,378",$75.60M
+123,Moana,(I) (2016),"Animation, Adventure, Comedy",Ron Clements,"['John Musker', 'Don Hall', 'Chris Williams', ""Auli'i Cravalho"", 'Dwayne Johnson', 'Rachel House', 'Temuera Morrison']",107 min,7.6,81        ,"292,718",$248.76M
+124,Baby Driver,(2017),"Action, Crime, Drama",Edgar Wright,"['Ansel Elgort', 'Jon Bernthal', 'Jon Hamm', 'Eiza González']",113 min,7.6,86        ,"471,121",$107.83M
+125,The Sixth Sense,(1999),"Drama, Mystery, Thriller",M. Night Shyamalan,"['Bruce Willis', 'Haley Joel Osment', 'Toni Collette', 'Olivia Williams']",107 min,8.1,64        ,"937,058",$293.51M
+126,Memento,(2000),"Mystery, Thriller",Christopher Nolan,"['Guy Pearce', 'Carrie-Anne Moss', 'Joe Pantoliano', 'Mark Boone Junior']",113 min,8.4,80        ,"1,161,297",$25.54M
+127,Gran Torino,(2008),Drama,Clint Eastwood,"['Clint Eastwood', 'Bee Vang', 'Christopher Carley', 'Ahney Her']",116 min,8.1,72        ,"737,650",$148.10M
+128,Apollo 13,(I) (1995),"Adventure, Drama, History",Ron Howard,"['Tom Hanks', 'Bill Paxton', 'Kevin Bacon', 'Gary Sinise']",140 min,7.6,77        ,"278,834",$173.84M
+129,The Godfather: Part II,(1974),"Crime, Drama",Francis Ford Coppola,"['Al Pacino', 'Robert De Niro', 'Robert Duvall', 'Diane Keaton']",202 min,9.0,90        ,"1,173,329",$57.30M
+130,Almost Famous,(2000),"Adventure, Comedy, Drama",Cameron Crowe,"['Billy Crudup', 'Patrick Fugit', 'Kate Hudson', 'Frances McDormand']",122 min,7.9,90        ,"263,287",$32.53M
+131,The Revenant,(2015),"Action, Adventure, Drama",Alejandro G. Iñárritu,"['Leonardo DiCaprio', 'Tom Hardy', 'Will Poulter', 'Domhnall Gleeson']",156 min,8.0,76        ,"735,197",$183.64M
+132,Star Wars: Episode IV - A New Hope,(1977),"Action, Adventure, Fantasy",George Lucas,"['Mark Hamill', 'Harrison Ford', 'Carrie Fisher', 'Alec Guinness']",121 min,8.6,90        ,"1,268,909",$322.74M
+133,A Star Is Born,(2018),"Drama, Music, Romance",Bradley Cooper,"['Lady Gaga', 'Bradley Cooper', 'Sam Elliott', 'Greg Grunberg']",136 min,7.6,88        ,"352,646",$215.29M
+134,Captain America: Civil War,(2016),"Action, Adventure, Sci-Fi",Anthony Russo,"['Joe Russo', 'Chris Evans', 'Robert Downey Jr.', 'Scarlett Johansson', 'Sebastian Stan']",147 min,7.8,75        ,"701,018",$408.08M
+135,Mystic River,(2003),"Crime, Drama, Mystery",Clint Eastwood,"['Sean Penn', 'Tim Robbins', 'Kevin Bacon', 'Emmy Rossum']",138 min,7.9,84        ,"434,089",$90.14M
+136,Black Swan,(2010),"Drama, Thriller",Darren Aronofsky,"['Natalie Portman', 'Mila Kunis', 'Vincent Cassel', 'Winona Ryder']",108 min,8.0,79        ,"719,552",$106.95M
+137,The Terminator,(1984),"Action, Sci-Fi",James Cameron,"['Arnold Schwarzenegger', 'Linda Hamilton', 'Michael Biehn', 'Paul Winfield']",107 min,8.0,84        ,"817,263",$38.40M
+138,The Lord of the Rings: The Two Towers,(2002),"Action, Adventure, Drama",Peter Jackson,"['Elijah Wood', 'Ian McKellen', 'Viggo Mortensen', 'Orlando Bloom']",179 min,8.7,87        ,"1,534,569",$342.55M
+139,12 Angry Men,(1957),"Crime, Drama",Sidney Lumet,"['Henry Fonda', 'Lee J. Cobb', 'Martin Balsam', 'John Fiedler']",96 min,9.0,96        ,"721,663",$4.36M
+140,The Deer Hunter,(1978),"Drama, War",Michael Cimino,"['Robert De Niro', 'Christopher Walken', 'John Cazale', 'John Savage']",183 min,8.1,86        ,"322,390",$48.98M
+141,Spirited Away,(2001),"Animation, Adventure, Family",Hayao Miyazaki,"['Daveigh Chase', 'Suzanne Pleshette', 'Miyu Irino', 'Rumi Hiiragi']",125 min,8.6,96        ,"685,832",$10.06M
+142,Eternal Sunshine of the Spotless Mind,(2004),"Drama, Romance, Sci-Fi",Michel Gondry,"['Jim Carrey', 'Kate Winslet', 'Tom Wilkinson', 'Gerry Robert Byrne']",108 min,8.3,89        ,"941,794",$34.40M
+143,Green Book,(2018),"Biography, Comedy, Drama",Peter Farrelly,"['Viggo Mortensen', 'Mahershala Ali', 'Linda Cardellini', 'Sebastian Maniscalco']",130 min,8.2,69        ,"418,760",$85.08M
+144,Ex Machina,(2014),"Drama, Sci-Fi, Thriller",Alex Garland,"['Alicia Vikander', 'Domhnall Gleeson', 'Oscar Isaac', 'Sonoya Mizuno']",108 min,7.7,78        ,"496,952",$25.44M
+145,The Girl with the Dragon Tattoo,(2011),"Crime, Drama, Mystery",David Fincher,"['Daniel Craig', 'Rooney Mara', 'Christopher Plummer', 'Stellan Skarsgård']",158 min,7.8,71        ,"437,144",$102.52M
+146,Oldboy,(2003),"Action, Drama, Mystery",Park Chan-Wook,"['Choi Min-sik', 'Yoo Ji-Tae', 'Kang Hye-jeong', 'Kim Byeong-Ok']",120 min,8.4,77        ,"536,190",$0.71M
+147,Nightcrawler,(2014),"Crime, Drama, Thriller",Dan Gilroy,"['Jake Gyllenhaal', 'Rene Russo', 'Bill Paxton', 'Riz Ahmed']",117 min,7.8,76        ,"490,465",$32.38M
+148,Primal Fear,(1996),"Crime, Drama, Mystery",Gregory Hoblit,"['Richard Gere', 'Laura Linney', 'Edward Norton', 'John Mahoney']",129 min,7.7,47        ,"197,614",$56.12M
+149,Captain Fantastic,(2016),"Comedy, Drama",Matt Ross,"['Viggo Mortensen', 'George MacKay', 'Samantha Isler', 'Annalise Basso']",118 min,7.9,72        ,"202,649",$5.88M
+150,Full Metal Jacket,(1987),"Drama, War",Stanley Kubrick,"['Matthew Modine', 'R. Lee Ermey', ""Vincent D'Onofrio"", 'Adam Baldwin']",116 min,8.3,76        ,"696,836",$46.36M
+151,Magnolia,(1999),Drama,Paul Thomas Anderson,"['Tom Cruise', 'Jason Robards', 'Julianne Moore', 'Philip Seymour Hoffman']",188 min,8.0,77        ,"297,988",$22.46M
+152,Dazed and Confused,(1993),Comedy,Richard Linklater,"['Jason London', 'Wiley Wiggins', 'Matthew McConaughey', 'Rory Cochrane']",102 min,7.6,78        ,"172,820",$7.99M
+153,The Truman Show,(1998),"Comedy, Drama",Peter Weir,"['Jim Carrey', 'Ed Harris', 'Laura Linney', 'Noah Emmerich']",103 min,8.1,90        ,"980,321",$125.62M
+154,Sound of Metal,(2019),"Drama, Music",Darius Marder,"['Riz Ahmed', 'Olivia Cooke', 'Paul Raci', 'Lauren Ridloff']",120 min,7.8,82        ,"100,741",-
+155,Hacksaw Ridge,(2016),"Biography, Drama, History",Mel Gibson,"['Andrew Garfield', 'Sam Worthington', 'Luke Bracey', 'Teresa Palmer']",139 min,8.1,71        ,"461,863",$67.21M
+156,The Hunt,(2012),Drama,Thomas Vinterberg,"['Mads Mikkelsen', 'Thomas Bo Larsen', 'Annika Wedderkopp', 'Lasse Fogelstrøm']",115 min,8.3,77        ,"299,568",$0.69M
+157,Drive,(I) (2011),"Crime, Drama",Nicolas Winding Refn,"['Ryan Gosling', 'Carey Mulligan', 'Bryan Cranston', 'Albert Brooks']",100 min,7.8,78        ,"590,691",$35.06M
+158,Logan,(2017),"Action, Drama, Sci-Fi",James Mangold,"['Hugh Jackman', 'Patrick Stewart', 'Dafne Keen', 'Boyd Holbrook']",137 min,8.1,77        ,"680,386",$226.28M
+159,About Time,(I) (2013),"Comedy, Drama, Fantasy",Richard Curtis,"['Domhnall Gleeson', 'Rachel McAdams', 'Bill Nighy', 'Lydia Wilson']",123 min,7.8,55        ,"319,578",$15.32M
+160,One Flew Over the Cuckoo's Nest,(1975),Drama,Milos Forman,"['Jack Nicholson', 'Louise Fletcher', 'Michael Berryman', 'Peter Brocco']",133 min,8.7,84        ,"947,695",$112.00M
+161,The Lion King,(1994),"Animation, Adventure, Drama",Roger Allers,"['Rob Minkoff', 'Matthew Broderick', 'Jeremy Irons', 'James Earl Jones', 'Whoopi Goldberg']",88 min,8.5,88        ,"976,071",$422.78M
+162,City of God,(2002),"Crime, Drama",Fernando Meirelles,"['Kátia Lund', 'Alexandre Rodrigues', 'Leandro Firmino', 'Matheus Nachtergaele', 'Phellipe Haagensen']",130 min,8.6,79        ,"717,548",$7.56M
+163,Where Eagles Dare,(1968),"Action, Adventure, War",Brian G. Hutton,"['Richard Burton', 'Clint Eastwood', 'Mary Ure', 'Patrick Wymark']",158 min,7.6,63        ,"55,098",-
+164,Sin City,(2005),"Crime, Thriller",Frank Miller,"['Quentin Tarantino', 'Robert Rodriguez', 'Mickey Rourke', 'Clive Owen', 'Bruce Willis', 'Jessica Alba']",124 min,8.0,74        ,"747,810",$74.10M
+165,The Martian,(2015),"Adventure, Drama, Sci-Fi",Ridley Scott,"['Matt Damon', 'Jessica Chastain', 'Kristen Wiig', 'Kate Mara']",144 min,8.0,80        ,"788,947",$228.43M
+166,Fargo,(1996),"Crime, Drama, Thriller",Joel Coen,"['Ethan Coen', 'William H. Macy', 'Frances McDormand', 'Steve Buscemi', 'Peter Stormare']",98 min,8.1,85        ,"639,367",$24.61M
+167,The Sandlot,(1993),"Comedy, Drama, Family",David Mickey Evans,"['Tom Guiry', 'Mike Vitar', 'Art LaFleur', 'Patrick Renna']",101 min,7.8,55        ,"83,683",$32.42M
+168,La La Land,(2016),"Comedy, Drama, Music",Damien Chazelle,"['Ryan Gosling', 'Emma Stone', 'Rosemarie DeWitt', 'J.K. Simmons']",128 min,8.0,94        ,"531,752",$151.10M
+169,Demon Slayer: Mugen Train,(2020),"Animation, Action, Adventure",Haruo Sotozaki,"['Natsuki Hanae', 'Akari Kitô', 'Yoshitsugu Matsuoka', 'Hiro Shimono']",117 min,8.3,75        ,"31,707",-
+170,Home Alone,(1990),"Comedy, Family",Chris Columbus,"['Macaulay Culkin', 'Joe Pesci', 'Daniel Stern', 'John Heard']",103 min,7.6,63        ,"504,116",$285.76M
+171,The Big Short,(2015),"Biography, Comedy, Drama",Adam McKay,"['Christian Bale', 'Steve Carell', 'Ryan Gosling', 'Brad Pitt']",130 min,7.8,81        ,"384,716",$70.26M
+172,The Last of the Mohicans,(1992),"Action, Adventure, Drama",Michael Mann,"['Daniel Day-Lewis', 'Madeleine Stowe', 'Russell Means', 'Eric Schweig']",112 min,7.7,76        ,"157,613",$75.51M
+173,The Exorcist,(1973),Horror,William Friedkin,"['Ellen Burstyn', 'Max von Sydow', 'Linda Blair', 'Lee J. Cobb']",122 min,8.0,81        ,"374,125",$232.91M
+174,The Handmaiden,(2016),"Drama, Romance, Thriller",Park Chan-Wook,"['Kim Min-hee', 'Ha Jung-woo', 'Cho Jin-woong', 'Moon So-ri']",145 min,8.1,84        ,"125,454",$2.01M
+175,Mission: Impossible - Fallout,(2018),"Action, Adventure, Thriller",Christopher McQuarrie,"['Tom Cruise', 'Henry Cavill', 'Ving Rhames', 'Simon Pegg']",147 min,7.7,86        ,"305,386",$220.16M
+176,Casino Royale,(2006),"Action, Adventure, Thriller",Martin Campbell,"['Daniel Craig', 'Eva Green', 'Judi Dench', 'Jeffrey Wright']",144 min,8.0,80        ,"596,999",$167.45M
+177,Donnie Darko,(2001),"Drama, Mystery, Sci-Fi",Richard Kelly,"['Jake Gyllenhaal', 'Jena Malone', 'Mary McDonnell', 'Holmes Osborne']",113 min,8.0,88        ,"760,295",$1.48M
+178,What We Do in the Shadows,(2014),"Comedy, Horror",Jemaine Clement,"['Taika Waititi', 'Jemaine Clement', 'Taika Waititi', 'Cori Gonzalez-Macuer', 'Jonny Brugh']",86 min,7.7,76        ,"165,359",$3.33M
+179,Coco,(I) (2017),"Animation, Adventure, Comedy",Lee Unkrich,"['Adrian Molina', 'Anthony Gonzalez', 'Gael García Bernal', 'Benjamin Bratt', 'Alanna Ubach']",105 min,8.4,81        ,"423,684",$209.73M
+180,Into the Wild,(2007),"Adventure, Biography, Drama",Sean Penn,"['Emile Hirsch', 'Vince Vaughn', 'Catherine Keener', 'Marcia Gay Harden']",148 min,8.1,73        ,"590,723",$18.35M
+181,Harry Potter and the Deathly Hallows: Part 1,(2010),"Adventure, Fantasy, Mystery",David Yates,"['Daniel Radcliffe', 'Emma Watson', 'Rupert Grint', 'Bill Nighy']",146 min,7.7,65        ,"498,471",$295.98M
+182,The Pianist,(2002),"Biography, Drama, Music",Roman Polanski,"['Adrien Brody', 'Thomas Kretschmann', 'Frank Finlay', 'Emilia Fox']",150 min,8.5,85        ,"763,276",$32.57M
+183,2001: A Space Odyssey,(1968),"Adventure, Sci-Fi",Stanley Kubrick,"['Keir Dullea', 'Gary Lockwood', 'William Sylvester', 'Daniel Richter']",149 min,8.3,84        ,"625,032",$56.95M
+184,A Few Good Men,(1992),"Drama, Thriller",Rob Reiner,"['Tom Cruise', 'Jack Nicholson', 'Demi Moore', 'Kevin Bacon']",138 min,7.7,62        ,"244,910",$141.34M
+185,Moneyball,(2011),"Biography, Drama, Sport",Bennett Miller,"['Brad Pitt', 'Robin Wright', 'Jonah Hill', 'Philip Seymour Hoffman']",133 min,7.6,87        ,"387,604",$75.61M
+186,Her,(2013),"Drama, Romance, Sci-Fi",Spike Jonze,"['Joaquin Phoenix', 'Amy Adams', 'Scarlett Johansson', 'Rooney Mara']",126 min,8.0,91        ,"562,972",$25.57M
+187,Captain America: The Winter Soldier,(2014),"Action, Adventure, Sci-Fi",Anthony Russo,"['Joe Russo', 'Chris Evans', 'Samuel L. Jackson', 'Scarlett Johansson', 'Robert Redford']",136 min,7.7,70        ,"770,251",$259.77M
+188,Come and See,(1985),"Drama, Thriller, War",Elem Klimov,"['Aleksey Kravchenko', 'Olga Mironova', 'Liubomiras Laucevicius', 'Vladas Bagdonas']",142 min,8.3,-,"66,302",-
+189,Stardust,(2007),"Adventure, Family, Fantasy",Matthew Vaughn,"['Charlie Cox', 'Claire Danes', 'Sienna Miller', 'Ian McKellen']",127 min,7.6,66        ,"261,394",$38.63M
+190,"Three Billboards Outside Ebbing, Missouri",(2017),"Comedy, Crime, Drama",Martin McDonagh,"['Frances McDormand', 'Woody Harrelson', 'Sam Rockwell', 'Caleb Landry Jones']",115 min,8.1,88        ,"460,824",$54.51M
+191,Predator,(1987),"Action, Adventure, Sci-Fi",John McTiernan,"['Arnold Schwarzenegger', 'Carl Weathers', 'Kevin Peter Hall', 'Elpidia Carrillo']",107 min,7.8,45        ,"384,263",$59.74M
+192,American History X,(1998),Drama,Tony Kaye,"['Edward Norton', 'Edward Furlong', ""Beverly D'Angelo"", 'Jennifer Lien']",119 min,8.5,62        ,"1,061,186",$6.72M
+193,The Incredibles,(2004),"Animation, Action, Adventure",Brad Bird,"['Craig T. Nelson', 'Samuel L. Jackson', 'Holly Hunter', 'Jason Lee']",115 min,8.0,90        ,"677,155",$261.44M
+194,The Social Network,(2010),"Biography, Drama",David Fincher,"['Jesse Eisenberg', 'Andrew Garfield', 'Justin Timberlake', 'Rooney Mara']",120 min,7.7,95        ,"649,207",$96.96M
+195,Saw,(2004),"Horror, Mystery, Thriller",James Wan,"['Cary Elwes', 'Leigh Whannell', 'Danny Glover', 'Ken Leung']",103 min,7.6,46        ,"394,052",$56.00M
+196,The Hobbit: The Desolation of Smaug,(2013),"Adventure, Fantasy",Peter Jackson,"['Ian McKellen', 'Martin Freeman', 'Richard Armitage', 'Ken Stott']",161 min,7.8,66        ,"618,183",$258.37M
+197,Vertigo,(1958),"Mystery, Romance, Thriller",Alfred Hitchcock,"['James Stewart', 'Kim Novak', 'Barbara Bel Geddes', 'Tom Helmore']",128 min,8.3,100        ,"378,903",$3.20M
+198,The Intouchables,(2011),"Biography, Comedy, Drama",Olivier Nakache,"['Éric Toledano', 'François Cluzet', 'Omar Sy', 'Anne Le Ny', 'Audrey Fleurot']",112 min,8.5,57        ,"790,003",$13.18M
+199,Atonement,(2007),"Drama, Mystery, Romance",Joe Wright,"['Keira Knightley', 'James McAvoy', 'Brenda Blethyn', 'Saoirse Ronan']",123 min,7.8,85        ,"260,749",$50.93M
+200,The Breakfast Club,(1985),"Comedy, Drama",John Hughes,"['Emilio Estevez', 'Judd Nelson', 'Molly Ringwald', 'Ally Sheedy']",97 min,7.8,66        ,"369,704",$45.88M
+201,Rogue One: A Star Wars Story,(2016),"Action, Adventure, Sci-Fi",Gareth Edwards,"['Felicity Jones', 'Diego Luna', 'Alan Tudyk', 'Donnie Yen']",133 min,7.8,65        ,"576,186",$532.18M
+202,Apocalypto,(2006),"Action, Adventure, Drama",Mel Gibson,"['Gerardo Taracena', 'Raoul Max Trujillo', 'Dalia Hernández', 'Rudy Youngblood']",139 min,7.8,68        ,"298,152",$50.87M
+203,Marriage Story,(2019),"Comedy, Drama, Romance",Noah Baumbach,"['Adam Driver', 'Scarlett Johansson', 'Julia Greer', 'Azhy Robertson']",137 min,7.9,94        ,"268,049",$2.00M
+204,Once Upon a Time in America,(1984),"Crime, Drama",Sergio Leone,"['Robert De Niro', 'James Woods', 'Elizabeth McGovern', 'Treat Williams']",229 min,8.4,-,"324,914",$5.32M
+205,Road to Perdition,(2002),"Crime, Drama, Thriller",Sam Mendes,"['Tom Hanks', 'Tyler Hoechlin', 'Rob Maxey', 'Liam Aiken']",117 min,7.7,72        ,"255,386",$104.45M
+206,V for Vendetta,(2005),"Action, Drama, Sci-Fi",James McTeigue,"['Hugo Weaving', 'Natalie Portman', 'Rupert Graves', 'Stephen Rea']",132 min,8.1,62        ,"1,060,359",$70.51M
+207,The Help,(2011),Drama,Tate Taylor,"['Emma Stone', 'Viola Davis', 'Octavia Spencer', 'Bryce Dallas Howard']",146 min,8.0,62        ,"437,779",$169.71M
+208,Silver Linings Playbook,(2012),"Comedy, Drama, Romance",David O. Russell,"['Bradley Cooper', 'Jennifer Lawrence', 'Robert De Niro', 'Jacki Weaver']",122 min,7.7,81        ,"677,489",$132.09M
+209,Rear Window,(1954),"Mystery, Thriller",Alfred Hitchcock,"['James Stewart', 'Grace Kelly', 'Wendell Corey', 'Thelma Ritter']",112 min,8.5,100        ,"461,246",$36.76M
+210,The Notebook,(2004),"Drama, Romance",Nick Cassavetes,"['Gena Rowlands', 'James Garner', 'Rachel McAdams', 'Ryan Gosling']",123 min,7.8,53        ,"537,094",$81.00M
+211,Harry Potter and the Half-Blood Prince,(2009),"Action, Adventure, Family",David Yates,"['Daniel Radcliffe', 'Emma Watson', 'Rupert Grint', 'Michael Gambon']",153 min,7.6,78        ,"495,215",$301.96M
+212,Life Is Beautiful,(1997),"Comedy, Drama, Romance",Roberto Benigni,"['Roberto Benigni', 'Nicoletta Braschi', 'Giorgio Cantarini', 'Giustino Durano']",116 min,8.6,59        ,"646,807",$57.60M
+213,Psycho,(1960),"Horror, Mystery, Thriller",Alfred Hitchcock,"['Anthony Perkins', 'Janet Leigh', 'Vera Miles', 'John Gavin']",109 min,8.5,97        ,"625,457",$32.00M
+214,For a Few Dollars More,(1965),Western,Sergio Leone,"['Clint Eastwood', 'Lee Van Cleef', 'Gian Maria Volontè', 'Mara Krupp']",132 min,8.2,74        ,"241,164",$15.00M
+215,Your Name.,(2016),"Animation, Drama, Fantasy",Makoto Shinkai,"['Ryûnosuke Kamiki', 'Mone Kamishiraishi', 'Ryô Narita', 'Aoi Yûki']",106 min,8.4,79        ,"219,332",$5.02M
+216,The Thing,(1982),"Horror, Mystery, Sci-Fi",John Carpenter,"['Kurt Russell', 'Wilford Brimley', 'Keith David', 'Richard Masur']",109 min,8.1,57        ,"387,370",$13.78M
+217,The Curious Case of Benjamin Button,(2008),"Drama, Fantasy, Romance",David Fincher,"['Brad Pitt', 'Cate Blanchett', 'Tilda Swinton', 'Julia Ormond']",166 min,7.8,70        ,"609,373",$127.51M
+218,Room,(I) (2015),"Drama, Thriller",Lenny Abrahamson,"['Brie Larson', 'Jacob Tremblay', 'Sean Bridgers', 'Wendy Crewson']",118 min,8.1,86        ,"389,490",$14.68M
+219,A Fistful of Dollars,(1964),"Action, Drama, Western",Sergio Leone,"['Clint Eastwood', 'Gian Maria Volontè', 'Marianne Koch', 'Wolfgang Lukschy']",99 min,8.0,65        ,"204,999",$14.50M
+220,Memories of Murder,(2003),"Crime, Drama, Mystery",Bong Joon Ho,"['Kang-ho Song', 'Kim Sang-kyung', 'Roe-ha Kim', 'Jae-ho Song']",132 min,8.1,82        ,"154,913",$0.01M
+221,Trainspotting,(1996),Drama,Danny Boyle,"['Ewan McGregor', 'Ewen Bremner', 'Jonny Lee Miller', 'Kevin McKidd']",93 min,8.1,83        ,"652,345",$16.50M
+222,Midnight in Paris,(2011),"Comedy, Fantasy, Romance",Woody Allen,"['Owen Wilson', 'Rachel McAdams', 'Kathy Bates', 'Kurt Fuller']",94 min,7.7,81        ,"400,258",$56.82M
+223,Ocean's Eleven,(2001),"Crime, Thriller",Steven Soderbergh,"['George Clooney', 'Brad Pitt', 'Julia Roberts', 'Matt Damon']",116 min,7.7,74        ,"534,769",$183.42M
+224,A Bronx Tale,(1993),"Crime, Drama, Romance",Robert De Niro,"['Robert De Niro', 'Chazz Palminteri', 'Lillo Brancato', 'Francis Capra']",121 min,7.8,80        ,"132,985",$17.27M
+225,The Trial of the Chicago 7,(2020),"Drama, History, Thriller",Aaron Sorkin,"['Eddie Redmayne', 'Alex Sharp', 'Sacha Baron Cohen', 'Jeremy Strong']",129 min,7.8,76        ,"154,517",-
+226,Unforgiven,(1992),"Drama, Western",Clint Eastwood,"['Clint Eastwood', 'Gene Hackman', 'Morgan Freeman', 'Richard Harris']",130 min,8.2,85        ,"388,999",$101.16M
+227,Hell or High Water,(II) (2016),"Action, Crime, Drama",David Mackenzie,"['Chris Pine', 'Ben Foster', 'Jeff Bridges', 'Gil Birmingham']",102 min,7.6,88        ,"212,590",$26.86M
+228,Hot Fuzz,(2007),"Action, Comedy, Mystery",Edgar Wright,"['Simon Pegg', 'Nick Frost', 'Martin Freeman', 'Bill Nighy']",121 min,7.8,81        ,"479,030",$23.64M
+229,Portrait of a Lady on Fire,(2019),"Drama, Romance",Céline Sciamma,"['Noémie Merlant', 'Adèle Haenel', 'Luàna Bajrami', 'Valeria Golino']",122 min,8.1,95        ,"75,074",$3.76M
+230,Man on Fire,(2004),"Action, Crime, Drama",Tony Scott,"['Denzel Washington', 'Christopher Walken', 'Dakota Fanning', 'Radha Mitchell']",146 min,7.7,47        ,"338,197",$77.91M
+231,Cast Away,(2000),"Adventure, Drama, Romance",Robert Zemeckis,"['Tom Hanks', 'Helen Hunt', 'Paul Sanchez', 'Lari White']",143 min,7.8,73        ,"547,250",$233.63M
+232,Gone Baby Gone,(2007),"Crime, Drama, Mystery",Ben Affleck,"['Morgan Freeman', 'Ed Harris', 'Casey Affleck', 'Michelle Monaghan']",114 min,7.6,72        ,"260,340",$20.30M
+233,Incendies,(2010),"Drama, Mystery, War",Denis Villeneuve,"['Lubna Azabal', 'Mélissa Désormeaux-Poulin', 'Maxim Gaudette', 'Mustafa Kamel']",130 min,8.3,80        ,"159,592",$6.86M
+234,Black Hawk Down,(2001),"Drama, History, War",Ridley Scott,"['Josh Hartnett', 'Ewan McGregor', 'Tom Sizemore', 'Eric Bana']",144 min,7.7,74        ,"374,685",$108.64M
+235,Spotlight,(I) (2015),"Biography, Crime, Drama",Tom McCarthy,"['Mark Ruffalo', 'Michael Keaton', 'Rachel McAdams', 'Liev Schreiber']",129 min,8.1,93        ,"438,501",$45.06M
+236,Zootopia,(2016),"Animation, Adventure, Comedy",Byron Howard,"['Rich Moore', 'Jared Bush', 'Ginnifer Goodwin', 'Jason Bateman', 'Idris Elba', 'Jenny Slate']",108 min,8.0,78        ,"454,236",$341.27M
+237,E.T. the Extra-Terrestrial,(1982),"Family, Sci-Fi",Steven Spielberg,"['Henry Thomas', 'Drew Barrymore', 'Peter Coyote', 'Dee Wallace']",115 min,7.8,91        ,"384,974",$435.11M
+238,Star Wars: Episode VII - The Force Awakens,(2015),"Action, Adventure, Sci-Fi",J.J. Abrams,"['Daisy Ridley', 'John Boyega', 'Oscar Isaac', 'Domhnall Gleeson']",138 min,7.8,80        ,"880,807",$936.66M
+239,Wonder,(I) (2017),"Drama, Family",Stephen Chbosky,"['Jacob Tremblay', 'Owen Wilson', 'Izabela Vidovic', 'Julia Roberts']",113 min,8.0,66        ,"151,289",$132.42M
+240,Big Fish,(2003),"Adventure, Drama, Fantasy",Tim Burton,"['Ewan McGregor', 'Albert Finney', 'Billy Crudup', 'Jessica Lange']",125 min,8.0,58        ,"425,636",$66.26M
+241,Warrior,(2011),"Action, Drama, Sport",Gavin O'Connor,"['Tom Hardy', 'Nick Nolte', 'Joel Edgerton', 'Jennifer Morrison']",140 min,8.1,71        ,"447,389",$13.66M
+242,Rush,(I) (2013),"Action, Biography, Drama",Ron Howard,"['Daniel Brühl', 'Chris Hemsworth', 'Olivia Wilde', 'Alexandra Maria Lara']",123 min,8.1,74        ,"449,300",$26.95M
+243,The Imitation Game,(2014),"Biography, Drama, Thriller",Morten Tyldum,"['Benedict Cumberbatch', 'Keira Knightley', 'Matthew Goode', 'Allen Leech']",114 min,8.0,71        ,"711,801",$91.13M
+244,Casino,(1995),"Crime, Drama",Martin Scorsese,"['Robert De Niro', 'Sharon Stone', 'Joe Pesci', 'James Woods']",178 min,8.2,73        ,"484,078",$42.44M
+245,Creed,(II) (2015),"Drama, Sport",Ryan Coogler,"['Michael B. Jordan', 'Sylvester Stallone', 'Tessa Thompson', 'Phylicia Rashad']",133 min,7.6,82        ,"256,233",$109.77M
+246,Brokeback Mountain,(2005),"Drama, Romance",Ang Lee,"['Jake Gyllenhaal', 'Heath Ledger', 'Michelle Williams', 'Randy Quaid']",134 min,7.7,87        ,"335,956",$83.04M
+247,The Machinist,(2004),"Drama, Thriller",Brad Anderson,"['Christian Bale', 'Jennifer Jason Leigh', 'Aitana Sánchez-Gijón', 'John Sharian']",101 min,7.7,61        ,"368,306",$1.08M
+248,Skyfall,(2012),"Action, Adventure, Thriller",Sam Mendes,"['Daniel Craig', 'Javier Bardem', 'Naomie Harris', 'Judi Dench']",143 min,7.7,81        ,"644,897",$304.36M
+249,A Beautiful Mind,(2001),"Biography, Drama",Ron Howard,"['Russell Crowe', 'Ed Harris', 'Jennifer Connelly', 'Christopher Plummer']",135 min,8.2,72        ,"875,745",$170.74M
+250,Kick-Ass,(2010),"Action, Comedy, Crime",Matthew Vaughn,"['Aaron Taylor-Johnson', 'Nicolas Cage', 'Chloë Grace Moretz', 'Garrett M. Brown']",117 min,7.6,66        ,"537,504",$48.07M
+251,Rocky,(1976),"Drama, Sport",John G. Avildsen,"['Sylvester Stallone', 'Talia Shire', 'Burt Young', 'Carl Weathers']",120 min,8.1,70        ,"536,025",$117.24M
+252,Wind River,(2017),"Crime, Drama, Mystery",Taylor Sheridan,"['Elizabeth Olsen', 'Jeremy Renner', 'Graham Greene', 'Kelsey Asbille']",107 min,7.7,73        ,"219,186",$33.80M
+253,Platoon,(1986),"Drama, War",Oliver Stone,"['Charlie Sheen', 'Tom Berenger', 'Willem Dafoe', 'Keith David']",120 min,8.1,92        ,"393,024",$138.53M
+254,Ratatouille,(2007),"Animation, Adventure, Comedy",Brad Bird,"['Jan Pinkava', 'Brad Garrett', 'Lou Romano', 'Patton Oswalt', 'Ian Holm']",111 min,8.0,96        ,"664,908",$206.45M
+255,The Perks of Being a Wallflower,(2012),"Drama, Romance",Stephen Chbosky,"['Logan Lerman', 'Emma Watson', 'Ezra Miller', 'Paul Rudd']",103 min,7.9,67        ,"478,093",$17.74M
+256,Pan's Labyrinth,(2006),"Drama, Fantasy, War",Guillermo del Toro,"['Ivana Baquero', 'Ariadna Gil', 'Sergi López', 'Maribel Verdú']",118 min,8.2,98        ,"635,099",$37.63M
+257,Star Trek Into Darkness,(2013),"Action, Adventure, Sci-Fi",J.J. Abrams,"['Chris Pine', 'Zachary Quinto', 'Zoe Saldana', 'Benedict Cumberbatch']",132 min,7.7,72        ,"470,460",$228.78M
+258,The Fugitive,(1993),"Action, Crime, Drama",Andrew Davis,"['Harrison Ford', 'Tommy Lee Jones', 'Sela Ward', 'Julianne Moore']",130 min,7.8,87        ,"277,056",$183.88M
+259,Indiana Jones and the Last Crusade,(1989),"Action, Adventure",Steven Spielberg,"['Harrison Ford', 'Sean Connery', 'Alison Doody', 'Denholm Elliott']",127 min,8.2,65        ,"712,878",$197.17M
+260,Inside Out,(I) (2015),"Animation, Adventure, Comedy",Pete Docter,"['Ronnie Del Carmen', 'Amy Poehler', 'Bill Hader', 'Lewis Black', 'Mindy Kaling']",95 min,8.1,94        ,"647,118",$356.46M
+261,Argo,(2012),"Biography, Drama, Thriller",Ben Affleck,"['Ben Affleck', 'Bryan Cranston', 'John Goodman', 'Alan Arkin']",120 min,7.7,86        ,"587,606",$136.03M
+262,"Lock, Stock and Two Smoking Barrels",(1998),"Action, Comedy, Crime",Guy Ritchie,"['Jason Flemyng', 'Dexter Fletcher', 'Nick Moran', 'Jason Statham']",107 min,8.2,66        ,"551,856",$3.90M
+263,Chinatown,(1974),"Drama, Mystery, Thriller",Roman Polanski,"['Jack Nicholson', 'Faye Dunaway', 'John Huston', 'Perry Lopez']",130 min,8.2,92        ,"307,029",$8.49M
+264,Shrek,(2001),"Animation, Adventure, Comedy",Andrew Adamson,"['Vicky Jenson', 'Mike Myers', 'Eddie Murphy', 'Cameron Diaz', 'John Lithgow']",90 min,7.9,84        ,"634,998",$267.67M
+265,Dallas Buyers Club,(2013),"Biography, Drama",Jean-Marc Vallée,"['Matthew McConaughey', 'Jennifer Garner', 'Jared Leto', 'Steve Zahn']",117 min,8.0,79        ,"457,837",$27.30M
+266,Deliverance,(1972),"Adventure, Drama, Thriller",John Boorman,"['Jon Voight', 'Burt Reynolds', 'Ned Beatty', 'Ronny Cox']",109 min,7.7,80        ,"102,607",$7.06M
+267,L.A. Confidential,(1997),"Crime, Drama, Mystery",Curtis Hanson,"['Kevin Spacey', 'Russell Crowe', 'Guy Pearce', 'Kim Basinger']",138 min,8.2,90        ,"548,625",$64.62M
+268,Kill Bill: Vol. 2,(2004),"Action, Crime, Thriller",Quentin Tarantino,"['Uma Thurman', 'David Carradine', 'Michael Madsen', 'Daryl Hannah']",137 min,8.0,83        ,"708,533",$66.21M
+269,12 Years a Slave,(2013),"Biography, Drama, History",Steve McQueen,"['Chiwetel Ejiofor', 'Michael Kenneth Williams', 'Michael Fassbender', 'Brad Pitt']",134 min,8.1,96        ,"660,766",$56.67M
+270,Office Space,(1999),Comedy,Mike Judge,"['Ron Livingston', 'Jennifer Aniston', 'David Herman', 'Ajay Naidu']",89 min,7.7,68        ,"250,134",$10.82M
+271,Children of Men,(2006),"Adventure, Drama, Sci-Fi",Alfonso Cuarón,"['Julianne Moore', 'Clive Owen', 'Chiwetel Ejiofor', 'Michael Caine']",109 min,7.9,84        ,"476,987",$35.55M
+272,Minority Report,(2002),"Action, Crime, Mystery",Steven Spielberg,"['Tom Cruise', 'Colin Farrell', 'Samantha Morton', 'Max von Sydow']",145 min,7.6,80        ,"523,604",$132.07M
+273,"Monsters, Inc.",(2001),"Animation, Adventure, Comedy",Pete Docter,"['David Silverman', 'Lee Unkrich', 'Billy Crystal', 'John Goodman', 'Mary Gibbs', 'Steve Buscemi']",92 min,8.1,79        ,"844,717",$289.92M
+274,Dead Poets Society,(1989),"Comedy, Drama",Peter Weir,"['Robin Williams', 'Robert Sean Leonard', 'Ethan Hawke', 'Josh Charles']",128 min,8.1,79        ,"444,876",$95.86M
+275,Back to the Future Part II,(1989),"Adventure, Comedy, Sci-Fi",Robert Zemeckis,"['Michael J. Fox', 'Christopher Lloyd', 'Lea Thompson', 'Thomas F. Wilson']",108 min,7.8,57        ,"497,966",$118.50M
+276,The Godfather: Part III,(1990),"Crime, Drama",Francis Ford Coppola,"['Al Pacino', 'Diane Keaton', 'Andy Garcia', 'Talia Shire']",162 min,7.6,60        ,"372,751",$66.67M
+277,The Invisible Guest,(2016),"Crime, Drama, Mystery",Oriol Paulo,"['Mario Casas', 'Ana Wagener', 'Jose Coronado', 'Bárbara Lennie']",106 min,8.1,-,"157,922",-
+278,Blue Is the Warmest Colour,(2013),"Drama, Romance",Abdellatif Kechiche,"['Léa Seydoux', 'Adèle Exarchopoulos', 'Salim Kechiouche', 'Aurélien Recoing']",180 min,7.7,89        ,"143,379",$2.20M
+279,Fantastic Mr. Fox,(2009),"Animation, Adventure, Comedy",Wes Anderson,"['George Clooney', 'Meryl Streep', 'Bill Murray', 'Jason Schwartzman']",87 min,7.9,83        ,"210,409",$21.00M
+280,Lost in Translation,(2003),"Comedy, Drama",Sofia Coppola,"['Bill Murray', 'Scarlett Johansson', 'Giovanni Ribisi', 'Anna Faris']",102 min,7.7,89        ,"430,092",$44.59M
+281,American Gangster,(2007),"Biography, Crime, Drama",Ridley Scott,"['Denzel Washington', 'Russell Crowe', 'Chiwetel Ejiofor', 'Josh Brolin']",157 min,7.8,76        ,"403,738",$130.16M
+282,Dances with Wolves,(1990),"Adventure, Drama, Western",Kevin Costner,"['Kevin Costner', 'Mary McDonnell', 'Graham Greene', 'Rodney A. Grant']",181 min,8.0,72        ,"248,774",$184.21M
+283,Finding Nemo,(2003),"Animation, Adventure, Comedy",Andrew Stanton,"['Lee Unkrich', 'Albert Brooks', 'Ellen DeGeneres', 'Alexander Gould', 'Willem Dafoe']",100 min,8.1,90        ,"977,770",$380.84M
+284,The Graduate,(1967),"Comedy, Drama, Romance",Mike Nichols,"['Dustin Hoffman', 'Anne Bancroft', 'Katharine Ross', 'William Daniels']",106 min,8.0,83        ,"261,280",$104.95M
+285,Airplane!,(1980),Comedy,Jim Abrahams,"['David Zucker', 'Jerry Zucker', 'Robert Hays', 'Julie Hagerty', 'Leslie Nielsen', 'Kareem Abdul-Jabbar']",88 min,7.7,78        ,"222,977",$83.40M
+286,Howl's Moving Castle,(2004),"Animation, Adventure, Family",Hayao Miyazaki,"['Chieko Baishô', 'Takuya Kimura', 'Tatsuya Gashûin', 'Akihiro Miwa']",119 min,8.2,80        ,"353,158",$4.71M
+287,Willy Wonka & the Chocolate Factory,(1971),"Family, Fantasy, Musical",Mel Stuart,"['Gene Wilder', 'Jack Albertson', 'Peter Ostrum', 'Roy Kinnear']",100 min,7.8,67        ,"186,973",$4.00M
+288,Halloween,(1978),"Horror, Thriller",John Carpenter,"['Donald Pleasence', 'Jamie Lee Curtis', 'Tony Moran', 'Nancy Kyes']",91 min,7.7,87        ,"241,427",$47.00M
+289,Amadeus,(1984),"Biography, Drama, History",Milos Forman,"['F. Murray Abraham', 'Tom Hulce', 'Elizabeth Berridge', 'Roy Dotrice']",160 min,8.3,88        ,"379,853",$51.97M
+290,Lion,(2016),"Biography, Drama",Garth Davis,"['Dev Patel', 'Nicole Kidman', 'Rooney Mara', 'Sunny Pawar']",118 min,8.0,69        ,"223,043",$51.74M
+291,Little Miss Sunshine,(2006),"Comedy, Drama",Jonathan Dayton,"['Valerie Faris', 'Steve Carell', 'Toni Collette', 'Greg Kinnear', 'Abigail Breslin']",101 min,7.8,80        ,"452,327",$59.89M
+292,Inside Man,(2006),"Crime, Drama, Mystery",Spike Lee,"['Denzel Washington', 'Clive Owen', 'Jodie Foster', 'Christopher Plummer']",129 min,7.6,76        ,"351,951",$88.51M
+293,Moonrise Kingdom,(2012),"Comedy, Drama, Romance",Wes Anderson,"['Jared Gilman', 'Kara Hayward', 'Bruce Willis', 'Bill Murray']",94 min,7.8,84        ,"329,499",$45.51M
+294,Amélie,(2001),"Comedy, Romance",Jean-Pierre Jeunet,"['Audrey Tautou', 'Mathieu Kassovitz', 'Rufus', 'Lorella Cravotta']",122 min,8.3,69        ,"720,994",$33.23M
+295,Taken,(I) (2008),"Action, Crime, Thriller",Pierre Morel,"['Liam Neeson', 'Maggie Grace', 'Famke Janssen', 'Leland Orser']",90 min,7.8,51        ,"577,683",$145.00M
+296,Blazing Saddles,(1974),"Comedy, Western",Mel Brooks,"['Cleavon Little', 'Gene Wilder', 'Slim Pickens', 'Harvey Korman']",93 min,7.7,73        ,"130,640",$119.50M
+297,The Sound of Music,(1965),"Biography, Drama, Family",Robert Wise,"['Julie Andrews', 'Christopher Plummer', 'Eleanor Parker', 'Richard Haydn']",172 min,8.0,63        ,"214,780",$163.21M
+298,Slumdog Millionaire,(2008),"Drama, Romance",Danny Boyle,"['Loveleen Tandan', 'Dev Patel', 'Freida Pinto', 'Saurabh Shukla', 'Anil Kapoor']",120 min,8.0,84        ,"815,018",$141.32M
+299,Toy Story,(1995),"Animation, Adventure, Comedy",John Lasseter,"['Tom Hanks', 'Tim Allen', 'Don Rickles', 'Jim Varney']",81 min,8.3,95        ,"920,083",$191.80M
+300,The Warriors,(1979),"Action, Crime, Thriller",Walter Hill,"['Michael Beck', 'James Remar', 'Dorsey Wright', 'Brian Tyler']",92 min,7.6,65        ,"97,148",$22.49M
+301,X-Men: First Class,(2011),"Action, Adventure, Sci-Fi",Matthew Vaughn,"['James McAvoy', 'Michael Fassbender', 'Jennifer Lawrence', 'Kevin Bacon']",131 min,7.7,65        ,"660,043",$146.41M
+302,What's Eating Gilbert Grape,(1993),Drama,Lasse Hallström,"['Johnny Depp', 'Leonardo DiCaprio', 'Juliette Lewis', 'Mary Steenburgen']",118 min,7.7,73        ,"223,832",$9.17M
+303,The Wizard of Oz,(1939),"Adventure, Family, Fantasy",Victor Fleming,"['George Cukor', 'Mervyn LeRoy', 'Norman Taurog', 'Richard Thorpe', 'King Vidor', 'Judy Garland', 'Frank Morgan', 'Ray Bolger', 'Bert Lahr']",102 min,8.0,92        ,"378,253",$2.08M
+304,Million Dollar Baby,(2004),"Drama, Sport",Clint Eastwood,"['Hilary Swank', 'Clint Eastwood', 'Morgan Freeman', 'Jay Baruchel']",132 min,8.1,86        ,"653,840",$100.49M
+305,Casablanca,(1942),"Drama, Romance, War",Michael Curtiz,"['Humphrey Bogart', 'Ingrid Bergman', 'Paul Henreid', 'Claude Rains']",102 min,8.5,100        ,"539,183",$1.02M
+306,Train to Busan,(2016),"Action, Horror, Thriller",Sang-ho Yeon,"['Gong Yoo', 'Yu-mi Jung', 'Ma Dong-seok', 'Su-an Kim']",118 min,7.6,72        ,"183,298",$2.13M
+307,Capernaum,(2018),Drama,Nadine Labaki,"['Zain Al Rafeea', 'Yordanos Shiferaw', 'Boluwatife Treasure Bankole', 'Kawsar Al Haddad']",126 min,8.4,75        ,"72,770",$1.66M
+308,500 Days of Summer,(2009),"Comedy, Drama, Romance",Marc Webb,"['Zooey Deschanel', 'Joseph Gordon-Levitt', 'Geoffrey Arend', 'Chloë Grace Moretz']",95 min,7.7,76        ,"485,489",$32.39M
+309,The Peanut Butter Falcon,(2019),"Adventure, Comedy, Drama",Tyler Nilson,"['Michael Schwartz', 'Zack Gottsagen', 'Ann Owens', 'Dakota Johnson', 'Bruce Dern']",97 min,7.6,70        ,"78,496",$13.12M
+310,"O Brother, Where Art Thou?",(2000),"Adventure, Comedy, Crime",Joel Coen,"['Ethan Coen', 'George Clooney', 'John Turturro', 'Tim Blake Nelson', 'John Goodman']",107 min,7.7,69        ,"296,778",$45.51M
+311,Star Wars: Episode VI - Return of the Jedi,(1983),"Action, Adventure, Fantasy",Richard Marquand,"['Mark Hamill', 'Harrison Ford', 'Carrie Fisher', 'Billy Dee Williams']",131 min,8.3,58        ,"980,031",$309.13M
+312,Before Sunrise,(1995),"Drama, Romance",Richard Linklater,"['Ethan Hawke', 'Julie Delpy', 'Andrea Eckert', 'Hanno Pöschl']",101 min,8.1,77        ,"284,269",$5.54M
+313,District 9,(2009),"Action, Sci-Fi, Thriller",Neill Blomkamp,"['Sharlto Copley', 'David James', 'Jason Cope', 'Nathalie Boltt']",112 min,7.9,81        ,"651,721",$115.65M
+314,Star Wars: Episode V - The Empire Strikes Back,(1980),"Action, Adventure, Fantasy",Irvin Kershner,"['Mark Hamill', 'Harrison Ford', 'Carrie Fisher', 'Billy Dee Williams']",124 min,8.7,82        ,"1,196,870",$290.48M
+315,Birdman or (The Unexpected Virtue of Ignorance),(2014),"Comedy, Drama",Alejandro G. Iñárritu,"['Michael Keaton', 'Zach Galifianakis', 'Edward Norton', 'Andrea Riseborough']",119 min,7.7,87        ,"597,589",$42.34M
+316,Training Day,(2001),"Crime, Drama, Thriller",Antoine Fuqua,"['Denzel Washington', 'Ethan Hawke', 'Scott Glenn', 'Tom Berenger']",122 min,7.7,69        ,"406,045",$76.63M
+317,Sherlock Holmes,(2009),"Action, Adventure, Mystery",Guy Ritchie,"['Robert Downey Jr.', 'Jude Law', 'Rachel McAdams', 'Mark Strong']",128 min,7.6,57        ,"599,358",$209.03M
+318,Manchester by the Sea,(2016),Drama,Kenneth Lonergan,"['Casey Affleck', 'Michelle Williams', 'Kyle Chandler', 'Lucas Hedges']",137 min,7.8,96        ,"259,162",$47.70M
+319,The Longest Day,(1962),"Action, Drama, History",Ken Annakin,"['Andrew Marton', 'Gerd Oswald', 'Bernhard Wicki', 'Darryl F. Zanuck', 'John Wayne', 'Robert Ryan', 'Richard Burton', 'Henry Fonda']",178 min,7.8,75        ,"53,627",$39.10M
+320,Toy Story 4,(2019),"Animation, Adventure, Comedy",Josh Cooley,"['Tom Hanks', 'Tim Allen', 'Annie Potts', 'Tony Hale']",100 min,7.7,84        ,"219,527",$434.04M
+321,Tangled,(2010),"Animation, Adventure, Comedy",Nathan Greno,"['Byron Howard', 'Mandy Moore', 'Zachary Levi', 'Donna Murphy', 'Ron Perlman']",100 min,7.7,71        ,"419,941",$200.82M
+322,My Fair Lady,(1964),"Drama, Family, Musical",George Cukor,"['Audrey Hepburn', 'Rex Harrison', 'Stanley Holloway', 'Wilfrid Hyde-White']",170 min,7.8,95        ,"90,039",$72.00M
+323,3 Idiots,(2009),"Comedy, Drama",Rajkumar Hirani,"['Aamir Khan', 'Madhavan', 'Mona Singh', 'Sharman Joshi']",170 min,8.4,67        ,"363,629",$6.53M
+324,Serenity,(2005),"Action, Adventure, Sci-Fi",Joss Whedon,"['Nathan Fillion', 'Gina Torres', 'Chiwetel Ejiofor', 'Alan Tudyk']",119 min,7.8,74        ,"288,244",$25.51M
+325,Zombieland,(2009),"Adventure, Comedy, Fantasy",Ruben Fleischer,"['Jesse Eisenberg', 'Emma Stone', 'Woody Harrelson', 'Abigail Breslin']",88 min,7.6,73        ,"537,921",$75.59M
+326,The Untouchables,(1987),"Crime, Drama, Thriller",Brian De Palma,"['Kevin Costner', 'Sean Connery', 'Robert De Niro', 'Charles Martin Smith']",119 min,7.9,79        ,"292,679",$76.27M
+327,Changeling,(2008),"Biography, Crime, Drama",Clint Eastwood,"['Angelina Jolie', 'Colm Feore', 'Amy Ryan', 'Gattlin Griffith']",141 min,7.7,63        ,"245,499",$35.74M
+328,First Blood,(1982),"Action, Adventure",Ted Kotcheff,"['Sylvester Stallone', 'Brian Dennehy', 'Richard Crenna', 'Bill McKinney']",93 min,7.7,61        ,"236,235",$47.21M
+329,Up,(2009),"Animation, Adventure, Comedy",Pete Docter,"['Bob Peterson', 'Edward Asner', 'Jordan Nagai', 'John Ratzenberger', 'Christopher Plummer']",96 min,8.2,88        ,"968,089",$293.00M
+330,The Bourne Identity,(2002),"Action, Mystery, Thriller",Doug Liman,"['Franka Potente', 'Matt Damon', 'Chris Cooper', 'Clive Owen']",119 min,7.9,68        ,"521,548",$121.66M
+331,The Royal Tenenbaums,(2001),"Comedy, Drama",Wes Anderson,"['Gene Hackman', 'Gwyneth Paltrow', 'Anjelica Huston', 'Ben Stiller']",110 min,7.6,76        ,"275,025",$52.36M
+332,X-Men: Days of Future Past,(2014),"Action, Adventure, Sci-Fi",Bryan Singer,"['Patrick Stewart', 'Ian McKellen', 'Hugh Jackman', 'James McAvoy']",132 min,7.9,75        ,"676,493",$233.92M
+333,Flipped,(I) (2010),"Comedy, Drama, Romance",Rob Reiner,"['Madeline Carroll', 'Callan McAuliffe', 'Rebecca De Mornay', 'Anthony Edwards']",90 min,7.7,45        ,"85,603",$1.75M
+334,Cool Hand Luke,(1967),"Crime, Drama",Stuart Rosenberg,"['Paul Newman', 'George Kennedy', 'Strother Martin', 'J.D. Cannon']",127 min,8.1,92        ,"168,883",$16.22M
+335,Remember the Titans,(2000),"Biography, Drama, Sport",Boaz Yakin,"['Denzel Washington', 'Will Patton', 'Wood Harris', 'Ryan Hurst']",113 min,7.8,48        ,"203,549",$115.65M
+336,Scent of a Woman,(1992),Drama,Martin Brest,"['Al Pacino', ""Chris O'Donnell"", 'James Rebhorn', 'Gabrielle Anwar']",156 min,8.0,59        ,"276,366",$63.90M
+337,Only the Brave,(2017),"Action, Biography, Drama",Joseph Kosinski,"['Josh Brolin', 'Miles Teller', 'Jeff Bridges', 'Jennifer Connelly']",134 min,7.6,72        ,"62,596",$18.34M
+338,Incredibles 2,(2018),"Animation, Action, Adventure",Brad Bird,"['Craig T. Nelson', 'Holly Hunter', 'Sarah Vowell', 'Huck Milner']",118 min,7.6,80        ,"265,877",$608.58M
+339,Misery,(1990),"Drama, Thriller",Rob Reiner,"['James Caan', 'Kathy Bates', 'Richard Farnsworth', 'Frances Sternhagen']",107 min,7.8,75        ,"193,778",$61.28M
+340,Blue Velvet,(1986),"Drama, Mystery, Thriller",David Lynch,"['Isabella Rossellini', 'Kyle MacLachlan', 'Dennis Hopper', 'Laura Dern']",120 min,7.7,76        ,"187,687",$8.55M
+341,Who Framed Roger Rabbit,(1988),"Animation, Adventure, Comedy",Robert Zemeckis,"['Bob Hoskins', 'Christopher Lloyd', 'Joanna Cassidy', 'Charles Fleischer']",104 min,7.7,83        ,"189,490",$156.45M
+342,Out of the Past,(1947),"Crime, Drama, Film-Noir",Jacques Tourneur,"['Robert Mitchum', 'Jane Greer', 'Kirk Douglas', 'Rhonda Fleming']",97 min,8.0,-,"34,664",-
+343,Hidden Figures,(2016),"Biography, Drama, History",Theodore Melfi,"['Taraji P. Henson', 'Octavia Spencer', 'Janelle Monáe', 'Kevin Costner']",127 min,7.8,74        ,"210,425",$169.61M
+344,Seven Samurai,(1954),"Action, Adventure, Drama",Akira Kurosawa,"['Toshirô Mifune', 'Takashi Shimura', 'Keiko Tsushima', 'Yukiko Shimazaki']",207 min,8.6,98        ,"326,451",$0.27M
+345,Gone with the Wind,(1939),"Drama, History, Romance",Victor Fleming,"['George Cukor', 'Sam Wood', 'Clark Gable', 'Vivien Leigh', 'Thomas Mitchell', ""Barbara O'Neil""]",238 min,8.1,97        ,"299,685",$198.68M
+346,The Magnificent Seven,(1960),"Action, Adventure, Western",John Sturges,"['Yul Brynner', 'Steve McQueen', 'Charles Bronson', 'Eli Wallach']",128 min,7.7,74        ,"90,761",$4.91M
+347,My Cousin Vinny,(1992),"Comedy, Crime",Jonathan Lynn,"['Joe Pesci', 'Marisa Tomei', 'Ralph Macchio', 'Mitchell Whitfield']",120 min,7.6,68        ,"113,207",$52.93M
+348,Y Tu Mamá También,(2001),Drama,Alfonso Cuarón,"['Maribel Verdú', 'Gael García Bernal', 'Daniel Giménez Cacho', 'Ana López Mercado']",106 min,7.6,88        ,"118,750",$13.62M
+349,Rain Man,(1988),Drama,Barry Levinson,"['Dustin Hoffman', 'Tom Cruise', 'Valeria Golino', 'Gerald R. Molen']",133 min,8.0,65        ,"487,641",$178.80M
+350,Crash,(I) (2004),"Crime, Drama, Thriller",Paul Haggis,"['Don Cheadle', 'Sandra Bullock', 'Thandiwe Newton', 'Karina Arroyave']",112 min,7.7,66        ,"426,200",$54.58M
+351,The Thin Red Line,(1998),"Drama, War",Terrence Malick,"['Jim Caviezel', 'Sean Penn', 'Nick Nolte', 'Kirk Acevedo']",170 min,7.6,78        ,"179,152",$36.40M
+352,Hunt for the Wilderpeople,(2016),"Adventure, Comedy, Drama",Taika Waititi,"['Sam Neill', 'Julian Dennison', 'Rima Te Wiata', 'Rachel House']",101 min,7.9,81        ,"118,791",$5.20M
+353,Isle of Dogs,(2018),"Animation, Adventure, Comedy",Wes Anderson,"['Bryan Cranston', 'Koyu Rankin', 'Edward Norton', 'Bob Balaban']",101 min,7.9,82        ,"149,256",$32.02M
+354,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,(1964),Comedy,Stanley Kubrick,"['Peter Sellers', 'George C. Scott', 'Sterling Hayden', 'Keenan Wynn']",95 min,8.4,97        ,"464,794",$0.28M
+355,Dark Waters,(2019),"Biography, Drama, History",Todd Haynes,"['Mark Ruffalo', 'Anne Hathaway', 'Tim Robbins', 'Bill Pullman']",126 min,7.6,73        ,"71,057",-
+356,Boyz n the Hood,(1991),"Crime, Drama",John Singleton,"['Cuba Gooding Jr.', 'Laurence Fishburne', 'Hudhail Al-Amir', 'Lloyd Avery II']",112 min,7.8,76        ,"131,776",$57.50M
+357,Shaun of the Dead,(2004),"Comedy, Horror",Edgar Wright,"['Simon Pegg', 'Nick Frost', 'Kate Ashfield', 'Lucy Davis']",99 min,7.9,76        ,"527,859",$13.54M
+358,Fear and Loathing in Las Vegas,(1998),"Adventure, Comedy, Drama",Terry Gilliam,"['Johnny Depp', 'Benicio Del Toro', 'Tobey Maguire', 'Michael Lee Gogin']",118 min,7.6,41        ,"267,195",$10.68M
+359,WALL·E,(2008),"Animation, Adventure, Family",Andrew Stanton,"['Ben Burtt', 'Elissa Knight', 'Jeff Garlin', 'Fred Willard']",98 min,8.4,95        ,"1,034,795",$223.81M
+360,Once Upon a Time in the West,(1968),Western,Sergio Leone,"['Henry Fonda', 'Charles Bronson', 'Claudia Cardinale', 'Jason Robards']",165 min,8.5,80        ,"312,118",$5.32M
+361,The Boondock Saints,(1999),"Action, Crime, Thriller",Troy Duffy,"['Willem Dafoe', 'Sean Patrick Flanery', 'Norman Reedus', 'David Della Rocco']",108 min,7.7,44        ,"231,788",$0.03M
+362,The African Queen,(1951),"Adventure, Drama, Romance",John Huston,"['Humphrey Bogart', 'Katharine Hepburn', 'Robert Morley', 'Peter Bull']",105 min,7.8,91        ,"75,409",$0.54M
+363,The Lives of Others,(2006),"Drama, Mystery, Thriller",Florian Henckel von Donnersmarck,"['Ulrich Mühe', 'Martina Gedeck', 'Sebastian Koch', 'Ulrich Tukur']",137 min,8.4,89        ,"370,129",$11.29M
+364,In Bruges,(2008),"Comedy, Crime, Drama",Martin McDonagh,"['Colin Farrell', 'Brendan Gleeson', 'Ciarán Hinds', 'Elizabeth Berrington']",107 min,7.9,67        ,"400,324",$7.76M
+365,Life of Pi,(2012),"Adventure, Drama, Fantasy",Ang Lee,"['Suraj Sharma', 'Irrfan Khan', 'Adil Hussain', 'Tabu']",127 min,7.9,79        ,"596,796",$124.99M
+366,As Good as It Gets,(1997),"Comedy, Drama, Romance",James L. Brooks,"['Jack Nicholson', 'Helen Hunt', 'Greg Kinnear', 'Cuba Gooding Jr.']",139 min,7.7,67        ,"285,079",$148.48M
+367,Princess Mononoke,(1997),"Animation, Action, Adventure",Hayao Miyazaki,"['Yôji Matsuda', 'Yuriko Ishida', 'Yûko Tanaka', 'Billy Crudup']",134 min,8.4,76        ,"361,084",$2.38M
+368,Coraline,(2009),"Animation, Drama, Family",Henry Selick,"['Dakota Fanning', 'Teri Hatcher', 'John Hodgman', 'Jennifer Saunders']",100 min,7.7,80        ,"206,196",$75.29M
+369,In the Mood for Love,(2000),"Drama, Romance",Kar-Wai Wong,"['Tony Chiu-Wai Leung', 'Maggie Cheung', 'Siu Ping-Lam', ""Tung Cho 'Joe' Cheung""]",98 min,8.1,85        ,"134,388",$2.73M
+370,Barry Lyndon,(1975),"Adventure, Drama, History",Stanley Kubrick,"[""Ryan O'Neal"", 'Marisa Berenson', 'Patrick Magee', 'Hardy Krüger']",185 min,8.1,89        ,"156,584",-
+371,Moon,(2009),"Drama, Mystery, Sci-Fi",Duncan Jones,"['Sam Rockwell', 'Kevin Spacey', 'Dominique McElligott', 'Rosie Shaw']",97 min,7.8,67        ,"343,727",$5.01M
+372,Edward Scissorhands,(1990),"Drama, Fantasy, Romance",Tim Burton,"['Johnny Depp', 'Winona Ryder', 'Dianne Wiest', 'Anthony Michael Hall']",105 min,7.9,74        ,"458,434",$56.36M
+373,The French Connection,(1971),"Action, Crime, Drama",William Friedkin,"['Gene Hackman', 'Roy Scheider', 'Fernando Rey', 'Tony Lo Bianco']",104 min,7.7,94        ,"114,962",$15.63M
+374,How to Train Your Dragon,(2010),"Animation, Action, Adventure",Dean DeBlois,"['Chris Sanders', 'Jay Baruchel', 'Gerard Butler', 'Christopher Mintz-Plasse', 'Craig Ferguson']",98 min,8.1,75        ,"688,907",$217.58M
+375,The Last Picture Show,(1971),"Drama, Romance",Peter Bogdanovich,"['Timothy Bottoms', 'Jeff Bridges', 'Cybill Shepherd', 'Ben Johnson']",118 min,8.0,93        ,"44,705",$29.13M
+376,Rosemary's Baby,(1968),"Drama, Horror",Roman Polanski,"['Mia Farrow', 'John Cassavetes', 'Ruth Gordon', 'Sidney Blackmer']",137 min,8.0,96        ,"202,305",-
+377,The Blind Side,(2009),"Biography, Drama, Sport",John Lee Hancock,"['Quinton Aaron', 'Sandra Bullock', 'Tim McGraw', 'Jae Head']",129 min,7.6,53        ,"304,839",$255.96M
+378,12 Monkeys,(1995),"Mystery, Sci-Fi, Thriller",Terry Gilliam,"['Bruce Willis', 'Madeleine Stowe', 'Brad Pitt', 'Joseph Melito']",129 min,8.0,74        ,"593,555",$57.14M
+379,The Last Samurai,(2003),"Action, Drama",Edward Zwick,"['Tom Cruise', 'Ken Watanabe', 'Billy Connolly', 'William Atherton']",154 min,7.7,55        ,"412,640",$111.11M
+380,Die Hard with a Vengeance,(1995),"Action, Adventure, Thriller",John McTiernan,"['Bruce Willis', 'Jeremy Irons', 'Samuel L. Jackson', 'Graham Greene']",128 min,7.6,58        ,"371,959",$100.01M
+381,Monty Python and the Holy Grail,(1975),"Adventure, Comedy, Fantasy",Terry Gilliam,"['Terry Jones', 'Graham Chapman', 'John Cleese', 'Eric Idle', 'Terry Gilliam']",91 min,8.2,91        ,"514,711",$1.23M
+382,The Butterfly Effect,(2004),"Drama, Sci-Fi, Thriller",Eric Bress,"['J. Mackye Gruber', 'Ashton Kutcher', 'Amy Smart', 'Melora Walters', 'Elden Henson']",113 min,7.6,30        ,"463,930",$57.94M
+383,Downfall,(2004),"Biography, Drama, History",Oliver Hirschbiegel,"['Bruno Ganz', 'Alexandra Maria Lara', 'Ulrich Matthes', 'Juliane Köhler']",156 min,8.2,82        ,"340,048",$5.51M
+384,Mary Poppins,(1964),"Comedy, Family, Fantasy",Robert Stevenson,"['Julie Andrews', 'Dick Van Dyke', 'David Tomlinson', 'Glynis Johns']",139 min,7.8,88        ,"162,669",$102.27M
+385,The Outlaw Josey Wales,(1976),Western,Clint Eastwood,"['Clint Eastwood', 'Sondra Locke', 'Chief Dan George', 'Bill McKinney']",135 min,7.8,69        ,"68,861",$31.80M
+386,This Is England,(2006),"Crime, Drama",Shane Meadows,"['Thomas Turgoose', 'Stephen Graham', 'Jo Hartley', 'Andrew Shim']",101 min,7.7,86        ,"118,230",$0.33M
+387,True Grit,(2010),"Drama, Western",Ethan Coen,"['Joel Coen', 'Jeff Bridges', 'Matt Damon', 'Hailee Steinfeld', 'Josh Brolin']",110 min,7.6,80        ,"321,124",$171.24M
+388,Grave of the Fireflies,(1988),"Animation, Drama, War",Isao Takahata,"['Tsutomu Tatsumi', 'Ayano Shiraishi', 'Akemi Yamaguchi', 'Yoshiko Shinohara']",89 min,8.5,94        ,"249,414",-
+389,The Count of Monte Cristo,(2002),"Action, Adventure, Drama",Kevin Reynolds,"['Jim Caviezel', 'Guy Pearce', 'Christopher Adamson', 'JB Blanc']",131 min,7.7,61        ,"132,375",$54.23M
+390,Big Hero 6,(2014),"Animation, Action, Adventure",Don Hall,"['Chris Williams', 'Ryan Potter', 'Scott Adsit', 'Jamie Chung', 'T.J. Miller']",102 min,7.8,74        ,"426,262",$222.53M
+391,Das Boot,(1981),"Adventure, Drama, Thriller",Wolfgang Petersen,"['Jürgen Prochnow', 'Herbert Grönemeyer', 'Klaus Wennemann', 'Hubertus Bengsch']",149 min,8.3,86        ,"238,888",$11.49M
+392,The Florida Project,(2017),Drama,Sean Baker,"['Brooklynn Prince', 'Bria Vinaite', 'Willem Dafoe', 'Christopher Rivera']",111 min,7.6,92        ,"102,085",$5.90M
+393,The Pursuit of Happyness,(2006),"Biography, Drama",Gabriele Muccino,"['Will Smith', 'Thandiwe Newton', 'Jaden Smith', 'Brian Howe']",117 min,8.0,64        ,"468,656",$163.57M
+394,Clerks,(1994),Comedy,Kevin Smith,"[""Brian O'Halloran"", 'Jeff Anderson', 'Marilyn Ghigliotti', 'Lisa Spoonauer']",92 min,7.7,70        ,"215,553",$3.15M
+395,Singin' in the Rain,(1952),"Comedy, Musical, Romance",Stanley Donen,"['Gene Kelly', 'Gene Kelly', ""Donald O'Connor"", 'Debbie Reynolds', 'Jean Hagen']",103 min,8.3,99        ,"226,859",$8.82M
+396,Aladdin,(1992),"Animation, Adventure, Comedy",Ron Clements,"['John Musker', 'Scott Weinger', 'Robin Williams', 'Linda Larkin', 'Jonathan Freeman']",90 min,8.0,86        ,"384,550",$217.35M
+397,Eastern Promises,(2007),"Action, Crime, Drama",David Cronenberg,"['Naomi Watts', 'Viggo Mortensen', 'Armin Mueller-Stahl', 'Josef Altin']",100 min,7.6,82        ,"233,473",$17.11M
+398,Groundhog Day,(1993),"Comedy, Fantasy, Romance",Harold Ramis,"['Bill Murray', 'Andie MacDowell', 'Chris Elliott', 'Stephen Tobolowsky']",101 min,8.0,72        ,"593,379",$70.91M
+399,Citizen Kane,(1941),"Drama, Mystery",Orson Welles,"['Orson Welles', 'Joseph Cotten', 'Dorothy Comingore', 'Agnes Moorehead']",119 min,8.3,100        ,"419,481",$1.59M
+400,The Fault in Our Stars,(2014),"Drama, Romance",Josh Boone,"['Shailene Woodley', 'Ansel Elgort', 'Nat Wolff', 'Laura Dern']",126 min,7.7,69        ,"354,635",$124.87M
+401,Captain Phillips,(2013),"Adventure, Biography, Crime",Paul Greengrass,"['Tom Hanks', 'Barkhad Abdi', 'Barkhad Abdirahman', 'Catherine Keener']",134 min,7.8,82        ,"435,085",$107.10M
+402,The Blues Brothers,(1980),"Action, Adventure, Comedy",John Landis,"['John Belushi', 'Dan Aykroyd', 'Cab Calloway', 'John Candy']",133 min,7.9,60        ,"188,976",$57.23M
+403,Sense and Sensibility,(1995),"Drama, Romance",Ang Lee,"['Emma Thompson', 'Kate Winslet', 'James Fleet', 'Tom Wilkinson']",136 min,7.7,84        ,"108,212",$43.18M
+404,Dark City,(1998),"Fantasy, Mystery, Sci-Fi",Alex Proyas,"['Rufus Sewell', 'Kiefer Sutherland', 'Jennifer Connelly', 'William Hurt']",100 min,7.6,66        ,"192,595",$14.38M
+405,Mr. Nobody,(2009),"Drama, Fantasy, Romance",Jaco Van Dormael,"['Jared Leto', 'Sarah Polley', 'Diane Kruger', 'Linh Dan Pham']",141 min,7.8,63        ,"222,728",$0.00M
+406,The Skin I Live In,(2011),"Drama, Horror, Thriller",Pedro Almodóvar,"['Antonio Banderas', 'Elena Anaya', 'Jan Cornet', 'Marisa Paredes']",120 min,7.6,70        ,"144,076",$3.19M
+407,I Saw the Devil,(2010),"Action, Crime, Drama",Jee-woon Kim,"['Lee Byung-hun', 'Choi Min-sik', 'Jeon Gook-hwan', 'Ho-jin Chun']",144 min,7.8,67        ,"118,128",$0.13M
+408,Bridge of Spies,(2015),"Drama, History, Thriller",Steven Spielberg,"['Tom Hanks', 'Mark Rylance', 'Alan Alda', 'Amy Ryan']",142 min,7.6,81        ,"297,251",$72.31M
+409,It's a Wonderful Life,(1946),"Drama, Family, Fantasy",Frank Capra,"['James Stewart', 'Donna Reed', 'Lionel Barrymore', 'Thomas Mitchell']",130 min,8.6,89        ,"419,458",-
+410,Planet of the Apes,(1968),"Adventure, Sci-Fi",Franklin J. Schaffner,"['Charlton Heston', 'Roddy McDowall', 'Kim Hunter', 'Maurice Evans']",112 min,8.0,79        ,"171,278",$33.40M
+411,Wreck-It Ralph,(2012),"Animation, Adventure, Comedy",Rich Moore,"['John C. Reilly', 'Jack McBrayer', 'Jane Lynch', 'Sarah Silverman']",101 min,7.7,72        ,"393,144",$189.42M
+412,Lawrence of Arabia,(1962),"Adventure, Biography, Drama",David Lean,"[""Peter O'Toole"", 'Alec Guinness', 'Anthony Quinn', 'Jack Hawkins']",228 min,8.3,100        ,"277,583",$44.82M
+413,Close Encounters of the Third Kind,(1977),"Drama, Sci-Fi",Steven Spielberg,"['Richard Dreyfuss', 'François Truffaut', 'Teri Garr', 'Melinda Dillon']",138 min,7.6,90        ,"190,844",$132.09M
+414,Raging Bull,(1980),"Biography, Drama, Sport",Martin Scorsese,"['Robert De Niro', 'Cathy Moriarty', 'Joe Pesci', 'Frank Vincent']",129 min,8.2,89        ,"333,318",$23.38M
+415,Mad Max 2,(1981),"Action, Adventure, Sci-Fi",George Miller,"['Mel Gibson', 'Bruce Spence', 'Michael Preston', 'Max Phipps']",96 min,7.6,77        ,"171,486",$12.47M
+416,Mulan,(1998),"Animation, Adventure, Family",Tony Bancroft,"['Barry Cook', 'Ming-Na Wen', 'Eddie Murphy', 'BD Wong', 'Miguel Ferrer']",88 min,7.6,71        ,"266,679",$120.62M
+417,Akira,(1988),"Animation, Action, Drama",Katsuhiro Ôtomo,"['Mitsuo Iwata', 'Nozomu Sasaki', 'Mami Koyama', 'Tesshô Genda']",124 min,8.0,-,"172,337",$0.55M
+418,Gravity,(2013),"Drama, Sci-Fi, Thriller",Alfonso Cuarón,"['Sandra Bullock', 'George Clooney', 'Ed Harris', 'Orto Ignatiussen']",91 min,7.7,96        ,"787,627",$274.09M
+419,The Fighter,(I) (2010),"Biography, Drama, Sport",David O. Russell,"['Mark Wahlberg', 'Christian Bale', 'Amy Adams', 'Melissa Leo']",116 min,7.8,79        ,"349,583",$93.62M
+420,Just Mercy,(2019),"Biography, Crime, Drama",Destin Daniel Cretton,"['Michael B. Jordan', 'Jamie Foxx', 'Brie Larson', 'Charlie Pye Jr.']",137 min,7.6,68        ,"54,355",-
+421,The Theory of Everything,(2014),"Biography, Drama, Romance",James Marsh,"['Eddie Redmayne', 'Felicity Jones', 'Tom Prior', 'Sophie Perry']",123 min,7.7,71        ,"420,282",$35.89M
+422,Gattaca,(1997),"Drama, Sci-Fi, Thriller",Andrew Niccol,"['Ethan Hawke', 'Uma Thurman', 'Jude Law', 'Gore Vidal']",106 min,7.8,64        ,"288,239",$12.34M
+423,Toy Story 3,(2010),"Animation, Adventure, Comedy",Lee Unkrich,"['Tom Hanks', 'Tim Allen', 'Joan Cusack', 'Ned Beatty']",103 min,8.2,92        ,"780,943",$415.00M
+424,A Silent Voice: The Movie,(2016),"Animation, Drama",Naoko Yamada,"['Miyu Irino', 'Saori Hayami', 'Aoi Yûki', 'Kenshô Ono']",130 min,8.2,78        ,"60,299",-
+425,Awakenings,(1990),"Biography, Drama",Penny Marshall,"['Robert De Niro', 'Robin Williams', 'Julie Kavner', 'Ruth Nelson']",121 min,7.8,74        ,"131,589",$52.10M
+426,Fried Green Tomatoes,(1991),Drama,Jon Avnet,"['Kathy Bates', 'Jessica Tandy', 'Mary Stuart Masterson', 'Mary-Louise Parker']",130 min,7.7,64        ,"69,990",$82.42M
+427,Boyhood,(I) (2014),Drama,Richard Linklater,"['Ellar Coltrane', 'Patricia Arquette', 'Ethan Hawke', 'Elijah Smith']",165 min,7.9,100        ,"343,215",$25.38M
+428,Match Point,(2005),"Drama, Romance, Thriller",Woody Allen,"['Scarlett Johansson', 'Jonathan Rhys Meyers', 'Emily Mortimer', 'Matthew Goode']",124 min,7.6,72        ,"210,781",$23.09M
+429,Brazil,(1985),"Drama, Sci-Fi",Terry Gilliam,"['Jonathan Pryce', 'Kim Greist', 'Robert De Niro', 'Katherine Helmond']",132 min,7.9,84        ,"193,843",$9.93M
+430,Dangal,(2016),"Action, Biography, Drama",Nitesh Tiwari,"['Aamir Khan', 'Sakshi Tanwar', 'Fatima Sana Shaikh', 'Sanya Malhotra']",161 min,8.4,-,"168,689",$12.39M
+431,The Others,(2001),"Horror, Mystery, Thriller",Alejandro Amenábar,"['Nicole Kidman', 'Christopher Eccleston', 'Fionnula Flanagan', 'Alakina Mann']",104 min,7.6,74        ,"349,048",$96.52M
+432,Despicable Me,(2010),"Animation, Adventure, Comedy",Pierre Coffin,"['Chris Renaud', 'Steve Carell', 'Jason Segel', 'Russell Brand', 'Julie Andrews']",95 min,7.6,72        ,"514,359",$251.51M
+433,Perfect Blue,(1997),"Animation, Crime, Mystery",Satoshi Kon,"['Junko Iwao', 'Rica Matsumoto', 'Shinpachi Tsuji', 'Masaaki Ôkura']",81 min,8.0,-,"64,285",$0.78M
+434,Gifted,(2017),Drama,Marc Webb,"['Chris Evans', 'Mckenna Grace', 'Lindsay Duncan', 'Octavia Spencer']",101 min,7.6,60        ,"106,252",$24.80M
+435,Donnie Brasco,(1997),"Biography, Crime, Drama",Mike Newell,"['Al Pacino', 'Johnny Depp', 'Michael Madsen', 'Bruno Kirby']",127 min,7.7,76        ,"289,189",$41.91M
+436,The Secret in Their Eyes,(2009),"Drama, Mystery, Romance",Juan José Campanella,"['Ricardo Darín', 'Soledad Villamil', 'Pablo Rago', 'Carla Quevedo']",129 min,8.2,80        ,"199,660",$6.39M
+437,Sing Street,(2016),"Comedy, Drama, Music",John Carney,"['Ferdia Walsh-Peelo', 'Aidan Gillen', 'Maria Doyle Kennedy', 'Jack Reynor']",106 min,7.9,79        ,"88,567",$3.24M
+438,Walk the Line,(2005),"Biography, Drama, Music",James Mangold,"['Joaquin Phoenix', 'Reese Witherspoon', 'Ginnifer Goodwin', 'Robert Patrick']",136 min,7.8,72        ,"239,966",$119.52M
+439,The Birds,(1963),"Drama, Horror, Mystery",Alfred Hitchcock,"['Rod Taylor', 'Tippi Hedren', 'Jessica Tandy', 'Suzanne Pleshette']",119 min,7.7,90        ,"177,812",$11.40M
+440,Empire of the Sun,(1987),"Action, Drama, History",Steven Spielberg,"['Christian Bale', 'John Malkovich', 'Miranda Richardson', 'Nigel Havers']",153 min,7.7,62        ,"119,476",$22.24M
+441,The Hunt for Red October,(1990),"Action, Adventure, Thriller",John McTiernan,"['Sean Connery', 'Alec Baldwin', 'Scott Glenn', 'Sam Neill']",135 min,7.6,58        ,"186,892",$122.01M
+442,The Wrestler,(2008),"Drama, Sport",Darren Aronofsky,"['Mickey Rourke', 'Marisa Tomei', 'Evan Rachel Wood', 'Mark Margolis']",109 min,7.9,80        ,"295,462",$26.24M
+443,JFK,(1991),"Drama, History, Thriller",Oliver Stone,"['Kevin Costner', 'Gary Oldman', 'Jack Lemmon', 'Walter Matthau']",189 min,8.0,72        ,"147,445",$70.41M
+444,Philadelphia,(1993),Drama,Jonathan Demme,"['Tom Hanks', 'Denzel Washington', 'Roberta Maxwell', 'Buzz Kilman']",125 min,7.7,66        ,"230,823",$77.32M
+445,Cinema Paradiso,(1988),"Drama, Romance",Giuseppe Tornatore,"['Philippe Noiret', 'Enzo Cannavale', 'Antonella Attili', 'Isa Danieli']",155 min,8.5,80        ,"242,766",$11.99M
+446,Stalker,(1979),"Drama, Sci-Fi",Andrei Tarkovsky,"['Alisa Freyndlikh', 'Aleksandr Kaydanovskiy', 'Anatoliy Solonitsyn', 'Nikolay Grinko']",162 min,8.1,-,"124,571",$0.23M
+447,Beauty and the Beast,(1991),"Animation, Family, Fantasy",Gary Trousdale,"['Kirk Wise', ""Paige O'Hara"", 'Robby Benson', 'Jesse Corti', 'Rex Everhart']",84 min,8.0,95        ,"426,475",$218.97M
+448,Seven Pounds,(2008),Drama,Gabriele Muccino,"['Will Smith', 'Rosario Dawson', 'Woody Harrelson', 'Michael Ealy']",123 min,7.6,36        ,"292,580",$69.95M
+449,Straight Outta Compton,(2015),"Biography, Drama, History",F. Gary Gray,"[""O'Shea Jackson Jr."", 'Corey Hawkins', 'Jason Mitchell', 'Neil Brown Jr.']",147 min,7.8,72        ,"186,851",$161.20M
+450,Rushmore,(1998),"Comedy, Drama, Romance",Wes Anderson,"['Jason Schwartzman', 'Bill Murray', 'Olivia Williams', 'Seymour Cassel']",93 min,7.7,86        ,"174,992",$17.11M
+451,Sling Blade,(1996),Drama,Billy Bob Thornton,"['Billy Bob Thornton', 'Dwight Yoakam', 'J.T. Walsh', 'John Ritter']",135 min,8.0,84        ,"90,812",$24.48M
+452,Chungking Express,(1994),"Comedy, Crime, Drama",Kar-Wai Wong,"['Brigitte Lin', 'Takeshi Kaneshiro', 'Tony Chiu-Wai Leung', 'Faye Wong']",102 min,8.1,78        ,"70,149",$0.60M
+453,Lethal Weapon,(1987),"Action, Crime, Thriller",Richard Donner,"['Mel Gibson', 'Danny Glover', 'Gary Busey', 'Mitchell Ryan']",109 min,7.6,68        ,"244,404",$65.21M
+454,Hachi: A Dog's Tale,(2009),"Biography, Drama, Family",Lasse Hallström,"['Richard Gere', 'Joan Allen', 'Cary-Hiroyuki Tagawa', 'Sarah Roemer']",93 min,8.1,-,"264,350",-
+455,This Is Spinal Tap,(1984),"Comedy, Music",Rob Reiner,"['Rob Reiner', 'Michael McKean', 'Christopher Guest', 'Kimberly Stringer']",82 min,7.9,92        ,"134,067",$0.19M
+456,Some Like It Hot,(1959),"Comedy, Music, Romance",Billy Wilder,"['Marilyn Monroe', 'Tony Curtis', 'Jack Lemmon', 'George Raft']",121 min,8.2,98        ,"252,796",$25.00M
+457,Do the Right Thing,(1989),"Comedy, Drama",Spike Lee,"['Danny Aiello', 'Ossie Davis', 'Ruby Dee', 'Richard Edson']",120 min,8.0,93        ,"95,035",$27.55M
+458,"Crouching Tiger, Hidden Dragon",(2000),"Action, Adventure, Fantasy",Ang Lee,"['Chow Yun-Fat', 'Michelle Yeoh', 'Ziyi Zhang', 'Chen Chang']",120 min,7.8,94        ,"259,496",$128.08M
+459,What Ever Happened to Baby Jane?,(1962),"Drama, Horror, Thriller",Robert Aldrich,"['Bette Davis', 'Joan Crawford', 'Victor Buono', 'Wesley Addy']",134 min,8.1,75        ,"52,427",$4.05M
+460,The Nightmare Before Christmas,(1993),"Animation, Family, Fantasy",Henry Selick,"['Danny Elfman', 'Chris Sarandon', ""Catherine O'Hara"", 'William Hickey']",76 min,8.0,82        ,"307,919",$75.08M
+461,Dog Day Afternoon,(1975),"Biography, Crime, Drama",Sidney Lumet,"['Al Pacino', 'John Cazale', 'Penelope Allen', 'Sully Boyar']",125 min,8.0,86        ,"244,487",$50.00M
+462,Adaptation.,(2002),"Comedy, Drama",Spike Jonze,"['Nicolas Cage', 'Meryl Streep', 'Chris Cooper', 'Tilda Swinton']",115 min,7.7,83        ,"185,123",$22.25M
+463,Secrets & Lies,(1996),"Comedy, Drama",Mike Leigh,"['Timothy Spall', 'Brenda Blethyn', 'Phyllis Logan', 'Claire Rushbrook']",136 min,8.0,91        ,"40,917",$13.42M
+464,Battle Royale,(2000),"Action, Adventure, Drama",Kinji Fukasaku,"['Tatsuya Fujiwara', 'Aki Maeda', 'Tarô Yamamoto', 'Takeshi Kitano']",114 min,7.6,81        ,"173,673",-
+465,The Bourne Ultimatum,(2007),"Action, Adventure, Mystery",Paul Greengrass,"['Matt Damon', 'Edgar Ramírez', 'Joan Allen', 'Julia Stiles']",115 min,8.0,85        ,"614,617",$227.47M
+466,Dirty Harry,(1971),"Action, Crime, Thriller",Don Siegel,"['Clint Eastwood', 'Clint Eastwood', 'Andrew Robinson', 'Harry Guardino', 'Reni Santoni']",102 min,7.7,90        ,"148,095",$35.90M
+467,The King's Speech,(2010),"Biography, Drama, History",Tom Hooper,"['Colin Firth', 'Geoffrey Rush', 'Helena Bonham Carter', 'Derek Jacobi']",118 min,8.0,88        ,"653,868",$138.80M
+468,My Neighbor Totoro,(1988),"Animation, Family, Fantasy",Hayao Miyazaki,"['Hitoshi Takagi', 'Noriko Hidaka', 'Chika Sakamoto', 'Shigesato Itoi']",86 min,8.2,86        ,"307,253",$1.11M
+469,Spartacus,(1960),"Adventure, Biography, Drama",Stanley Kubrick,"['Kirk Douglas', 'Laurence Olivier', 'Jean Simmons', 'Charles Laughton']",197 min,7.9,87        ,"129,190",$30.00M
+470,Blood Simple,(1984),"Crime, Drama, Thriller",Joel Coen,"['Ethan Coen', 'John Getz', 'Frances McDormand', 'Dan Hedaya', 'M. Emmet Walsh']",99 min,7.6,83        ,"91,500",$2.15M
+471,North by Northwest,(1959),"Adventure, Mystery, Thriller",Alfred Hitchcock,"['Cary Grant', 'Eva Marie Saint', 'James Mason', 'Jessie Royce Landis']",136 min,8.3,98        ,"309,928",$13.28M
+472,The Bourne Supremacy,(2004),"Action, Mystery, Thriller",Paul Greengrass,"['Matt Damon', 'Franka Potente', 'Joan Allen', 'Brian Cox']",108 min,7.7,73        ,"444,550",$176.24M
+473,Young Frankenstein,(1974),Comedy,Mel Brooks,"['Gene Wilder', 'Madeline Kahn', 'Marty Feldman', 'Peter Boyle']",106 min,8.0,80        ,"148,973",$86.30M
+474,Wild Tales,(2014),"Comedy, Drama, Thriller",Damián Szifron,"['Darío Grandinetti', 'María Marull', 'Mónica Villa', 'Diego Starosta']",122 min,8.1,77        ,"185,180",$3.11M
+475,The Sting,(1973),"Comedy, Crime, Drama",George Roy Hill,"['Paul Newman', 'Robert Redford', 'Robert Shaw', 'Charles Durning']",129 min,8.3,83        ,"249,021",$159.60M
+476,Soorarai Pottru,(2020),Drama,Sudha Kongara,"['Suriya', 'Madhavan', 'Paresh Rawal', 'Aparna Balamurali']",153 min,9.1,-,"86,954",-
+477,The Great Escape,(1963),"Adventure, Drama, History",John Sturges,"['Steve McQueen', 'James Garner', 'Richard Attenborough', 'Charles Bronson']",172 min,8.2,86        ,"232,233",$12.10M
+478,Before Midnight,(2013),"Drama, Romance",Richard Linklater,"['Ethan Hawke', 'Julie Delpy', 'Seamus Davey-Fitzpatrick', 'Ariane Labed']",109 min,7.9,94        ,"147,478",$8.11M
+479,The Naked Gun: From the Files of Police Squad!,(1988),"Comedy, Crime",David Zucker,"['Leslie Nielsen', 'Priscilla Presley', 'O.J. Simpson', 'Ricardo Montalban']",85 min,7.6,76        ,"159,291",$78.76M
+480,The Insider,(1999),"Biography, Drama, Thriller",Michael Mann,"['Russell Crowe', 'Al Pacino', 'Christopher Plummer', 'Diane Venora']",157 min,7.8,84        ,"165,106",$28.97M
+481,Naked,(1993),"Comedy, Drama",Mike Leigh,"['David Thewlis', 'Lesley Sharp', 'Katrin Cartlidge', 'Greg Cruttwell']",132 min,7.8,84        ,"36,694",$1.77M
+482,"Paris, Texas",(1984),Drama,Wim Wenders,"['Harry Dean Stanton', 'Nastassja Kinski', 'Dean Stockwell', 'Sam Berry']",145 min,8.1,78        ,"97,672",$2.18M
+483,Breakfast at Tiffany's,(1961),"Comedy, Drama, Romance",Blake Edwards,"['Audrey Hepburn', 'George Peppard', 'Patricia Neal', 'Buddy Ebsen']",115 min,7.6,76        ,"171,803",-
+484,The Girl with the Dragon Tattoo,(2009),"Crime, Drama, Mystery",Niels Arden Oplev,"['Michael Nyqvist', 'Noomi Rapace', 'Ewa Fröling', 'Lena Endre']",152 min,7.8,76        ,"211,913",$10.10M
+485,Carlito's Way,(1993),"Crime, Drama, Thriller",Brian De Palma,"['Al Pacino', 'Sean Penn', 'Penelope Ann Miller', 'John Leguizamo']",144 min,7.9,65        ,"207,273",$36.95M
+486,Butch Cassidy and the Sundance Kid,(1969),"Biography, Crime, Drama",George Roy Hill,"['Paul Newman', 'Robert Redford', 'Katharine Ross', 'Strother Martin']",110 min,8.0,66        ,"207,882",$102.31M
+487,The Conversation,(1974),"Drama, Mystery, Thriller",Francis Ford Coppola,"['Gene Hackman', 'John Cazale', 'Allen Garfield', 'Frederic Forrest']",113 min,7.8,85        ,"104,917",$4.42M
+488,Strangers on a Train,(1951),"Crime, Film-Noir, Thriller",Alfred Hitchcock,"['Farley Granger', 'Robert Walker', 'Ruth Roman', 'Leo G. Carroll']",101 min,8.0,88        ,"128,471",$7.63M
+489,The Lego Movie,(2014),"Animation, Action, Adventure",Christopher Miller,"['Phil Lord', 'Chris Pratt', 'Will Ferrell', 'Elizabeth Banks', 'Will Arnett']",100 min,7.7,83        ,"333,002",$257.76M
+490,End of Watch,(2012),"Action, Crime, Drama",David Ayer,"['Jake Gyllenhaal', 'Michael Peña', 'Anna Kendrick', 'America Ferrera']",109 min,7.6,68        ,"234,179",$41.00M
+491,The Raid: Redemption,(2011),"Action, Thriller",Gareth Evans,"['Iko Uwais', 'Ananda George', 'Ray Sahetapy', 'Donny Alamsyah']",101 min,7.6,73        ,"195,880",$4.11M
+492,When Harry Met Sally...,(1989),"Comedy, Drama, Romance",Rob Reiner,"['Billy Crystal', 'Meg Ryan', 'Carrie Fisher', 'Bruno Kirby']",95 min,7.6,76        ,"204,184",$92.82M
+493,3:10 to Yuma,(2007),"Action, Crime, Drama",James Mangold,"['Russell Crowe', 'Christian Bale', 'Ben Foster', 'Logan Lerman']",122 min,7.7,76        ,"296,460",$53.61M
+494,The Color Purple,(1985),Drama,Steven Spielberg,"['Danny Glover', 'Whoopi Goldberg', 'Oprah Winfrey', 'Margaret Avery']",154 min,7.8,78        ,"81,753",$98.47M
+495,Star Trek II: The Wrath of Khan,(1982),"Action, Adventure, Sci-Fi",Nicholas Meyer,"['William Shatner', 'Leonard Nimoy', 'DeForest Kelley', 'James Doohan']",113 min,7.7,67        ,"115,834",$78.91M
+496,The Holy Mountain,(1973),"Adventure, Drama, Fantasy",Alejandro Jodorowsky,"['Alejandro Jodorowsky', 'Horacio Salinas', 'Zamira Saunders', 'Juan Ferrara']",114 min,7.9,76        ,"39,518",$0.06M
+497,Sunset Blvd.,(1950),"Drama, Film-Noir",Billy Wilder,"['William Holden', 'Gloria Swanson', 'Erich von Stroheim', 'Nancy Olson']",110 min,8.4,-,"209,143",-
+498,Being John Malkovich,(1999),"Comedy, Drama, Fantasy",Spike Jonze,"['John Cusack', 'Cameron Diaz', 'Catherine Keener', 'John Malkovich']",113 min,7.7,90        ,"321,826",$22.86M
+499,Before Sunset,(2004),"Drama, Romance",Richard Linklater,"['Ethan Hawke', 'Julie Delpy', 'Vernon Dobtcheff', 'Louise Lemoine Torrès']",80 min,8.1,90        ,"245,999",$5.82M
+500,Bonnie and Clyde,(1967),"Action, Biography, Crime",Arthur Penn,"['Warren Beatty', 'Faye Dunaway', 'Michael J. Pollard', 'Gene Hackman']",111 min,7.8,86        ,"107,544",-
+501,The Dirty Dozen,(1967),"Action, Adventure, War",Robert Aldrich,"['Lee Marvin', 'Ernest Borgnine', 'Charles Bronson', 'John Cassavetes']",150 min,7.7,73        ,"69,382",$45.30M
+502,The Seventh Seal,(1957),"Drama, Fantasy, History",Ingmar Bergman,"['Max von Sydow', 'Gunnar Björnstrand', 'Bengt Ekerot', 'Nils Poppe']",96 min,8.2,88        ,"173,703",-
+503,The Elephant Man,(1980),"Biography, Drama",David Lynch,"['Anthony Hopkins', 'John Hurt', 'Anne Bancroft', 'John Gielgud']",124 min,8.1,78        ,"228,870",-
+504,Searching,(III) (2018),"Drama, Mystery, Thriller",Aneesh Chaganty,"['John Cho', 'Debra Messing', 'Joseph Lee', 'Michelle La']",102 min,7.6,71        ,"149,636",$26.02M
+505,Ran,(1985),"Action, Drama, War",Akira Kurosawa,"['Tatsuya Nakadai', 'Akira Terao', 'Jinpachi Nezu', 'Daisuke Ryû']",162 min,8.2,96        ,"118,103",$4.14M
+506,Tumbbad,(2018),"Drama, Fantasy, Horror",Rahi Anil Barve,"['Anand Gandhi', 'Adesh Prasad', 'Sohum Shah', 'Jyoti Malshe', 'Anita Date', 'Ronjini Chakraborty']",104 min,8.3,-,"35,389",-
+507,Dial M for Murder,(1954),"Crime, Thriller",Alfred Hitchcock,"['Ray Milland', 'Grace Kelly', 'Robert Cummings', 'John Williams']",105 min,8.2,75        ,"165,096",$0.01M
+508,Toy Story 2,(1999),"Animation, Adventure, Comedy",John Lasseter,"['Ash Brannon', 'Lee Unkrich', 'Tom Hanks', 'Tim Allen', 'Joan Cusack', 'Kelsey Grammer']",92 min,7.9,88        ,"544,875",$245.85M
+509,Monty Python's Life of Brian,(1979),Comedy,Terry Jones,"['Graham Chapman', 'John Cleese', 'Michael Palin', 'Terry Gilliam']",94 min,8.1,77        ,"379,230",$20.05M
+510,Patton,(1970),"Biography, Drama, War",Franklin J. Schaffner,"['George C. Scott', 'Karl Malden', 'Stephen Young', 'Michael Strong']",172 min,7.9,91        ,"97,884",$61.70M
+511,Enemy at the Gates,(2001),"Drama, History, War",Jean-Jacques Annaud,"['Jude Law', 'Ed Harris', 'Joseph Fiennes', 'Rachel Weisz']",131 min,7.6,53        ,"250,239",$51.40M
+512,Mississippi Burning,(1988),"Crime, Drama, History",Alan Parker,"['Gene Hackman', 'Willem Dafoe', 'Frances McDormand', 'Brad Dourif']",128 min,7.8,65        ,"93,766",$34.60M
+513,The Boy in the Striped Pajamas,(2008),"Drama, History, War",Mark Herman,"['Asa Butterfield', 'David Thewlis', 'Rupert Friend', ""Zac Mattoon O'Brien""]",94 min,7.8,55        ,"197,689",$9.03M
+514,The Bridges of Madison County,(1995),"Drama, Romance",Clint Eastwood,"['Clint Eastwood', 'Meryl Streep', 'Annie Corley', 'Victor Slezak']",135 min,7.6,69        ,"76,289",$71.52M
+515,Raatchasan,(2018),"Action, Crime, Mystery",Ram Kumar,"['Vishnu Vishal', 'Amala Paul', 'Radha Ravi', 'Sangili Murugan']",170 min,8.5,-,"33,394",-
+516,The Jungle Book,(1967),"Animation, Adventure, Family",Wolfgang Reitherman,"['Phil Harris', 'Sebastian Cabot', 'Louis Prima', 'Bruce Reitherman']",78 min,7.6,65        ,"171,472",$141.84M
+517,Badlands,(1973),"Action, Crime, Drama",Terrence Malick,"['Martin Sheen', 'Sissy Spacek', 'Warren Oates', 'Ramon Bieri']",94 min,7.8,93        ,"69,188",-
+518,Lost Highway,(1997),"Mystery, Thriller",David Lynch,"['Bill Pullman', 'Patricia Arquette', 'John Roselius', 'Louis Eppolito']",134 min,7.6,52        ,"135,407",$3.80M
+519,Midnight Cowboy,(1969),Drama,John Schlesinger,"['Dustin Hoffman', 'Jon Voight', 'Sylvia Miles', 'John McGiver']",113 min,7.8,79        ,"105,782",$44.79M
+520,The Man from Earth,(2007),"Drama, Fantasy, Mystery",Richard Schenkman,"['David Lee Smith', 'Tony Todd', 'John Billingsley', 'Ellen Crawford']",87 min,7.9,-,"179,833",-
+521,Network,(1976),Drama,Sidney Lumet,"['Faye Dunaway', 'William Holden', 'Peter Finch', 'Robert Duvall']",121 min,8.1,83        ,"151,287",-
+522,Metropolis,(1927),"Drama, Sci-Fi",Fritz Lang,"['Brigitte Helm', 'Alfred Abel', 'Gustav Fröhlich', 'Rudolf Klein-Rogge']",153 min,8.3,98        ,"165,446",$1.24M
+523,Ben-Hur,(1959),"Adventure, Drama, History",William Wyler,"['Charlton Heston', 'Jack Hawkins', 'Stephen Boyd', 'Haya Harareet']",212 min,8.1,90        ,"227,165",$74.70M
+524,In the Name of the Father,(1993),"Biography, Crime, Drama",Jim Sheridan,"['Daniel Day-Lewis', 'Pete Postlethwaite', 'Alison Crosbie', 'Philip King']",133 min,8.1,84        ,"164,471",$25.01M
+525,To Kill a Mockingbird,(1962),"Crime, Drama",Robert Mulligan,"['Gregory Peck', 'John Megna', 'Frank Overton', 'Rosemary Murphy']",129 min,8.3,88        ,"302,551",-
+526,The Wild Bunch,(1969),"Action, Adventure, Western",Sam Peckinpah,"['William Holden', 'Ernest Borgnine', 'Robert Ryan', ""Edmond O'Brien""]",135 min,7.9,97        ,"81,196",$12.06M
+527,La Haine,(1995),"Crime, Drama",Mathieu Kassovitz,"['Vincent Cassel', 'Hubert Koundé', 'Saïd Taghmaoui', 'Abdel Ahmed Ghili']",98 min,8.1,-,"158,368",$0.31M
+528,Pride,(I) (2014),"Biography, Comedy, Drama",Matthew Warchus,"['Bill Nighy', 'Imelda Staunton', 'Dominic West', 'Paddy Considine']",119 min,7.8,79        ,"53,950",-
+529,Fallen Angels,(1995),"Comedy, Crime, Drama",Kar-Wai Wong,"['Leon Lai', 'Michelle Reis', 'Takeshi Kaneshiro', 'Charlie Yeung']",99 min,7.7,71        ,"31,854",-
+530,The Ten Commandments,(1956),"Adventure, Drama",Cecil B. DeMille,"['Charlton Heston', 'Yul Brynner', 'Anne Baxter', 'Edward G. Robinson']",220 min,7.9,-,"66,790",$93.74M
+531,The Last King of Scotland,(2006),"Biography, Drama, History",Kevin Macdonald,"['James McAvoy', 'Forest Whitaker', 'Gillian Anderson', 'Kerry Washington']",123 min,7.7,74        ,"180,014",$17.61M
+532,"Spring, Summer, Fall, Winter... and Spring",(2003),"Drama, Romance",Kim Ki-duk,"['Kim Ki-duk', 'Yeong-su Oh', 'Jong-ho Kim', 'Kim Young-min']",103 min,8.0,85        ,"79,765",$2.38M
+533,Lucky Number Slevin,(2006),"Crime, Drama, Thriller",Paul McGuigan,"['Josh Hartnett', 'Ben Kingsley', 'Morgan Freeman', 'Lucy Liu']",110 min,7.7,53        ,"304,791",$22.49M
+534,The Iron Giant,(1999),"Animation, Action, Adventure",Brad Bird,"['Eli Marienthal', 'Harry Connick Jr.', 'Jennifer Aniston', 'Vin Diesel']",86 min,8.0,85        ,"178,902",$23.16M
+535,Dogville,(2003),"Crime, Drama",Lars von Trier,"['Nicole Kidman', 'Paul Bettany', 'Lauren Bacall', 'Harriet Andersson']",178 min,8.0,60        ,"142,854",$1.53M
+536,A Separation,(2011),Drama,Asghar Farhadi,"['Payman Maadi', 'Leila Hatami', 'Sareh Bayat', 'Shahab Hosseini']",123 min,8.3,95        ,"229,905",$7.10M
+537,Fiddler on the Roof,(1971),"Drama, Family, Musical",Norman Jewison,"['Topol', 'Norma Crane', 'Leonard Frey', 'Molly Picon']",181 min,8.0,67        ,"41,085",$80.50M
+538,Paddington 2,(2017),"Animation, Adventure, Comedy",Paul King,"['Ben Whishaw', 'Hugh Grant', 'Hugh Bonneville', 'Sally Hawkins']",103 min,7.8,88        ,"66,930",$40.44M
+539,"Blood In, Blood Out",(1993),"Crime, Drama",Taylor Hackford,"['Damian Chapa', 'Jesse Borrego', 'Benjamin Bratt', 'Enrique Castillo']",180 min,8.0,47        ,"29,791",$4.50M
+540,Mother,(2009),"Crime, Drama, Mystery",Bong Joon Ho,"['Hye-ja Kim', 'Won Bin', 'Jin Goo', 'Je-mun Yun']",129 min,7.8,79        ,"57,423",$0.55M
+541,Hara-Kiri,(1962),"Action, Drama, Mystery",Masaki Kobayashi,"['Tatsuya Nakadai', 'Akira Ishihama', 'Shima Iwashita', 'Tetsurô Tanba']",133 min,8.6,85        ,"47,629",-
+542,Goldfinger,(1964),"Action, Adventure, Thriller",Guy Hamilton,"['Sean Connery', 'Gert Fröbe', 'Honor Blackman', 'Shirley Eaton']",110 min,7.7,87        ,"178,839",$51.08M
+543,Let the Right One In,(2008),"Crime, Drama, Fantasy",Tomas Alfredson,"['Kåre Hedebrant', 'Lina Leandersson', 'Per Ragnar', 'Henrik Dahl']",114 min,7.9,82        ,"209,479",$2.12M
+544,Ip Man,(2008),"Action, Biography, Drama",Wilson Yip,"['Donnie Yen', 'Simon Yam', 'Siu-Wong Fan', 'Ka Tung Lam']",106 min,8.0,59        ,"216,113",-
+545,Rebecca,(1940),"Drama, Mystery, Romance",Alfred Hitchcock,"['Laurence Olivier', 'Joan Fontaine', 'George Sanders', 'Judith Anderson']",130 min,8.1,86        ,"130,074",$4.36M
+546,Ponyo,(2008),"Animation, Adventure, Comedy",Hayao Miyazaki,"['Cate Blanchett', 'Matt Damon', 'Liam Neeson', 'Tomoko Yamaguchi']",101 min,7.7,86        ,"131,833",$15.09M
+547,Cinderella Man,(2005),"Biography, Drama, History",Ron Howard,"['Russell Crowe', 'Renée Zellweger', 'Craig Bierko', 'Paul Giamatti']",144 min,8.0,69        ,"180,436",$61.65M
+548,50/50,(2011),"Comedy, Drama, Romance",Jonathan Levine,"['Joseph Gordon-Levitt', 'Seth Rogen', 'Anna Kendrick', 'Bryce Dallas Howard']",100 min,7.6,72        ,"321,095",$35.01M
+549,Ordinary People,(1980),Drama,Robert Redford,"['Donald Sutherland', 'Mary Tyler Moore', 'Judd Hirsch', 'Timothy Hutton']",124 min,7.7,86        ,"49,133",$54.80M
+550,Glory,(1989),"Biography, Drama, History",Edward Zwick,"['Matthew Broderick', 'Denzel Washington', 'Cary Elwes', 'Morgan Freeman']",122 min,7.8,78        ,"129,076",$26.83M
+551,God's Own Country,(2017),"Drama, Romance",Francis Lee,"[""Josh O'Connor"", 'Alec Secareanu', 'Gemma Jones', 'Ian Hart']",104 min,7.7,85        ,"27,476",$0.34M
+552,The Killing Fields,(1984),"Biography, Drama, History",Roland Joffé,"['Sam Waterston', 'Haing S. Ngor', 'John Malkovich', 'Julian Sands']",141 min,7.8,76        ,"53,337",$34.70M
+553,Finding Neverland,(2004),"Biography, Drama, Family",Marc Forster,"['Johnny Depp', 'Kate Winslet', 'Julie Christie', 'Radha Mitchell']",106 min,7.7,67        ,"201,885",$51.68M
+554,Amores Perros,(2000),"Drama, Thriller",Alejandro G. Iñárritu,"['Emilio Echevarría', 'Gael García Bernal', 'Goya Toledo', 'Álvaro Guerrero']",154 min,8.1,83        ,"230,953",$5.38M
+555,The Apartment,(1960),"Comedy, Drama, Romance",Billy Wilder,"['Jack Lemmon', 'Shirley MacLaine', 'Fred MacMurray', 'Ray Walston']",125 min,8.3,94        ,"170,595",$18.60M
+556,Neon Genesis Evangelion: The End of Evangelion,(1997),"Animation, Action, Drama",Hideaki Anno,"['Kazuya Tsurumaki', 'Megumi Ogata', 'Megumi Hayashibara', 'Yûko Miyamura', 'Kotono Mitsuishi']",87 min,8.1,-,"44,519",-
+557,Ghost in the Shell,(1995),"Animation, Action, Crime",Mamoru Oshii,"['Atsuko Tanaka', 'Iemasa Kayumi', 'Akio Ôtsuka', 'Kôichi Yamadera']",83 min,8.0,76        ,"134,423",$0.52M
+558,Roma,(2018),Drama,Alfonso Cuarón,"['Yalitza Aparicio', 'Marina de Tavira', 'Diego Cortina Autrey', 'Carlos Peralta']",135 min,7.7,96        ,"147,088",-
+559,Dawn of the Dead,(1978),"Horror, Thriller",George A. Romero,"['David Emge', 'Ken Foree', 'Scott H. Reiniger', 'Gaylen Ross']",127 min,7.9,71        ,"114,933",$5.10M
+560,All About Eve,(1950),Drama,Joseph L. Mankiewicz,"['Bette Davis', 'Anne Baxter', 'George Sanders', 'Celeste Holm']",138 min,8.2,98        ,"124,880",$0.01M
+561,Paper Moon,(1973),"Comedy, Crime, Drama",Peter Bogdanovich,"[""Ryan O'Neal"", ""Tatum O'Neal"", 'Madeline Kahn', 'John Hillerman']",102 min,8.1,77        ,"44,248",$30.93M
+562,Billy Elliot,(2000),"Drama, Music",Stephen Daldry,"['Jamie Bell', 'Julie Walters', 'Jean Heywood', 'Jamie Draven']",110 min,7.7,74        ,"129,794",$22.00M
+563,Andhadhun,(2018),"Crime, Drama, Music",Sriram Raghavan,"['Ayushmann Khurrana', 'Tabu', 'Radhika Apte', 'Anil Dhawan']",139 min,8.2,-,"80,686",$1.37M
+564,Annie Hall,(1977),"Comedy, Romance",Woody Allen,"['Woody Allen', 'Diane Keaton', 'Tony Roberts', 'Carol Kane']",93 min,8.0,92        ,"257,070",$39.20M
+565,Solaris,(1972),"Drama, Mystery, Sci-Fi",Andrei Tarkovsky,"['Natalya Bondarchuk', 'Donatas Banionis', 'Jüri Järvet', 'Vladislav Dvorzhetskiy']",167 min,8.1,90        ,"85,854",-
+566,The Right Stuff,(1983),"Adventure, Biography, Drama",Philip Kaufman,"['Sam Shepard', 'Scott Glenn', 'Ed Harris', 'Dennis Quaid']",193 min,7.8,91        ,"59,104",$21.50M
+567,The Best Offer,(2013),"Crime, Drama, Mystery",Giuseppe Tornatore,"['Geoffrey Rush', 'Jim Sturgess', 'Sylvia Hoeks', 'Donald Sutherland']",131 min,7.8,49        ,"112,461",$0.09M
+568,Glengarry Glen Ross,(1992),"Crime, Drama, Mystery",James Foley,"['Al Pacino', 'Jack Lemmon', 'Alec Baldwin', 'Alan Arkin']",100 min,7.7,82        ,"100,224",$10.73M
+569,The Fall,(2006),"Adventure, Drama, Fantasy",Tarsem Singh,"['Lee Pace', 'Catinca Untaru', 'Justine Waddell', 'Kim Uylenbroek']",117 min,7.8,64        ,"109,228",$2.28M
+570,The Searchers,(1956),"Adventure, Drama, Western",John Ford,"['John Wayne', 'Jeffrey Hunter', 'Vera Miles', 'Ward Bond']",119 min,7.9,94        ,"84,746",-
+571,How to Train Your Dragon 2,(2014),"Animation, Action, Adventure",Dean DeBlois,"['Jay Baruchel', 'Cate Blanchett', 'Gerard Butler', 'Craig Ferguson']",102 min,7.8,76        ,"314,984",$177.00M
+572,I Am Sam,(2001),Drama,Jessie Nelson,"['Sean Penn', 'Michelle Pfeiffer', 'Dakota Fanning', 'Dianne Wiest']",132 min,7.6,28        ,"146,135",$40.31M
+573,Night of the Living Dead,(1968),"Horror, Thriller",George A. Romero,"['Duane Jones', ""Judith O'Dea"", 'Karl Hardman', 'Marilyn Eastman']",96 min,7.9,89        ,"120,858",$0.09M
+574,Klaus,(2019),"Animation, Adventure, Comedy",Sergio Pablos,"['Carlos Martínez López', 'Jason Schwartzman', 'J.K. Simmons', 'Rashida Jones', 'Will Sasso']",96 min,8.2,65        ,"117,305",-
+575,After Hours,(I) (1985),"Comedy, Crime, Drama",Martin Scorsese,"['Griffin Dunne', 'Rosanna Arquette', 'Verna Bloom', 'Tommy Chong']",97 min,7.7,90        ,"63,511",$10.60M
+576,Persona,(1966),"Drama, Thriller",Ingmar Bergman,"['Bibi Andersson', 'Liv Ullmann', 'Margaretha Krook', 'Gunnar Björnstrand']",83 min,8.1,86        ,"109,230",-
+577,Kiki's Delivery Service,(1989),"Animation, Adventure, Drama",Hayao Miyazaki,"['Kirsten Dunst', 'Minami Takayama', 'Rei Sakuma', 'Kappei Yamaguchi']",103 min,7.9,83        ,"131,565",-
+578,Roman Holiday,(1953),"Comedy, Romance",William Wyler,"['Gregory Peck', 'Audrey Hepburn', 'Eddie Albert', 'Hartley Power']",118 min,8.0,78        ,"132,668",-
+579,Serpico,(1973),"Biography, Crime, Drama",Sidney Lumet,"['Al Pacino', 'John Randolph', 'Jack Kehoe', 'Biff McGuire']",130 min,7.7,87        ,"115,753",$29.80M
+580,M,(1931),"Crime, Mystery, Thriller",Fritz Lang,"['Peter Lorre', 'Ellen Widmann', 'Inge Landgut', 'Otto Wernicke']",99 min,8.3,-,"149,178",$0.03M
+581,Charade,(1963),"Comedy, Mystery, Romance",Stanley Donen,"['Cary Grant', 'Audrey Hepburn', 'Walter Matthau', 'James Coburn']",113 min,7.9,83        ,"72,311",$13.47M
+582,Paprika,(2006),"Animation, Drama, Fantasy",Satoshi Kon,"['Megumi Hayashibara', 'Tôru Emori', 'Katsunosuke Hori', 'Tôru Furuya']",90 min,7.7,81        ,"75,590",$0.88M
+583,The Bridge on the River Kwai,(1957),"Adventure, Drama, War",David Lean,"['William Holden', 'Alec Guinness', 'Jack Hawkins', 'Sessue Hayakawa']",161 min,8.1,87        ,"209,790",$44.91M
+584,Nausicaä of the Valley of the Wind,(1984),"Animation, Adventure, Fantasy",Hayao Miyazaki,"['Sumi Shimamoto', 'Mahito Tsujimura', 'Hisako Kyôda', 'Gorô Naya']",117 min,8.1,86        ,"158,276",$0.50M
+585,My Left Foot,(1989),"Biography, Drama",Jim Sheridan,"['Daniel Day-Lewis', 'Brenda Fricker', 'Alison Whelan', 'Kirsten Sheridan']",103 min,7.9,97        ,"70,762",$14.74M
+586,Doctor Zhivago,(1965),"Drama, Romance, War",David Lean,"['Omar Sharif', 'Julie Christie', 'Geraldine Chaplin', 'Rod Steiger']",197 min,8.0,69        ,"72,367",$111.72M
+587,Happiness,(1998),"Comedy, Drama",Todd Solondz,"['Jane Adams', 'Jon Lovitz', 'Philip Seymour Hoffman', 'Dylan Baker']",134 min,7.7,81        ,"68,057",$2.81M
+588,Ed Wood,(1994),"Biography, Comedy, Drama",Tim Burton,"['Johnny Depp', 'Martin Landau', 'Sarah Jessica Parker', 'Patricia Arquette']",127 min,7.8,70        ,"170,037",$5.89M
+589,Papillon,(1973),"Biography, Crime, Drama",Franklin J. Schaffner,"['Steve McQueen', 'Dustin Hoffman', 'Victor Jory', 'Don Gordon']",151 min,8.0,58        ,"125,741",$53.27M
+590,Enter the Dragon,(1973),"Action, Crime, Drama",Robert Clouse,"['Bruce Lee', 'John Saxon', 'Jim Kelly', 'Ahna Capri']",102 min,7.7,83        ,"100,247",$25.00M
+591,On the Waterfront,(1954),"Crime, Drama, Thriller",Elia Kazan,"['Marlon Brando', 'Karl Malden', 'Lee J. Cobb', 'Rod Steiger']",108 min,8.1,91        ,"147,266",$9.60M
+592,Rio Bravo,(1959),"Action, Drama, Western",Howard Hawks,"['John Wayne', 'Dean Martin', 'Ricky Nelson', 'Angie Dickinson']",141 min,8.0,93        ,"58,623",$12.54M
+593,The Remains of the Day,(1993),"Drama, Romance",James Ivory,"['Anthony Hopkins', 'Emma Thompson', 'John Haycraft', 'Christopher Reeve']",134 min,7.8,86        ,"69,384",$22.95M
+594,Kung Fu Hustle,(2004),"Action, Comedy, Fantasy",Stephen Chow,"['Stephen Chow', 'Wah Yuen', 'Qiu Yuen', 'Siu-Lung Leung']",99 min,7.7,78        ,"131,640",$17.11M
+595,Hotel Rwanda,(2004),"Biography, Drama, History",Terry George,"['Don Cheadle', 'Sophie Okonedo', 'Joaquin Phoenix', 'Xolani Mali']",121 min,8.1,79        ,"342,003",$23.53M
+596,Hero,(2002),"Action, Adventure, History",Yimou Zhang,"['Jet Li', 'Tony Chiu-Wai Leung', 'Maggie Cheung', 'Ziyi Zhang']",120 min,7.9,85        ,"176,921",$53.71M
+597,Gandhi,(1982),"Biography, Drama, History",Richard Attenborough,"['Ben Kingsley', 'John Gielgud', 'Rohini Hattangadi', 'Roshan Seth']",191 min,8.0,79        ,"222,978",$52.77M
+598,Paths of Glory,(1957),"Drama, War",Stanley Kubrick,"['Kirk Douglas', 'Ralph Meeker', 'Adolphe Menjou', 'George Macready']",88 min,8.4,90        ,"185,484",-
+599,Cape Fear,(1962),"Drama, Thriller",J. Lee Thompson,"['Gregory Peck', 'Robert Mitchum', 'Polly Bergen', 'Lori Martin']",106 min,7.7,76        ,"27,575",-
+600,The Long Goodbye,(1973),"Comedy, Crime, Drama",Robert Altman,"['Elliott Gould', 'Nina van Pallandt', 'Sterling Hayden', 'Mark Rydell']",112 min,7.6,87        ,"28,209",$0.96M
+601,All the President's Men,(1976),"Biography, Drama, History",Alan J. Pakula,"['Dustin Hoffman', 'Robert Redford', 'Jack Warden', 'Martin Balsam']",138 min,8.0,84        ,"108,642",$70.60M
+602,The Sweet Life,(1960),"Comedy, Drama",Federico Fellini,"['Marcello Mastroianni', 'Anita Ekberg', 'Anouk Aimée', 'Yvonne Furneaux']",174 min,8.0,95        ,"69,435",$19.52M
+603,Mommy,(I) (2014),Drama,Xavier Dolan,"['Anne Dorval', 'Antoine Olivier Pilon', 'Suzanne Clément', 'Patrick Huard']",139 min,8.1,74        ,"53,316",$3.49M
+604,The Name of the Rose,(1986),"Crime, Drama, Mystery",Jean-Jacques Annaud,"['Sean Connery', 'Christian Slater', 'Helmut Qualtinger', 'Elya Baskin']",130 min,7.7,54        ,"104,699",$7.15M
+605,The Wind Rises,(2013),"Animation, Biography, Drama",Hayao Miyazaki,"['Hideaki Anno', 'Hidetoshi Nishijima', 'Miori Takimoto', 'Masahiko Nishimura']",126 min,7.8,83        ,"78,121",$5.21M
+606,21 Grams,(2003),"Crime, Drama, Thriller",Alejandro G. Iñárritu,"['Sean Penn', 'Benicio Del Toro', 'Naomi Watts', 'Danny Huston']",124 min,7.6,70        ,"229,809",$16.29M
+607,Shoplifters,(2018),"Crime, Drama",Hirokazu Koreeda,"['Lily Franky', 'Sakura Andô', 'Kirin Kiki', 'Mayu Matsuoka']",121 min,7.9,93        ,"68,590",$3.31M
+608,The King of Comedy,(1982),"Comedy, Crime, Drama",Martin Scorsese,"['Robert De Niro', 'Jerry Lewis', 'Diahnne Abbott', 'Sandra Bernhard']",109 min,7.8,73        ,"95,294",$2.50M
+609,Gangs of Wasseypur,(2012),"Action, Crime, Drama",Anurag Kashyap,"['Manoj Bajpayee', 'Richa Chadha', 'Nawazuddin Siddiqui', 'Tigmanshu Dhulia']",321 min,8.2,89        ,"88,386",-
+610,Kelly's Heroes,(1970),"Adventure, Comedy, War",Brian G. Hutton,"['Clint Eastwood', 'Telly Savalas', 'Don Rickles', ""Carroll O'Connor""]",144 min,7.6,50        ,"46,960",$1.38M
+611,Togo,(2019),"Adventure, Biography, Drama",Ericson Core,"['Willem Dafoe', 'Julianne Nicholson', 'Christopher Heyerdahl', 'Richard Dormer']",113 min,8.0,69        ,"42,208",-
+612,A Streetcar Named Desire,(1951),Drama,Elia Kazan,"['Vivien Leigh', 'Marlon Brando', 'Kim Hunter', 'Karl Malden']",122 min,8.0,97        ,"103,431",$8.00M
+613,Wings of Desire,(1987),"Drama, Fantasy, Romance",Wim Wenders,"['Bruno Ganz', 'Solveig Dommartin', 'Otto Sander', 'Curt Bois']",128 min,8.0,79        ,"67,405",$3.33M
+614,Evil Dead II,(1987),"Comedy, Horror",Sam Raimi,"['Bruce Campbell', 'Sarah Berry', 'Dan Hicks', 'Kassie Wesley DePaiva']",84 min,7.7,72        ,"152,882",$5.92M
+615,"South Park: Bigger, Longer & Uncut",(1999),"Animation, Comedy, Fantasy",Trey Parker,"['Trey Parker', 'Matt Stone', 'Mary Kay Bergman', 'Isaac Hayes']",81 min,7.7,73        ,"197,496",$52.04M
+616,The Great Beauty,(2013),Drama,Paolo Sorrentino,"['Toni Servillo', 'Carlo Verdone', 'Sabrina Ferilli', 'Carlo Buccirosso']",141 min,7.8,86        ,"83,823",$2.85M
+617,Witness for the Prosecution,(1957),"Crime, Drama, Mystery",Billy Wilder,"['Tyrone Power', 'Marlene Dietrich', 'Charles Laughton', 'Elsa Lanchester']",116 min,8.4,-,"114,676",$8.18M
+618,Barton Fink,(1991),"Comedy, Drama, Thriller",Joel Coen,"['Ethan Coen', 'John Turturro', 'John Goodman', 'Judy Davis', 'Michael Lerner']",116 min,7.7,69        ,"116,459",$6.15M
+619,Miller's Crossing,(1990),"Crime, Drama, Thriller",Joel Coen,"['Ethan Coen', 'Gabriel Byrne', 'Albert Finney', 'John Turturro', 'Marcia Gay Harden']",115 min,7.7,66        ,"130,353",$5.08M
+620,The Body,(2012),"Mystery, Thriller",Oriol Paulo,"['Jose Coronado', 'Hugo Silva', 'Belén Rueda', 'Aura Garrido']",112 min,7.6,-,"61,072",-
+621,Letters from Iwo Jima,(2006),"Action, Adventure, Drama",Clint Eastwood,"['Ken Watanabe', 'Kazunari Ninomiya', 'Tsuyoshi Ihara', 'Ryô Kase']",141 min,7.9,89        ,"157,364",$13.76M
+622,Mirror,(1975),"Biography, Drama",Andrei Tarkovsky,"['Margarita Terekhova', 'Filipp Yankovskiy', 'Ignat Daniltsev', 'Oleg Yankovskiy']",107 min,8.1,80        ,"42,623",$0.18M
+623,Baahubali: The Beginning,(2015),"Action, Drama",S.S. Rajamouli,"['Prabhas', 'Rana Daggubati', 'Ramya Krishnan', 'Sathyaraj']",159 min,8.0,-,"107,604",$6.74M
+624,Wait Until Dark,(1967),Thriller,Terence Young,"['Audrey Hepburn', 'Alan Arkin', 'Richard Crenna', 'Efrem Zimbalist Jr.']",108 min,7.8,81        ,"28,972",$17.55M
+625,From Here to Eternity,(1953),"Drama, Romance, War",Fred Zinnemann,"['Burt Lancaster', 'Montgomery Clift', 'Deborah Kerr', 'Donna Reed']",118 min,7.6,85        ,"44,919",$30.50M
+626,8½,(1963),Drama,Federico Fellini,"['Marcello Mastroianni', 'Anouk Aimée', 'Claudia Cardinale', 'Sandra Milo']",138 min,8.0,91        ,"112,817",$0.05M
+627,The Raid 2,(2014),"Action, Crime, Thriller",Gareth Evans,"['Iko Uwais', 'Yayan Ruhian', 'Arifin Putra', 'Oka Antara']",150 min,8.0,71        ,"117,845",$2.63M
+628,Escape from Alcatraz,(1979),"Action, Biography, Crime",Don Siegel,"['Clint Eastwood', 'Patrick McGoohan', 'Roberts Blossom', 'Jack Thibeau']",112 min,7.6,76        ,"126,255",$43.00M
+629,The Maltese Falcon,(1941),"Crime, Film-Noir, Mystery",John Huston,"['Humphrey Bogart', 'Mary Astor', 'Gladys George', 'Peter Lorre']",100 min,8.0,96        ,"152,645",$2.11M
+630,Beasts of No Nation,(2015),"Drama, War",Cary Joji Fukunaga,"['Abraham Attah', 'Emmanuel Affadzi', 'Ricky Adelayitor', 'Andrew Adote']",137 min,7.7,79        ,"76,819",$0.08M
+631,Castle in the Sky,(1986),"Animation, Adventure, Drama",Hayao Miyazaki,"['Mayumi Tanaka', 'Keiko Yokozawa', 'Kotoe Hatsui', 'Minori Terada']",125 min,8.0,78        ,"156,122",-
+632,October Sky,(1999),"Biography, Drama, Family",Joe Johnston,"['Jake Gyllenhaal', 'Chris Cooper', 'Laura Dern', 'Chris Owen']",108 min,7.8,71        ,"86,204",$32.48M
+633,The Celebration,(1998),Drama,Thomas Vinterberg,"['Ulrich Thomsen', 'Henning Moritzen', 'Thomas Bo Larsen', 'Paprika Steen']",105 min,8.1,82        ,"82,895",$1.65M
+634,The Artist,(I) (2011),"Comedy, Drama, Romance",Michel Hazanavicius,"['Jean Dujardin', 'Bérénice Bejo', 'John Goodman', 'James Cromwell']",100 min,7.9,89        ,"235,064",$44.67M
+635,All That Jazz,(1979),"Drama, Music, Musical",Bob Fosse,"['Roy Scheider', 'Jessica Lange', 'Ann Reinking', 'Leland Palmer']",123 min,7.9,72        ,"29,564",$37.82M
+636,Harold and Maude,(1971),"Comedy, Drama, Romance",Hal Ashby,"['Ruth Gordon', 'Bud Cort', 'Vivian Pickles', 'Cyril Cusack']",91 min,7.9,62        ,"74,421",-
+637,Dancer in the Dark,(2000),"Crime, Drama, Musical",Lars von Trier,"['Björk', 'Catherine Deneuve', 'David Morse', 'Peter Stormare']",140 min,8.0,61        ,"105,398",$4.18M
+638,The Third Man,(1949),"Film-Noir, Mystery, Thriller",Carol Reed,"['Orson Welles', 'Joseph Cotten', 'Alida Valli', 'Trevor Howard']",93 min,8.1,97        ,"163,999",$0.45M
+639,Kramer vs. Kramer,(1979),Drama,Robert Benton,"['Dustin Hoffman', 'Meryl Streep', 'Jane Alexander', 'Justin Henry']",105 min,7.8,77        ,"138,225",$106.26M
+640,Cabaret,(1972),"Drama, Music, Musical",Bob Fosse,"['Liza Minnelli', 'Michael York', 'Helmut Griem', 'Joel Grey']",124 min,7.8,80        ,"51,526",$42.77M
+641,Days of Heaven,(1978),"Drama, Romance",Terrence Malick,"['Richard Gere', 'Brooke Adams', 'Sam Shepard', 'Linda Manz']",94 min,7.8,93        ,"55,104",-
+642,Malcolm X,(1992),"Biography, Drama, History",Spike Lee,"['Denzel Washington', 'Angela Bassett', 'Delroy Lindo', 'Spike Lee']",202 min,7.7,73        ,"89,412",$48.17M
+643,The Last Emperor,(1987),"Biography, Drama, History",Bernardo Bertolucci,"['John Lone', 'Joan Chen', ""Peter O'Toole"", 'Ruocheng Ying']",163 min,7.7,76        ,"98,014",$43.98M
+644,Nosferatu,(1922),"Fantasy, Horror",F.W. Murnau,"['Max Schreck', 'Alexander Granach', 'Gustav von Wangenheim', 'Greta Schröder']",94 min,7.9,-,"91,729",-
+645,The Treasure of the Sierra Madre,(1948),"Adventure, Drama, Western",John Huston,"['Humphrey Bogart', 'Walter Huston', 'Tim Holt', 'Bruce Bennett']",126 min,8.2,98        ,"118,518",$5.01M
+646,The Night of the Hunter,(1955),"Crime, Drama, Film-Noir",Charles Laughton,"['Robert Mitchum', 'Shelley Winters', 'Lillian Gish', 'James Gleason']",92 min,8.0,99        ,"85,094",$0.65M
+647,Rebel Without a Cause,(1955),Drama,Nicholas Ray,"['James Dean', 'Natalie Wood', 'Sal Mineo', 'Jim Backus']",111 min,7.7,89        ,"86,381",-
+648,Pink Floyd: The Wall,(1982),"Drama, Fantasy, Music",Alan Parker,"['Bob Geldof', 'Christine Hargreaves', 'James Laurenson', 'Eleanor David']",95 min,8.0,47        ,"78,185",$22.24M
+649,Kubo and the Two Strings,(2016),"Animation, Action, Adventure",Travis Knight,"['Charlize Theron', 'Art Parkinson', 'Matthew McConaughey', 'Ralph Fiennes']",101 min,7.8,84        ,"122,264",$48.02M
+650,Rope,(1948),"Crime, Drama, Mystery",Alfred Hitchcock,"['James Stewart', 'John Dall', 'Farley Granger', 'Dick Hogan']",80 min,8.0,73        ,"134,962",-
+651,Withnail & I,(1987),"Comedy, Drama",Bruce Robinson,"['Richard E. Grant', 'Paul McGann', 'Richard Griffiths', 'Ralph Brown']",107 min,7.6,84        ,"41,889",$1.54M
+652,Rashomon,(1950),"Crime, Drama, Mystery",Akira Kurosawa,"['Toshirô Mifune', 'Machiko Kyô', 'Masayuki Mori', 'Takashi Shimura']",88 min,8.2,98        ,"158,602",$0.10M
+653,The Man from Nowhere,(2010),"Action, Crime, Drama",Jeong-beom Lee,"['Won Bin', 'Kim Sae-ron', 'Kim Tae-hoon', 'Kim Hee-won']",119 min,7.8,-,"65,662",$0.01M
+654,A Man Called Ove,(2015),"Comedy, Drama, Romance",Hannes Holm,"['Rolf Lassgård', 'Bahar Pars', 'Filip Berg', 'Ida Engvoll']",116 min,7.7,70        ,"50,336",$3.36M
+655,Miracle in Cell No. 7,(2019),Drama,Mehmet Ada Öztekin,"['Aras Bulut Iynemli', 'Nisa Sofiya Aksongur', 'Deniz Baysal', 'Celile Toyon Uysal']",132 min,8.2,-,"41,452",-
+656,Fanny and Alexander,(1982),Drama,Ingmar Bergman,"['Bertil Guve', 'Pernilla Allwin', 'Kristina Adolphson', 'Börje Ahlstedt']",188 min,8.1,100        ,"60,092",$4.97M
+657,In the Heat of the Night,(1967),"Crime, Drama, Mystery",Norman Jewison,"['Sidney Poitier', 'Rod Steiger', 'Warren Oates', 'Lee Grant']",110 min,7.9,75        ,"70,522",$24.38M
+658,Sabrina,(1954),"Comedy, Drama, Romance",Billy Wilder,"['Humphrey Bogart', 'Audrey Hepburn', 'William Holden', 'Walter Hampden']",113 min,7.7,72        ,"61,638",-
+659,The Great Dictator,(1940),"Comedy, Drama, War",Charles Chaplin,"['Charles Chaplin', 'Paulette Goddard', 'Jack Oakie', 'Reginald Gardiner']",125 min,8.4,-,"211,571",$0.29M
+660,Me and Earl and the Dying Girl,(2015),"Comedy, Drama",Alfonso Gomez-Rejon,"['Thomas Mann', 'RJ Cyler', 'Olivia Cooke', 'Nick Offerman']",105 min,7.7,74        ,"126,618",$6.74M
+661,Mary and Max,(2009),"Animation, Comedy, Drama",Adam Elliot,"['Toni Collette', 'Philip Seymour Hoffman', 'Eric Bana', 'Barry Humphries']",92 min,8.1,-,"169,366",-
+662,Short Term 12,(2013),Drama,Destin Daniel Cretton,"['Brie Larson', 'Frantz Turner', 'John Gallagher Jr.', 'Kaitlyn Dever']",96 min,8.0,82        ,"84,447",$1.01M
+663,Guess Who's Coming to Dinner,(1967),"Comedy, Drama",Stanley Kramer,"['Spencer Tracy', 'Sidney Poitier', 'Katharine Hepburn', 'Katharine Houghton']",108 min,7.8,63        ,"41,720",$56.70M
+664,Being There,(1979),"Comedy, Drama",Hal Ashby,"['Peter Sellers', 'Shirley MacLaine', 'Melvyn Douglas', 'Jack Warden']",130 min,8.0,83        ,"69,338",$30.18M
+665,The Chaser,(2008),"Action, Crime, Thriller",Na Hong-jin,"['Kim Yoon-seok', 'Ha Jung-woo', 'Yeong-hie Seo', 'Kim Yoo-jeong']",125 min,7.8,64        ,"61,444",-
+666,Like Stars on Earth,(2007),"Drama, Family",Aamir Khan,"['Amole Gupte', 'Darsheel Safary', 'Aamir Khan', 'Tisca Chopra', 'Vipin Sharma']",165 min,8.4,-,"178,703",$1.22M
+667,Mysterious Skin,(2004),Drama,Gregg Araki,"['Brady Corbet', 'Joseph Gordon-Levitt', 'Elisabeth Shue', 'Chase Ellison']",105 min,7.6,73        ,"67,308",$0.70M
+668,A Little Princess,(1995),"Drama, Family, Fantasy",Alfonso Cuarón,"['Liesel Matthews', 'Eleanor Bron', 'Liam Cunningham', 'Rusty Schwimmer']",97 min,7.7,83        ,"33,226",$10.02M
+669,The Taking of Pelham One Two Three,(1974),"Action, Crime, Thriller",Joseph Sargent,"['Walter Matthau', 'Robert Shaw', 'Martin Balsam', 'Hector Elizondo']",104 min,7.7,68        ,"28,367",$2.49M
+670,The Manchurian Candidate,(1962),"Drama, Thriller",John Frankenheimer,"['Frank Sinatra', 'Laurence Harvey', 'Janet Leigh', 'Angela Lansbury']",126 min,7.9,94        ,"73,236",-
+671,Ray,(I) (2004),"Biography, Drama, Music",Taylor Hackford,"['Jamie Foxx', 'Regina King', 'Kerry Washington', 'Clifton Powell']",152 min,7.7,73        ,"142,224",$75.33M
+672,Three Colors: Red,(1994),"Drama, Mystery, Romance",Krzysztof Kieslowski,"['Irène Jacob', 'Jean-Louis Trintignant', 'Frédérique Feder', 'Jean-Pierre Lorit']",99 min,8.1,100        ,"96,730",$4.04M
+673,Chhichhore,(2019),"Comedy, Drama, Romance",Nitesh Tiwari,"['Sushant Singh Rajput', 'Shraddha Kapoor', 'Varun Sharma', 'Prateik']",143 min,8.3,-,"40,839",$0.90M
+674,Anatomy of a Murder,(1959),"Crime, Drama, Mystery",Otto Preminger,"['James Stewart', 'Lee Remick', 'Ben Gazzara', ""Arthur O'Connell""]",161 min,8.0,95        ,"62,588",$11.90M
+675,Double Indemnity,(1944),"Crime, Drama, Film-Noir",Billy Wilder,"['Fred MacMurray', 'Barbara Stanwyck', 'Edward G. Robinson', 'Byron Barr']",107 min,8.3,95        ,"148,723",$5.72M
+676,Nebraska,(2013),"Adventure, Comedy, Drama",Alexander Payne,"['Bruce Dern', 'Will Forte', 'June Squibb', 'Bob Odenkirk']",115 min,7.7,87        ,"114,864",$17.65M
+677,The Killing,(1956),"Crime, Drama, Film-Noir",Stanley Kubrick,"['Sterling Hayden', 'Coleen Gray', 'Vince Edwards', 'Jay C. Flippen']",84 min,8.0,91        ,"84,915",-
+678,The Man Who Shot Liberty Valance,(1962),"Drama, Western",John Ford,"['James Stewart', 'John Wayne', 'Vera Miles', 'Lee Marvin']",123 min,8.1,94        ,"71,962",-
+679,Detachment,(2011),Drama,Tony Kaye,"['Adrien Brody', 'Christina Hendricks', 'Marcia Gay Harden', 'Lucy Liu']",98 min,7.7,52        ,"79,990",$0.07M
+680,PK,(2014),"Comedy, Drama, Musical",Rajkumar Hirani,"['Aamir Khan', 'Anushka Sharma', 'Sanjay Dutt', 'Boman Irani']",153 min,8.1,-,"170,654",$10.62M
+681,High Noon,(1952),"Drama, Thriller, Western",Fred Zinnemann,"['Gary Cooper', 'Grace Kelly', 'Thomas Mitchell', 'Lloyd Bridges']",85 min,8.0,89        ,"100,270",$9.45M
+682,Freaks,(1932),"Drama, Horror",Tod Browning,"['Wallace Ford', 'Leila Hyams', 'Olga Baclanova', 'Roscoe Ates']",64 min,7.9,80        ,"43,652",-
+683,The Odd Couple,(1968),Comedy,Gene Saks,"['Jack Lemmon', 'Walter Matthau', 'John Fiedler', 'Herb Edelman']",105 min,7.7,86        ,"33,041",$44.53M
+684,The Philadelphia Story,(1940),"Comedy, Romance",George Cukor,"['Cary Grant', 'Katharine Hepburn', 'James Stewart', 'Ruth Hussey']",112 min,7.9,96        ,"65,860",-
+685,Dead Man's Shoes,(2004),"Crime, Drama, Thriller",Shane Meadows,"['Paddy Considine', 'Gary Stretch', 'Toby Kebbell', 'Stuart Wolfenden']",90 min,7.6,52        ,"51,273",$0.01M
+686,25th Hour,(2002),Drama,Spike Lee,"['Edward Norton', 'Barry Pepper', 'Philip Seymour Hoffman', 'Rosario Dawson']",135 min,7.6,68        ,"174,062",$13.06M
+687,It Happened One Night,(1934),"Comedy, Romance",Frank Capra,"['Clark Gable', 'Claudette Colbert', 'Walter Connolly', 'Roscoe Karns']",105 min,8.1,87        ,"97,974",$4.36M
+688,The Straight Story,(1999),"Biography, Drama",David Lynch,"['Richard Farnsworth', 'Sissy Spacek', 'Jane Galloway Heitz', 'Joseph A. Carpenter']",112 min,8.0,86        ,"86,113",$6.20M
+689,A Christmas Story,(1983),"Comedy, Family",Bob Clark,"['Peter Billingsley', 'Melinda Dillon', 'Darren McGavin', 'Scott Schwartz']",93 min,7.9,77        ,"136,485",$20.61M
+690,The Hustler,(1961),"Drama, Sport",Robert Rossen,"['Paul Newman', 'Jackie Gleason', 'Piper Laurie', 'George C. Scott']",134 min,8.0,90        ,"78,681",$8.28M
+691,Notorious,(1946),"Drama, Film-Noir, Romance",Alfred Hitchcock,"['Cary Grant', 'Ingrid Bergman', 'Claude Rains', 'Louis Calhern']",102 min,8.0,100        ,"96,641",$10.46M
+692,Belle de Jour,(1967),"Drama, Romance",Luis Buñuel,"['Catherine Deneuve', 'Jean Sorel', 'Michel Piccoli', 'Geneviève Page']",100 min,7.7,-,"42,046",$0.03M
+693,Black Book,(2006),"Drama, Thriller, War",Paul Verhoeven,"['Carice van Houten', 'Sebastian Koch', 'Thom Hoffman', 'Halina Reijn']",145 min,7.7,71        ,"74,349",$4.40M
+694,Yojimbo,(1961),"Action, Drama, Thriller",Akira Kurosawa,"['Toshirô Mifune', 'Eijirô Tôno', 'Tatsuya Nakadai', 'Yôko Tsukasa']",110 min,8.2,-,"116,031",-
+695,Drishyam 2,(2021),"Crime, Drama, Thriller",Jeethu Joseph,"['Mohanlal', 'Meena', 'Ansiba', 'Esther Anil']",152 min,8.6,-,"29,708",-
+696,Whisper of the Heart,(1995),"Animation, Drama, Family",Yoshifumi Kondô,"['Yoko Honna', 'Issey Takahashi', 'Takashi Tachibana', 'Shigeru Muroi']",111 min,7.9,75        ,"56,101",-
+697,King Kong,(1933),"Adventure, Horror, Sci-Fi",Merian C. Cooper,"['Ernest B. Schoedsack', 'Fay Wray', 'Robert Armstrong', 'Bruce Cabot', 'Frank Reicher']",100 min,7.9,90        ,"82,080",$10.00M
+698,Lifeboat,(1944),"Drama, War",Alfred Hitchcock,"['Tallulah Bankhead', 'John Hodiak', 'Walter Slezak', 'William Bendix']",97 min,7.6,78        ,"27,547",-
+699,Zulu,(1964),"Drama, History, War",Cy Endfield,"['Stanley Baker', 'Jack Hawkins', 'Ulla Jacobsson', 'James Booth']",138 min,7.7,77        ,"37,464",-
+700,Breathless,(1960),"Crime, Drama",Jean-Luc Godard,"['Jean-Paul Belmondo', 'Jean Seberg', 'Daniel Boulanger', 'Henri-Jacques Huet']",90 min,7.8,-,"76,306",$0.34M
+701,Three Colors: Blue,(1993),"Drama, Music, Mystery",Krzysztof Kieslowski,"['Juliette Binoche', 'Zbigniew Zamachowski', 'Julie Delpy', 'Benoît Régent']",94 min,7.9,85        ,"95,468",$1.32M
+702,Victoria,(II) (2015),"Crime, Drama, Romance",Sebastian Schipper,"['Laia Costa', 'Frederick Lau', 'Franz Rogowski', 'Burak Yigit']",138 min,7.6,77        ,"55,490",-
+703,The Adventures of Robin Hood,(1938),"Action, Adventure, Romance",Michael Curtiz,"['William Keighley', 'Errol Flynn', 'Olivia de Havilland', 'Basil Rathbone', 'Claude Rains']",102 min,7.9,97        ,"48,898",$3.98M
+704,Pather Panchali,(1955),Drama,Satyajit Ray,"['Kanu Bannerjee', 'Karuna Bannerjee', 'Subir Banerjee', 'Chunibala Devi']",125 min,8.5,-,"27,504",$0.54M
+705,The Man Who Would Be King,(1975),"Adventure, History, War",John Huston,"['Sean Connery', 'Michael Caine', 'Christopher Plummer', 'Saeed Jaffrey']",129 min,7.8,91        ,"46,732",-
+706,Porco Rosso,(1992),"Animation, Adventure, Comedy",Hayao Miyazaki,"['Shûichirô Moriyama', 'Tokiko Katô', 'Bunshi Katsura Vi', 'Tsunehiko Kamijô']",94 min,7.7,83        ,"82,289",-
+707,Loving Vincent,(2017),"Animation, Biography, Crime",Dorota Kobiela,"['Hugh Welchman', 'Douglas Booth', 'Jerome Flynn', 'Robert Gulaczyk', 'Helen McCrory']",94 min,7.8,62        ,"53,610",$6.74M
+708,Sympathy for Mr. Vengeance,(2002),"Crime, Drama, Thriller",Park Chan-Wook,"['Kang-ho Song', 'Shin Ha-kyun', 'Bae Doona', 'Ji-Eun Lim']",129 min,7.6,56        ,"65,099",$0.05M
+709,Death Note,(2006),"Crime, Drama, Fantasy",Shûsuke Kaneko,"['Tatsuya Fujiwara', ""Ken'ichi Matsuyama"", 'Asaka Seto', 'Yû Kashii']",126 min,7.7,-,"29,469",-
+710,Gaslight,(1944),"Crime, Drama, Mystery",George Cukor,"['Charles Boyer', 'Ingrid Bergman', 'Joseph Cotten', 'May Whitty']",114 min,7.8,-,"26,180",-
+711,Who's Afraid of Virginia Woolf?,(1966),Drama,Mike Nichols,"['Elizabeth Taylor', 'Richard Burton', 'George Segal', 'Sandy Dennis']",131 min,8.0,75        ,"72,451",-
+712,Giant,(1956),"Drama, Western",George Stevens,"['Elizabeth Taylor', 'Rock Hudson', 'James Dean', 'Carroll Baker']",201 min,7.6,84        ,"36,822",-
+713,Red River,(1948),"Action, Adventure, Drama",Howard Hawks,"['Arthur Rosson', 'John Wayne', 'Montgomery Clift', 'Joanne Dru', 'Walter Brennan']",133 min,7.8,-,"29,453",-
+714,Waking Life,(2001),"Animation, Drama, Fantasy",Richard Linklater,"['Ethan Hawke', 'Trevor Jack Brooks', 'Lorelei Linklater', 'Wiley Wiggins']",99 min,7.8,83        ,"62,164",$2.89M
+715,A Prophet,(2009),"Crime, Drama",Jacques Audiard,"['Tahar Rahim', 'Niels Arestrup', 'Adel Bencherif', 'Reda Kateb']",155 min,7.9,90        ,"95,848",$2.08M
+716,"Aguirre, the Wrath of God",(1972),"Action, Adventure, Biography",Werner Herzog,"['Klaus Kinski', 'Ruy Guerra', 'Helena Rojo', 'Del Negro']",95 min,7.9,-,"54,428",-
+717,Modern Times,(1936),"Comedy, Drama, Family",Charles Chaplin,"['Charles Chaplin', 'Paulette Goddard', 'Henry Bergman', 'Tiny Sandford']",87 min,8.5,96        ,"226,640",$0.16M
+718,The Best Years of Our Lives,(1946),"Drama, Romance, War",William Wyler,"['Myrna Loy', 'Dana Andrews', 'Fredric March', 'Teresa Wright']",170 min,8.1,93        ,"60,671",$23.65M
+719,The Big Sleep,(1946),"Crime, Film-Noir, Mystery",Howard Hawks,"['Humphrey Bogart', 'Lauren Bacall', 'John Ridgely', 'Martha Vickers']",114 min,7.9,-,"82,232",$6.54M
+720,The White Ribbon,(2009),"Drama, History, Mystery",Michael Haneke,"['Christian Friedel', 'Ernst Jacobi', 'Leonie Benesch', 'Ulrich Tukur']",144 min,7.8,82        ,"70,670",$2.22M
+721,Run Lola Run,(1998),"Crime, Drama, Thriller",Tom Tykwer,"['Franka Potente', 'Moritz Bleibtreu', 'Herbert Knaup', 'Nina Petri']",80 min,7.7,77        ,"193,179",$7.27M
+722,Manhattan,(1979),"Comedy, Drama, Romance",Woody Allen,"['Woody Allen', 'Diane Keaton', 'Mariel Hemingway', 'Michael Murphy']",96 min,7.9,83        ,"135,965",$45.70M
+723,The Day of the Jackal,(1973),"Crime, Drama, Thriller",Fred Zinnemann,"['Edward Fox', 'Terence Alexander', 'Michel Auclair', 'Alan Badel']",143 min,7.8,80        ,"38,907",$16.06M
+724,La Vie En Rose,(2007),"Biography, Drama, Music",Olivier Dahan,"['Marion Cotillard', 'Sylvie Testud', 'Pascal Greggory', 'Emmanuelle Seigner']",140 min,7.6,66        ,"84,483",$10.30M
+725,Breaking the Waves,(1996),Drama,Lars von Trier,"['Emily Watson', 'Stellan Skarsgård', 'Katrin Cartlidge', 'Jean-Marc Barr']",159 min,7.8,76        ,"64,382",$4.04M
+726,Amour,(2012),Drama,Michael Haneke,"['Jean-Louis Trintignant', 'Emmanuelle Riva', 'Isabelle Huppert', 'Alexandre Tharaud']",127 min,7.9,94        ,"95,978",$6.74M
+727,Infernal Affairs,(2002),"Action, Crime, Drama",Andrew Lau,"['Alan Mak', 'Andy Lau', 'Tony Chiu-Wai Leung', 'Anthony Chau-Sang Wong', 'Eric Tsang']",101 min,8.0,75        ,"120,701",$0.17M
+728,The Double Life of Véronique,(1991),"Drama, Fantasy, Music",Krzysztof Kieslowski,"['Irène Jacob', 'Wladyslaw Kowalski', 'Halina Gryglaszewska', 'Kalina Jedrusik']",98 min,7.8,86        ,"44,830",$2.00M
+729,Once,(I) (2007),"Drama, Music, Romance",John Carney,"['Glen Hansard', 'Markéta Irglová', 'Hugh Walsh', 'Gerard Hendrick']",86 min,7.8,88        ,"112,981",$9.44M
+730,Open Your Eyes,(1997),"Drama, Mystery, Sci-Fi",Alejandro Amenábar,"['Eduardo Noriega', 'Penélope Cruz', 'Chete Lera', 'Fele Martínez']",119 min,7.7,-,"67,035",$0.37M
+731,To Have and Have Not,(1944),"Adventure, Comedy, Film-Noir",Howard Hawks,"['Humphrey Bogart', 'Lauren Bacall', 'Walter Brennan', 'Dolores Moran']",100 min,7.8,90        ,"32,471",-
+732,The Station Agent,(2003),"Comedy, Drama",Tom McCarthy,"['Peter Dinklage', 'Patricia Clarkson', 'Bobby Cannavale', 'Paul Benjamin']",89 min,7.6,81        ,"68,694",$5.74M
+733,Good Bye Lenin!,(2003),"Comedy, Drama, Romance",Wolfgang Becker,"['Daniel Brühl', 'Katrin Saß', 'Chulpan Khamatova', 'Florian Lukas']",121 min,7.7,68        ,"141,034",$4.06M
+734,East of Eden,(1955),Drama,Elia Kazan,"['James Dean', 'Raymond Massey', 'Julie Harris', 'Burl Ives']",118 min,7.9,72        ,"43,334",-
+735,Ikiru,(1952),Drama,Akira Kurosawa,"['Takashi Shimura', 'Nobuo Kaneko', ""Shin'ichi Himori"", 'Haruo Tanaka']",143 min,8.3,-,"72,606",$0.06M
+736,The Verdict,(1982),Drama,Sidney Lumet,"['Paul Newman', 'Charlotte Rampling', 'Jack Warden', 'James Mason']",129 min,7.7,77        ,"37,683",$54.00M
+737,Short Cuts,(1993),"Comedy, Drama",Robert Altman,"['Andie MacDowell', 'Julianne Moore', 'Tim Robbins', 'Bruce Davison']",188 min,7.7,79        ,"43,506",$6.11M
+738,Judgment at Nuremberg,(1961),"Drama, War",Stanley Kramer,"['Spencer Tracy', 'Burt Lancaster', 'Richard Widmark', 'Marlene Dietrich']",179 min,8.2,60        ,"72,967",-
+739,The Grapes of Wrath,(1940),"Drama, History",John Ford,"['Henry Fonda', 'Jane Darwell', 'John Carradine', 'Charley Grapewin']",129 min,8.1,96        ,"89,107",$0.06M
+740,Hamlet,(1996),Drama,Kenneth Branagh,"['Kenneth Branagh', 'Julie Christie', 'Derek Jacobi', 'Kate Winslet']",242 min,7.7,-,"36,975",$4.41M
+741,Zindagi Na Milegi Dobara,(2011),"Comedy, Drama",Zoya Akhtar,"['Hrithik Roshan', 'Farhan Akhtar', 'Abhay Deol', 'Katrina Kaif']",155 min,8.2,-,"71,853",$3.11M
+742,The Quiet Man,(1952),"Comedy, Drama, Romance",John Ford,"['John Wayne', ""Maureen O'Hara"", 'Barry Fitzgerald', 'Ward Bond']",129 min,7.8,-,"36,374",$10.55M
+743,Bicycle Thieves,(1948),Drama,Vittorio De Sica,"['Lamberto Maggiorani', 'Enzo Staiola', 'Lianella Carell', 'Elena Altieri']",89 min,8.3,-,"154,235",$0.33M
+744,The 400 Blows,(1959),"Crime, Drama",François Truffaut,"['Jean-Pierre Léaud', 'Albert Rémy', 'Claire Maurier', 'Guy Decomble']",99 min,8.1,-,"110,310",-
+745,"Duck, You Sucker!",(1971),"Drama, War, Western",Sergio Leone,"['Rod Steiger', 'James Coburn', 'Romolo Valli', 'Maria Monti']",138 min,7.6,77        ,"32,873",$0.70M
+746,Andrei Rublev,(1966),"Biography, Drama, History",Andrei Tarkovsky,"['Anatoliy Solonitsyn', 'Ivan Lapikov', 'Nikolay Grinko', 'Nikolay Sergeev']",205 min,8.1,-,"50,084",$0.10M
+747,High and Low,(1963),"Crime, Drama, Mystery",Akira Kurosawa,"['Toshirô Mifune', 'Yutaka Sada', 'Tatsuya Nakadai', 'Kyôko Kagawa']",143 min,8.4,-,"38,549",-
+748,Dara of Jasenovac,(2020),"Drama, War",Predrag Antonijevic,"['Biljana Cekic', 'Zlatan Vidovic', 'Anja Stanic', 'Luka Saranovic']",130 min,8.9,-,"50,704",-
+749,The Conformist,(1970),Drama,Bernardo Bertolucci,"['Jean-Louis Trintignant', 'Stefania Sandrelli', 'Gastone Moschin', 'Enzo Tarascio']",113 min,8.0,100        ,"28,670",$0.54M
+750,Once Were Warriors,(1994),"Crime, Drama",Lee Tamahori,"['Rena Owen', 'Temuera Morrison', 'Mamaengaroa Kerr-Bell', 'Julian Arahanga']",102 min,7.9,77        ,"32,593",$2.20M
+751,Wild Strawberries,(1957),"Drama, Romance",Ingmar Bergman,"['Victor Sjöström', 'Bibi Andersson', 'Ingrid Thulin', 'Gunnar Björnstrand']",91 min,8.2,88        ,"100,982",-
+752,Key Largo,(1948),"Action, Crime, Drama",John Huston,"['Humphrey Bogart', 'Edward G. Robinson', 'Lauren Bacall', 'Lionel Barrymore']",100 min,7.8,-,"38,484",-
+753,The Wave,(2008),"Drama, Thriller",Dennis Gansel,"['Jürgen Vogel', 'Frederick Lau', 'Max Riemelt', 'Jennifer Ulrich']",107 min,7.6,-,"105,342",-
+754,Invasion of the Body Snatchers,(1956),"Drama, Horror, Sci-Fi",Don Siegel,"['Kevin McCarthy', 'Dana Wynter', 'Larry Gates', 'King Donovan']",80 min,7.7,92        ,"46,668",-
+755,Le Samouraï,(1967),"Crime, Drama, Mystery",Jean-Pierre Melville,"['Alain Delon', 'François Périer', 'Nathalie Delon', 'Cathy Rosier']",101 min,8.1,-,"47,918",$0.04M
+756,Hedwig and the Angry Inch,(2001),"Comedy, Drama, Music",John Cameron Mitchell,"['John Cameron Mitchell', 'Miriam Shor', 'Stephen Trask', 'Theodore Liscinski']",95 min,7.7,85        ,"34,248",$3.03M
+757,Control,(2007),"Biography, Drama, Music",Anton Corbijn,"['Sam Riley', 'Samantha Morton', 'Craig Parkinson', 'Alexandra Maria Lara']",122 min,7.7,78        ,"63,038",$0.87M
+758,The Lion in Winter,(1968),"Biography, Drama, History",Anthony Harvey,"[""Peter O'Toole"", 'Katharine Hepburn', 'Anthony Hopkins', 'John Castle']",134 min,7.9,-,"30,092",$22.28M
+759,Stagecoach,(1939),"Adventure, Drama, Western",John Ford,"['John Wayne', 'Claire Trevor', 'Andy Devine', 'John Carradine']",96 min,7.9,93        ,"45,817",-
+760,Cat on a Hot Tin Roof,(1958),Drama,Richard Brooks,"['Elizabeth Taylor', 'Paul Newman', 'Burl Ives', 'Jack Carson']",108 min,8.0,84        ,"47,084",$17.57M
+761,Talk to Her,(2002),"Drama, Mystery, Romance",Pedro Almodóvar,"['Rosario Flores', 'Javier Cámara', 'Darío Grandinetti', 'Leonor Watling']",112 min,7.9,86        ,"108,268",$9.28M
+762,City Lights,(1931),"Comedy, Drama, Romance",Charles Chaplin,"['Charles Chaplin', 'Virginia Cherrill', 'Florence Lee', 'Harry Myers']",87 min,8.5,99        ,"174,339",$0.02M
+763,Crimes and Misdemeanors,(1989),"Comedy, Drama",Woody Allen,"['Martin Landau', 'Woody Allen', 'Bill Bernstein', 'Claire Bloom']",104 min,7.9,77        ,"56,257",$18.25M
+764,Shane,(1953),"Drama, Western",George Stevens,"['Alan Ladd', 'Jean Arthur', 'Van Heflin', 'Brandon De Wilde']",118 min,7.6,80        ,"38,589",$20.00M
+765,The Muppet Movie,(1979),"Adventure, Comedy, Family",James Frawley,"['Jim Henson', 'Frank Oz', 'Jerry Nelson', 'Richard Hunt']",95 min,7.6,74        ,"34,224",$76.66M
+766,The Legend of 1900,(1998),"Drama, Music, Romance",Giuseppe Tornatore,"['Tim Roth', 'Pruitt Taylor Vince', 'Mélanie Thierry', 'Bill Nunn']",169 min,8.1,58        ,"61,141",$0.26M
+767,Hannah and Her Sisters,(1986),"Comedy, Drama",Woody Allen,"['Mia Farrow', 'Dianne Wiest', 'Michael Caine', 'Barbara Hershey']",107 min,7.9,90        ,"69,118",$40.08M
+768,When Marnie Was There,(2014),"Animation, Drama, Family",James Simone,"['Hiromasa Yonebayashi', 'Sara Takatsuki', 'Kasumi Arimura', 'Nanako Matsushima', 'Susumu Terajima']",103 min,7.7,72        ,"35,794",$0.77M
+769,Fantasia,(1940),"Animation, Family, Fantasy",James Algar,"['Samuel Armstrong', 'Ford Beebe Jr.', 'Norman Ferguson', 'David Hand', 'Jim Handley', 'T. Hee', 'Wilfred Jackson', 'Hamilton Luske', 'Bill Roberts', 'Paul Satterfield', 'Ben Sharpsteen', 'Leopold Stokowski', 'Deems Taylor', 'The Philadelphia Orchestra', 'Corey Burton']",125 min,7.7,96        ,"91,329",$76.41M
+770,Perfect Strangers,(2016),"Comedy, Drama",Paolo Genovese,"['Giuseppe Battiston', 'Anna Foglietta', 'Marco Giallini', 'Edoardo Leo']",96 min,7.8,-,"60,039",-
+771,Lilya 4-Ever,(2002),"Crime, Drama",Lukas Moodysson,"['Oksana Akinshina', 'Artyom Bogucharskiy', 'Pavel Ponomaryov', 'Lyubov Agapova']",109 min,7.8,82        ,"43,941",$0.18M
+772,Philomena,(2013),"Biography, Comedy, Drama",Stephen Frears,"['Judi Dench', 'Steve Coogan', 'Sophie Kennedy Clark', 'Mare Winningham']",98 min,7.6,77        ,"96,487",$37.71M
+773,The World's Fastest Indian,(2005),"Biography, Drama, Sport",Roger Donaldson,"['Anthony Hopkins', 'Diane Ladd', 'Iain Rea', 'Tessa Mitchell']",127 min,7.8,68        ,"53,175",$5.13M
+774,Fitzcarraldo,(1982),"Adventure, Drama",Werner Herzog,"['Klaus Kinski', 'Claudia Cardinale', 'José Lewgoy', 'Miguel Ángel Fuentes']",158 min,8.1,-,"33,087",-
+775,All About My Mother,(1999),Drama,Pedro Almodóvar,"['Cecilia Roth', 'Marisa Paredes', 'Candela Peña', 'Antonia San Juan']",101 min,7.9,87        ,"92,319",$8.26M
+776,Drishyam,(2015),"Crime, Drama, Mystery",Nishikant Kamat,"['Ajay Devgn', 'Shriya Saran', 'Tabu', 'Rajat Kapoor']",163 min,8.2,-,"75,782",$0.74M
+777,Touch of Evil,(1958),"Crime, Drama, Film-Noir",Orson Welles,"['Charlton Heston', 'Orson Welles', 'Janet Leigh', 'Joseph Calleia']",95 min,8.0,99        ,"101,083",$2.24M
+778,Children of Heaven,(1997),"Drama, Family, Sport",Majid Majidi,"['Mohammad Amir Naji', 'Amir Farrokh Hashemian', 'Bahare Seddiqi', 'Nafise Jafar-Mohammadi']",89 min,8.3,77        ,"69,214",$0.93M
+779,Watership Down,(1978),"Animation, Adventure, Drama",Martin Rosen,"['John Hubley', 'John Hurt', 'Richard Briers', 'Ralph Richardson', 'Michael Graham Cox']",91 min,7.6,64        ,"34,965",-
+780,Frankenstein,(1931),"Drama, Horror, Sci-Fi",James Whale,"['Colin Clive', 'Mae Clarke', 'Boris Karloff', 'John Boles']",70 min,7.8,91        ,"67,867",-
+781,A Very Long Engagement,(2004),"Drama, Mystery, Romance",Jean-Pierre Jeunet,"['Audrey Tautou', 'Gaspard Ulliel', 'Jodie Foster', 'Dominique Pinon']",133 min,7.6,76        ,"72,086",$6.17M
+782,Fantastic Planet,(1973),"Animation, Sci-Fi",René Laloux,"['Barry Bostwick', 'Jennifer Drake', 'Eric Baugin', 'Jean Topart']",72 min,7.8,73        ,"27,674",$0.19M
+783,Time of the Gypsies,(1988),"Comedy, Crime, Drama",Emir Kusturica,"['Davor Dujmovic', 'Bora Todorovic', 'Ljubica Adzovic', 'Husnija Hasimovic']",142 min,8.2,-,"29,078",$0.28M
+784,In a Lonely Place,(1950),"Drama, Film-Noir, Mystery",Nicholas Ray,"['Humphrey Bogart', 'Gloria Grahame', 'Frank Lovejoy', 'Carl Benton Reid']",94 min,8.0,-,"28,578",-
+785,Confessions,(2010),"Drama, Thriller",Tetsuya Nakashima,"['Takako Matsu', 'Yoshino Kimura', 'Masaki Okada', 'Yukito Nishii']",106 min,7.7,-,"37,020",-
+786,All Quiet on the Western Front,(1930),"Drama, War",Lewis Milestone,"['Lew Ayres', 'Louis Wolheim', 'John Wray', 'Arnold Lucy']",152 min,8.1,91        ,"59,064",$3.27M
+787,Night on Earth,(1991),"Comedy, Drama",Jim Jarmusch,"['Winona Ryder', 'Gena Rowlands', 'Lisanne Falk', 'Alan Randolph Scott']",129 min,7.7,68        ,"57,559",$2.02M
+788,The Vanishing,(1988),"Mystery, Thriller",George Sluizer,"['Bernard-Pierre Donnadieu', 'Gene Bervoets', 'Johanna ter Steege', 'Gwen Eckhaus']",107 min,7.7,-,"36,678",-
+789,Land of Mine,(2015),"Drama, History, War",Martin Zandvliet,"['Roland Møller', 'Louis Hofmann', 'Joel Basman', 'Mikkel Boe Følsgaard']",100 min,7.8,75        ,"37,973",$0.44M
+790,Delicatessen,(1991),"Comedy, Crime",Marc Caro,"['Jean-Pierre Jeunet', 'Marie-Laure Dougnac', 'Dominique Pinon', 'Pascal Benezech', 'Jean-Claude Dreyfus']",99 min,7.6,66        ,"82,562",$1.79M
+791,Scarface,(1932),"Action, Crime, Drama",Howard Hawks,"['Richard Rosson', 'Paul Muni', 'Ann Dvorak', 'Karen Morley', 'Osgood Perkins']",93 min,7.8,87        ,"26,546",-
+792,Hera Pheri,(2000),"Action, Comedy, Crime",Priyadarshan,"['Akshay Kumar', 'Sunil Shetty', 'Paresh Rawal', 'Tabu']",156 min,8.2,-,"61,062",-
+793,The Motorcycle Diaries,(2004),"Adventure, Biography, Drama",Walter Salles,"['Gael García Bernal', 'Rodrigo De la Serna', 'Mía Maestro', 'Mercedes Morán']",126 min,7.8,75        ,"98,790",$16.76M
+794,The Day the Earth Stood Still,(1951),"Drama, Sci-Fi",Robert Wise,"['Michael Rennie', 'Patricia Neal', 'Hugh Marlowe', 'Sam Jaffe']",92 min,7.7,-,"79,222",-
+795,Song of the Sea,(2014),"Animation, Adventure, Drama",Tomm Moore,"['David Rawle', 'Brendan Gleeson', 'Lisa Hannigan', 'Fionnula Flanagan']",93 min,8.1,85        ,"54,740",$0.86M
+796,The Lady Vanishes,(1938),"Mystery, Thriller",Alfred Hitchcock,"['Margaret Lockwood', 'Michael Redgrave', 'Paul Lukas', 'May Whitty']",96 min,7.8,98        ,"49,713",-
+797,The Visitor,(I) (2007),Drama,Tom McCarthy,"['Richard Jenkins', 'Haaz Sleiman', 'Danai Gurira', 'Hiam Abbass']",104 min,7.6,79        ,"42,302",$9.42M
+798,3-Iron,(2004),"Crime, Drama, Romance",Kim Ki-duk,"['Seung-Yun Lee', 'Hee Jae', 'Hyuk-ho Kwon', 'Jin-mo Joo']",88 min,8.0,72        ,"52,622",$0.24M
+799,The Sacrifice,(1986),Drama,Andrei Tarkovsky,"['Erland Josephson', 'Susan Fleetwood', 'Allan Edwall', 'Guðrún Gísladóttir']",149 min,8.0,-,"26,157",$0.30M
+800,The Tenant,(1976),"Drama, Thriller",Roman Polanski,"['Roman Polanski', 'Isabelle Adjani', 'Melvyn Douglas', 'Jo Van Fleet']",126 min,7.7,71        ,"41,702",$1.92M
+801,Autumn Sonata,(1978),"Drama, Music",Ingmar Bergman,"['Ingrid Bergman', 'Liv Ullmann', 'Lena Nyman', 'Halvar Björk']",99 min,8.2,-,"30,346",-
+802,Leviathan,(2014),"Crime, Drama",Andrey Zvyagintsev,"['Aleksey Serebryakov', 'Elena Lyadova', 'Roman Madyanov', 'Vladimir Vdovichenkov']",140 min,7.6,92        ,"51,131",$1.09M
+803,The Umbrellas of Cherbourg,(1964),"Drama, Musical, Romance",Jacques Demy,"['Catherine Deneuve', 'Nino Castelnuovo', 'Anne Vernon', 'Marc Michel']",91 min,7.8,86        ,"25,312",$0.03M
+804,Repulsion,(1965),"Drama, Horror, Thriller",Roman Polanski,"['Catherine Deneuve', 'Ian Hendry', 'John Fraser', 'Yvonne Furneaux']",105 min,7.7,91        ,"50,767",-
+805,The Tale of The Princess Kaguya,(2013),"Animation, Adventure, Drama",Isao Takahata,"['Chloë Grace Moretz', 'James Caan', 'Mary Steenburgen', 'James Marsden']",137 min,8.0,89        ,"41,807",$1.51M
+806,The Salesman,(2016),Drama,Asghar Farhadi,"['Shahab Hosseini', 'Taraneh Alidoosti', 'Babak Karimi', 'Mina Sadati']",124 min,7.7,85        ,"55,438",$2.40M
+807,A Man for All Seasons,(1966),"Biography, Drama, History",Fred Zinnemann,"['Paul Scofield', 'Wendy Hiller', 'Robert Shaw', 'Leo McKern']",120 min,7.7,72        ,"32,986",$28.35M
+808,Nights of Cabiria,(1957),Drama,Federico Fellini,"['Giulietta Masina', 'François Périer', 'Franca Marzi', 'Dorian Gray']",110 min,8.1,-,"45,304",$0.75M
+809,Wolf Children,(2012),"Animation, Drama, Fantasy",Mamoru Hosoda,"['Aoi Miyazaki', 'Takao Osawa', 'Haru Kuroki', 'Yukito Nishii']",117 min,8.1,71        ,"41,176",-
+810,Chak De! India,(2007),"Drama, Family, Sport",Shimit Amin,"['Shah Rukh Khan', 'Vidya Malvade', 'Sagarika Ghatge', 'Shilpa Shukla']",153 min,8.2,68        ,"76,781",$1.11M
+811,Cowboy Bebop: The Movie,(2001),"Animation, Action, Crime",Shin'ichirô Watanabe,"['Tensai Okamura', 'Hiroyuki Okiura', 'Yoshiyuki Takei', 'Beau Billingslea', 'Melissa Fahn', 'Nicholas Guest', 'Kôichi Yamadera']",115 min,7.9,61        ,"44,710",$1.00M
+812,Ivan's Childhood,(1962),"Drama, War",Andrei Tarkovsky,"['Eduard Abalov', 'Nikolay Burlyaev', 'Valentin Zubkov', 'Evgeniy Zharikov', 'Stepan Krylov']",95 min,8.1,-,"33,757",-
+813,Adam's Apples,(2005),"Comedy, Crime, Drama",Anders Thomas Jensen,"['Ulrich Thomsen', 'Mads Mikkelsen', 'Nicolas Bro', 'Paprika Steen']",94 min,7.8,51        ,"47,776",$0.00M
+814,Tokyo Story,(1953),Drama,Yasujirô Ozu,"['Chishû Ryû', 'Chieko Higashiyama', 'Sô Yamamura', 'Setsuko Hara']",136 min,8.2,-,"56,679",-
+815,Batman: Mask of the Phantasm,(1993),"Animation, Action, Crime",Kevin Altieri,"['Boyd Kirkland', 'Frank Paur', 'Dan Riba', 'Eric Radomski', 'Bruce Timm', 'Kevin Conroy', 'Dana Delany', 'Hart Bochner', 'Stacy Keach']",76 min,7.8,-,"46,166",$5.62M
+816,The Kid,(1921),"Comedy, Drama, Family",Charles Chaplin,"['Charles Chaplin', 'Edna Purviance', 'Jackie Coogan', 'Carl Miller']",68 min,8.3,-,"118,822",$5.45M
+817,The Diving Bell and the Butterfly,(2007),"Biography, Drama",Julian Schnabel,"['Mathieu Amalric', 'Emmanuelle Seigner', 'Marie-Josée Croze', 'Anne Consigny']",112 min,8.0,92        ,"105,287",$5.99M
+818,Amarcord,(1973),"Comedy, Drama",Federico Fellini,"['Magali Noël', 'Bruno Zanin', 'Pupella Maggio', 'Armando Brancia']",123 min,7.9,-,"41,397",$0.58M
+819,Dil Chahta Hai,(2001),"Comedy, Drama, Romance",Farhan Akhtar,"['Aamir Khan', 'Saif Ali Khan', 'Akshaye Khanna', 'Preity Zinta']",183 min,8.1,-,"69,082",$0.30M
+820,"I, Daniel Blake",(2016),Drama,Ken Loach,"['Dave Johns', 'Hayley Squires', 'Sharon Percy', 'Briana Shann']",100 min,7.9,78        ,"56,603",$0.26M
+821,Shadow of a Doubt,(1943),"Film-Noir, Thriller",Alfred Hitchcock,"['Teresa Wright', 'Joseph Cotten', 'Macdonald Carey', 'Henry Travers']",108 min,7.8,94        ,"62,189",-
+822,The Red Shoes,(1948),"Drama, Music, Romance",Michael Powell,"['Emeric Pressburger', 'Anton Walbrook', 'Marius Goring', 'Moira Shearer', 'Robert Helpmann']",135 min,8.1,-,"32,643",$10.90M
+823,Bajrangi Bhaijaan,(2015),"Action, Adventure, Comedy",Kabir Khan,"['Salman Khan', 'Harshaali Malhotra', 'Nawazuddin Siddiqui', 'Kareena Kapoor']",163 min,8.0,-,"79,997",$8.18M
+824,Bhaag Milkha Bhaag,(2013),"Biography, Drama, Sport",Rakeysh Omprakash Mehra,"['Farhan Akhtar', 'Sonam Kapoor', 'Pawan Malhotra', 'Art Malik']",186 min,8.2,-,"64,079",$1.63M
+825,Elite Squad,(2007),"Action, Crime, Drama",José Padilha,"['Wagner Moura', 'André Ramiro', 'Caio Junqueira', 'Milhem Cortaz']",115 min,8.0,33        ,"100,301",$0.01M
+826,Inherit the Wind,(1960),"Biography, Drama, History",Stanley Kramer,"['Spencer Tracy', 'Fredric March', 'Gene Kelly', 'Dick York']",128 min,8.1,75        ,"28,761",-
+827,The Thin Man,(1934),"Comedy, Crime, Mystery",W.S. Van Dyke,"['William Powell', 'Myrna Loy', ""Maureen O'Sullivan"", 'Nat Pendleton']",91 min,8.0,86        ,"27,858",-
+828,A Hard Day's Night,(1964),"Comedy, Musical",Richard Lester,"['John Lennon', 'Paul McCartney', 'George Harrison', 'Ringo Starr']",87 min,7.6,96        ,"42,939",$13.78M
+829,Ayla: The Daughter of War,(2017),"Biography, Drama, History",Can Ulkay,"['Halenur Uzunoglu', 'Çetin Tekindor', 'Ismail Hacioglu', 'Kyung-jin Lee', 'Kim Seol']",125 min,8.4,-,"36,613",-
+830,The Triplets of Belleville,(2003),"Animation, Comedy, Drama",Sylvain Chomet,"['Michèle Caucheteux', 'Jean-Claude Donda', 'Michel Robin', 'Monica Viegas']",78 min,7.8,91        ,"52,991",$7.00M
+831,The Cabinet of Dr. Caligari,(1920),"Fantasy, Horror, Mystery",Robert Wiene,"['Werner Krauss', 'Conrad Veidt', 'Friedrich Feher', 'Lil Dagover']",67 min,8.1,-,"59,831",-
+832,The Battle of Algiers,(1966),"Drama, War",Gillo Pontecorvo,"['Brahim Hadjadj', 'Jean Martin', 'Yacef Saadi', 'Samia Kerbash']",121 min,8.1,96        ,"56,174",$0.06M
+833,The Sea Inside,(I) (2004),"Biography, Drama",Alejandro Amenábar,"['Javier Bardem', 'Belén Rueda', 'Lola Dueñas', 'Mabel Rivera']",126 min,8.0,74        ,"79,390",$2.09M
+834,K.G.F: Chapter 1,(2018),"Action, Crime, Drama",Prashanth Neel,"['Yash', 'Srinidhi Shetty', 'Ramachandra Raju', 'Archana Jois']",156 min,8.3,-,"45,582",-
+835,Underground,(1995),"Comedy, Drama, Fantasy",Emir Kusturica,"[""Predrag 'Miki' Manojlovic"", 'Lazar Ristovski', 'Mirjana Jokovic', 'Slavko Stimac']",167 min,8.1,79        ,"56,681",$0.17M
+836,The Wages of Fear,(1953),"Adventure, Drama, Thriller",Henri-Georges Clouzot,"['Yves Montand', 'Charles Vanel', 'Peter van Eyck', 'Folco Lulli']",131 min,8.1,85        ,"57,525",-
+837,Bringing Up Baby,(1938),"Comedy, Family, Romance",Howard Hawks,"['Katharine Hepburn', 'Cary Grant', 'Charles Ruggles', 'Walter Catlett']",102 min,7.9,91        ,"58,584",-
+838,Gilda,(1946),"Drama, Film-Noir, Romance",Charles Vidor,"['Rita Hayworth', 'Glenn Ford', 'George Macready', 'Joseph Calleia']",110 min,7.6,-,"30,640",-
+839,Drishyam,(2013),"Crime, Drama, Thriller",Jeethu Joseph,"['Mohanlal', 'Meena', 'Asha Sharath', 'Ansiba']",160 min,8.3,-,"37,606",-
+840,Gully Boy,(2019),"Drama, Music, Romance",Zoya Akhtar,"['Vijay Varma', 'Nakul Roshan Sahdev', 'Ranveer Singh', 'Vijay Raaz']",154 min,8.0,65        ,"34,954",$5.57M
+841,The Bride of Frankenstein,(1935),"Drama, Horror, Sci-Fi",James Whale,"['Boris Karloff', 'Elsa Lanchester', 'Colin Clive', 'Valerie Hobson']",75 min,7.8,95        ,"45,326",$4.36M
+842,Ninja Scroll,(1993),"Animation, Action, Adventure",Yoshiaki Kawajiri,"['Kôichi Yamadera', 'Emi Shinohara', 'Takeshi Aono', 'Osamu Saka']",94 min,7.9,-,"35,706",-
+843,Rififi,(1955),"Crime, Drama, Thriller",Jules Dassin,"['Jean Servais', 'Carl Möhner', 'Robert Manuel', 'Janine Darcey']",118 min,8.1,97        ,"31,932",$0.06M
+844,The Hidden Fortress,(1958),"Adventure, Drama",Akira Kurosawa,"['Toshirô Mifune', 'Misa Uehara', 'Minoru Chiaki', 'Kamatari Fujiwara']",126 min,8.1,-,"36,720",-
+845,Mr. Smith Goes to Washington,(1939),"Comedy, Drama",Frank Capra,"['James Stewart', 'Jean Arthur', 'Claude Rains', 'Edward Arnold']",129 min,8.1,73        ,"110,598",$9.60M
+846,Frost/Nixon,(2008),"Biography, Drama, History",Ron Howard,"['Frank Langella', 'Michael Sheen', 'Kevin Bacon', 'Sam Rockwell']",122 min,7.7,80        ,"105,409",$18.59M
+847,Taste of Cherry,(1997),Drama,Abbas Kiarostami,"['Homayoun Ershadi', 'Abdolrahman Bagheri', 'Afshin Khorshid Bakhtiari', 'Safar Ali Moradi']",95 min,7.8,80        ,"26,684",$0.31M
+848,Interstate 60: Episodes of the Road,(2002),"Adventure, Comedy, Drama",Bob Gale,"['James Marsden', 'Gary Oldman', 'Kurt Russell', 'Matthew Edison']",116 min,7.7,-,"30,916",-
+849,His Girl Friday,(1940),"Comedy, Drama, Romance",Howard Hawks,"['Cary Grant', 'Rosalind Russell', 'Ralph Bellamy', 'Gene Lockhart']",92 min,7.9,-,"55,763",$0.30M
+850,Article 15,(2019),"Crime, Drama, Mystery",Anubhav Sinha,"['Ayushmann Khurrana', 'Nassar', 'Manoj Pahwa', 'Kumud Mishra']",130 min,8.2,-,"26,820",-
+851,The Little Prince,(2015),"Animation, Adventure, Drama",Mark Osborne,"['Jeff Bridges', 'Mackenzie Foy', 'Rachel McAdams', 'Marion Cotillard']",108 min,7.7,70        ,"58,886",$1.34M
+852,Persepolis,(2007),"Animation, Biography, Drama",Vincent Paronnaud,"['Marjane Satrapi', 'Chiara Mastroianni', 'Catherine Deneuve', 'Gena Rowlands', 'Danielle Darrieux']",96 min,8.0,90        ,"91,172",$4.45M
+853,Sunrise,(1927),"Drama, Romance",F.W. Murnau,"[""George O'Brien"", 'Janet Gaynor', 'Margaret Livingston', 'Bodil Rosing']",94 min,8.1,-,"49,016",$0.54M
+854,Vikram Vedha,(2017),"Action, Crime, Drama",Gayatri,"['Pushkar', 'Madhavan', 'Vijay Sethupathi', 'Shraddha Srinath', 'Kathir']",147 min,8.4,-,"32,782",-
+855,Kagemusha,(1980),"Drama, History, War",Akira Kurosawa,"['Tatsuya Nakadai', 'Tsutomu Yamazaki', ""Ken'ichi Hagiwara"", 'Jinpachi Nezu']",162 min,8.0,84        ,"33,756",-
+856,Hard Boiled,(1992),"Action, Crime, Thriller",John Woo,"['Chow Yun-Fat', 'Tony Chiu-Wai Leung', 'Teresa Mo', 'Philip Chan']",128 min,7.8,-,"48,273",-
+857,Three Colors: White,(1994),"Comedy, Drama, Romance",Krzysztof Kieslowski,"['Zbigniew Zamachowski', 'Julie Delpy', 'Janusz Gajos', 'Jerzy Stuhr']",92 min,7.6,88        ,"68,922",$1.46M
+858,Kal Ho Naa Ho,(2003),"Comedy, Drama, Musical",Nikkhil Advani,"['Preity Zinta', 'Shah Rukh Khan', 'Saif Ali Khan', 'Jaya Bachchan']",186 min,7.9,54        ,"65,795",$1.79M
+859,Loveless,(2017),Drama,Andrey Zvyagintsev,"['Maryana Spivak', 'Aleksey Rozin', 'Matvey Novikov', 'Marina Vasileva']",127 min,7.6,86        ,"31,367",$0.57M
+860,Tokyo Godfathers,(2003),"Animation, Adventure, Comedy",Satoshi Kon,"['Tôru Emori', 'Yoshiaki Umegaki', 'Aya Okamoto', 'Shôzô Îzuka']",92 min,7.8,73        ,"33,938",$0.13M
+861,Eyes Without a Face,(1960),"Drama, Horror",Georges Franju,"['Pierre Brasseur', 'Alida Valli', 'Juliette Mayniel', 'Alexandre Rignault']",90 min,7.7,90        ,"29,137",$0.05M
+862,Baby,(I) (2015),"Action, Thriller",Neeraj Pandey,"['Akshay Kumar', 'Danny Denzongpa', 'Rana Daggubati', 'Taapsee Pannu']",159 min,8.0,-,"54,743",-
+863,Down by Law,(1986),"Comedy, Crime, Drama",Jim Jarmusch,"['Tom Waits', 'John Lurie', 'Roberto Benigni', 'Nicoletta Braschi']",107 min,7.7,75        ,"49,561",$1.44M
+864,The Discreet Charm of the Bourgeoisie,(1972),Comedy,Luis Buñuel,"['Fernando Rey', 'Delphine Seyrig', 'Paul Frankeur', 'Bulle Ogier']",102 min,7.9,93        ,"40,646",$0.20M
+865,Throne of Blood,(1957),"Drama, History",Akira Kurosawa,"['Toshirô Mifune', 'Minoru Chiaki', 'Isuzu Yamada', 'Takashi Shimura']",110 min,8.1,-,"49,100",-
+866,The 39 Steps,(1935),"Crime, Mystery, Thriller",Alfred Hitchcock,"['Robert Donat', 'Madeleine Carroll', 'Lucie Mannheim', 'Godfrey Tearle']",86 min,7.7,93        ,"54,115",-
+867,Lagaan: Once Upon a Time in India,(2001),"Drama, Musical, Sport",Ashutosh Gowariker,"['Aamir Khan', 'Raghuvir Yadav', 'Gracy Singh', 'Rachel Shelley']",224 min,8.1,84        ,"108,574",$0.07M
+868,Arsenic and Old Lace,(1943),"Comedy, Crime, Thriller",Frank Capra,"['Cary Grant', 'Priscilla Lane', 'Raymond Massey', 'Jack Carson']",118 min,8.0,-,"68,204",-
+869,Badhaai Ho,(2018),"Comedy, Drama",Amit Ravindernath Sharma,"['Ayushmann Khurrana', 'Neena Gupta', 'Gajraj Rao', 'Sanya Malhotra']",124 min,8.0,-,"30,445",-
+870,Lupin III: The Castle of Cagliostro,(1979),"Animation, Action, Adventure",Hayao Miyazaki,"['Yasuo Yamada', 'Eiko Masuyama', 'Kiyoshi Kobayashi', 'Makio Inoue']",102 min,7.6,72        ,"28,663",-
+871,My Name Is Khan,(2010),Drama,Karan Johar,"['Shah Rukh Khan', 'Kajol', 'Sheetal Menon', 'Katie A. Keane']",165 min,8.0,50        ,"102,036",$4.02M
+872,The Passion of Joan of Arc,(1928),"Biography, Drama, History",Carl Theodor Dreyer,"['Maria Falconetti', 'Eugene Silvain', 'André Berley', 'Maurice Schutz']",114 min,8.1,-,"50,606",$0.02M
+873,Kahaani,(2012),"Mystery, Thriller",Sujoy Ghosh,"['Vidya Balan', 'Parambrata Chattopadhyay', 'Indraneil Sengupta', 'Nawazuddin Siddiqui']",122 min,8.1,-,"59,912",$1.04M
+874,The Past,(2013),"Drama, Mystery",Asghar Farhadi,"['Bérénice Bejo', 'Tahar Rahim', 'Ali Mosaffa', 'Pauline Burlet']",130 min,7.7,85        ,"47,014",$1.33M
+875,The Innocents,(1961),Horror,Jack Clayton,"['Deborah Kerr', 'Peter Wyngarde', 'Megs Jenkins', 'Michael Redgrave']",100 min,7.8,88        ,"28,292",$2.62M
+876,Stalag 17,(1953),"Comedy, Drama, War",Billy Wilder,"['William Holden', 'Don Taylor', 'Otto Preminger', 'Robert Strauss']",120 min,8.0,84        ,"53,803",-
+877,The Invisible Man,(1933),"Horror, Sci-Fi",James Whale,"['Claude Rains', 'Gloria Stuart', 'William Harrigan', 'Henry Travers']",71 min,7.7,87        ,"32,208",-
+878,Laura,(1944),"Drama, Film-Noir, Mystery",Otto Preminger,"['Gene Tierney', 'Dana Andrews', 'Clifton Webb', 'Vincent Price']",88 min,8.0,-,"44,475",$4.36M
+879,Uri: The Surgical Strike,(2018),"Action, Drama, War",Aditya Dhar,"['Vicky Kaushal', 'Paresh Rawal', 'Mohit Raina', 'Yami Gautam']",138 min,8.2,-,"47,835",$4.19M
+880,Shine,(1996),"Biography, Drama, Music",Scott Hicks,"['Geoffrey Rush', 'Armin Mueller-Stahl', 'Justin Braine', 'Sonia Todd']",105 min,7.7,87        ,"52,636",$35.81M
+881,Diabolique,(1955),"Crime, Drama, Horror",Henri-Georges Clouzot,"['Simone Signoret', 'Véra Clouzot', 'Paul Meurisse', 'Charles Vanel']",117 min,8.1,-,"63,594",-
+882,The Experiment,(2001),"Drama, Thriller",Oliver Hirschbiegel,"['Moritz Bleibtreu', 'Christian Berkel', 'Oliver Stokowski', 'Wotan Wilke Möhring']",120 min,7.7,60        ,"92,160",$0.14M
+883,Rang De Basanti,(2006),"Comedy, Crime, Drama",Rakeysh Omprakash Mehra,"['Aamir Khan', 'Soha Ali Khan', 'Siddharth', 'Sharman Joshi']",167 min,8.1,-,"115,713",$2.20M
+884,Only Yesterday,(1991),"Animation, Drama, Romance",Isao Takahata,"['Miki Imai', 'Toshirô Yanagiba', 'Yoko Honna', 'Mayumi Izuka']",118 min,7.6,90        ,"29,155",$0.45M
+885,Ace in the Hole,(1951),"Drama, Film-Noir",Billy Wilder,"['Kirk Douglas', 'Jan Sterling', 'Robert Arthur', 'Porter Hall']",111 min,8.1,72        ,"33,429",$3.97M
+886,My Sassy Girl,(2001),"Comedy, Drama, Romance",Jae-young Kwak,"['Tae-Hyun Cha', 'Jun Ji-hyun', 'In-mun Kim', 'Song Wok-suk']",137 min,8.0,-,"46,600",-
+887,Swades,(2004),Drama,Ashutosh Gowariker,"['Shah Rukh Khan', 'Gayatri Joshi', 'Kishori Ballal', 'Smit Sheth']",189 min,8.2,-,"86,386",$1.22M
+888,The Postman,(1994),"Biography, Comedy, Drama",Michael Radford,"['Massimo Troisi', 'Massimo Troisi', 'Philippe Noiret', 'Maria Grazia Cucinotta', 'Renato Scarpa']",108 min,7.7,81        ,"34,872",$21.85M
+889,Pink,(III) (2016),"Crime, Drama, Thriller",Aniruddha Roy Chowdhury,"['Taapsee Pannu', 'Amitabh Bachchan', 'Kirti Kulhari', 'Andrea Tariang']",136 min,8.1,-,"41,833",$1.24M
+890,Peeping Tom,(1960),"Drama, Horror, Thriller",Michael Powell,"['Karlheinz Böhm', 'Anna Massey', 'Moira Shearer', 'Maxine Audley']",101 min,7.7,-,"33,089",$0.08M
+891,Cries & Whispers,(1972),Drama,Ingmar Bergman,"['Harriet Andersson', 'Liv Ullmann', 'Kari Sylwan', 'Ingrid Thulin']",91 min,8.1,-,"31,867",$1.74M
+892,In America,(2002),Drama,Jim Sheridan,"['Paddy Considine', 'Samantha Morton', 'Djimon Hounsou', 'Sarah Bolger']",105 min,7.7,76        ,"42,352",$15.54M
+893,Evil,(2003),Drama,Mikael Håfström,"['Andreas Wilson', 'Henrik Lundström', 'Gustaf Skarsgård', 'Linda Zilliacus']",113 min,7.8,61        ,"36,537",$0.02M
+894,Sleuth,(1972),"Mystery, Thriller",Joseph L. Mankiewicz,"['Laurence Olivier', 'Michael Caine', 'Alec Cawthorne', 'John Matthews']",138 min,8.0,-,"46,223",$4.08M
+895,Fearless,(2006),"Action, Biography, Drama",Ronny Yu,"['Jet Li', 'Li Sun', 'Yong Dong', 'Yun Qu']",104 min,7.6,70        ,"74,151",$24.63M
+896,The Return,(2003),Drama,Andrey Zvyagintsev,"['Vladimir Garin', 'Ivan Dobronravov', 'Konstantin Lavronenko', 'Nataliya Vdovina']",110 min,8.0,82        ,"43,962",$0.50M
+897,The Secret of Kells,(2009),"Animation, Adventure, Family",Tomm Moore,"['Nora Twomey', 'Evan McGuire', 'Brendan Gleeson', 'Mick Lally', 'Christen Mooney']",75 min,7.6,81        ,"33,524",$0.69M
+898,Brief Encounter,(1945),"Drama, Romance",David Lean,"['Celia Johnson', 'Trevor Howard', 'Stanley Holloway', 'Joyce Carey']",86 min,8.0,92        ,"37,779",-
+899,The Girl Who Leapt Through Time,(2006),"Animation, Adventure, Comedy",Mamoru Hosoda,"['Riisa Naka', 'Takuya Ishida', 'Mitsutaka Itakura', 'Ayami Kakiuchi']",98 min,7.7,-,"62,729",-
+900,Harvey,(1950),"Comedy, Drama, Fantasy",Henry Koster,"['James Stewart', 'Wallace Ford', 'William H. Lynn', 'Victoria Horne']",104 min,7.9,-,"53,960",-
+901,Munna Bhai M.B.B.S.,(2003),"Comedy, Drama",Rajkumar Hirani,"['Sanjay Dutt', 'Arshad Warsi', 'Gracy Singh', 'Sunil Dutt']",156 min,8.1,-,"77,035",-
+902,Nobody Knows,(2004),Drama,Hirokazu Koreeda,"['Yûya Yagira', 'Ayu Kitaura', 'Hiei Kimura', 'Momoko Shimizu']",141 min,8.1,88        ,"26,102",$0.68M
+903,"Black Cat, White Cat",(1998),"Comedy, Crime, Romance",Emir Kusturica,"['Bajram Severdzan', ""Srdjan 'Zika' Todorovic"", 'Branka Katic', 'Florijan Ajdini']",127 min,8.1,73        ,"52,202",$0.35M
+904,La Strada,(1954),Drama,Federico Fellini,"['Anthony Quinn', 'Giulietta Masina', 'Richard Basehart', 'Aldo Silvani']",108 min,8.0,-,"60,433",-
+905,Winter Sleep,(2014),Drama,Nuri Bilge Ceylan,"['Haluk Bilginer', 'Melisa Sözen', 'Demet Akbag', 'Ayberk Pekcan']",196 min,8.1,88        ,"48,942",$0.17M
+906,After the Wedding,(2006),Drama,Susanne Bier,"['Mads Mikkelsen', 'Sidse Babett Knudsen', 'Rolf Lassgård', 'Neeral Mulchandani']",120 min,7.7,78        ,"33,364",$0.41M
+907,The Bandit,(1996),"Crime, Drama, Thriller",Yavuz Turgul,"['Sener Sen', 'Ugur Yücel', 'Sermin Hürmeriç', 'Yesim Salkim']",128 min,8.2,-,"67,076",-
+908,The Ladykillers,(1955),"Comedy, Crime",Alexander Mackendrick,"['Alec Guinness', 'Peter Sellers', 'Cecil Parker', 'Herbert Lom']",91 min,7.7,91        ,"27,942",-
+909,"4 Months, 3 Weeks and 2 Days",(2007),Drama,Cristian Mungiu,"['Anamaria Marinca', 'Laura Vasiliu', 'Vlad Ivanov', 'Alexandru Potocean']",113 min,7.9,97        ,"58,261",$1.19M
+910,Head-On,(2004),"Drama, Romance",Fatih Akin,"['Birol Ünel', 'Sibel Kekilli', 'Güven Kiraç', 'Zarah Jane McKenzie']",121 min,7.9,78        ,"52,523",-
+911,To Be or Not to Be,(1942),"Comedy, Romance, War",Ernst Lubitsch,"['Carole Lombard', 'Jack Benny', 'Robert Stack', 'Felix Bressart']",99 min,8.2,86        ,"33,002",-
+912,The Virgin Spring,(1960),Drama,Ingmar Bergman,"['Max von Sydow', 'Birgitta Valberg', 'Gunnel Lindblom', 'Birgitta Pettersson']",89 min,8.1,-,"27,832",$1.53M
+913,The Gold Rush,(1925),"Adventure, Comedy, Drama",Charles Chaplin,"['Charles Chaplin', 'Mack Swain', 'Tom Murray', 'Henry Bergman']",95 min,8.2,-,"105,436",$5.45M
+914,Sweet Smell of Success,(1957),"Drama, Film-Noir",Alexander Mackendrick,"['Burt Lancaster', 'Tony Curtis', 'Susan Harrison', 'Martin Milner']",96 min,8.0,100        ,"29,797",-
+915,Darbareye Elly,(2009),"Drama, Mystery",Asghar Farhadi,"['Golshifteh Farahani', 'Shahab Hosseini', 'Taraneh Alidoosti', ""Merila Zare'i""]",119 min,8.0,87        ,"49,318",$0.11M
+916,The Message,(1976),"Biography, Drama, History",Moustapha Akkad,"['Anthony Quinn', 'Irene Papas', 'Michael Ansara', 'Johnny Sekka']",177 min,8.2,-,"45,482",-
+917,The General,(1926),"Action, Adventure, Comedy",Clyde Bruckman,"['Buster Keaton', 'Buster Keaton', 'Marion Mack', 'Glen Cavender', 'Jim Farley']",67 min,8.1,-,"85,909",$1.03M
+918,The Broken Circle Breakdown,(2012),"Drama, Music, Romance",Felix van Groeningen,"['Veerle Baetens', 'Johan Heldenbergh', 'Nell Cattrysse', 'Geert Van Rampelberg']",111 min,7.7,70        ,"40,254",$0.18M
+919,Dilwale Dulhania Le Jayenge,(1995),"Drama, Romance",Aditya Chopra,"['Shah Rukh Khan', 'Kajol', 'Amrish Puri', 'Farida Jalal']",181 min,8.1,-,"65,928",-
+920,The Lunchbox,(2013),"Drama, Romance",Ritesh Batra,"['Irrfan Khan', 'Nimrat Kaur', 'Nawazuddin Siddiqui', 'Lillete Dubey']",104 min,7.8,76        ,"52,901",$4.23M
+921,Joint Security Area,(2000),"Action, Drama, Thriller",Park Chan-Wook,"['Lee Yeong-ae', 'Lee Byung-hun', 'Kang-ho Song', 'Kim Tae-Woo']",110 min,7.8,58        ,"28,041",-
+922,Farewell My Concubine,(1993),"Drama, Music, Romance",Kaige Chen,"['Leslie Cheung', 'Fengyi Zhang', 'Gong Li', 'You Ge']",171 min,8.1,83        ,"26,384",$5.22M
+923,The Exterminating Angel,(1962),"Drama, Fantasy",Luis Buñuel,"['Silvia Pinal', 'Jacqueline Andere', 'Enrique Rambal', 'José Baviera']",95 min,8.1,-,"31,509",-
+924,Au Revoir les Enfants,(1987),"Drama, War",Louis Malle,"['Gaspard Manesse', 'Raphael Fejtö', 'Francine Racette', 'Stanislas Carré de Malberg']",104 min,8.0,88        ,"32,423",$4.54M
+925,Rockstar,(2011),"Drama, Music, Romance",Imtiaz Ali,"['Ranbir Kapoor', 'Nargis Fakhri', 'Shammi Kapoor', 'Kumud Mishra']",159 min,7.7,-,"41,508",$0.99M
+926,Masaan,(2015),Drama,Neeraj Ghaywan,"['Richa Chadha', 'Sanjay Mishra', 'Vicky Kaushal', 'Pankaj Tripathi']",109 min,8.2,-,"25,472",-
+927,Baahubali 2: The Conclusion,(2017),"Action, Drama",S.S. Rajamouli,"['Prabhas', 'Rana Daggubati', 'Anushka Shetty', 'Tamannaah Bhatia']",167 min,8.2,-,"80,065",$20.19M
+928,Hiroshima Mon Amour,(1959),"Drama, Romance",Alain Resnais,"['Emmanuelle Riva', 'Eiji Okada', 'Stella Dassas', 'Pierre Barbaud']",90 min,7.9,-,"29,858",$0.09M
+929,L'Avventura,(1960),"Drama, Mystery, Romance",Michelangelo Antonioni,"['Gabriele Ferzetti', 'Monica Vitti', 'Lea Massari', 'Dominique Blanchar']",144 min,7.9,-,"27,874",-
+930,Miracle on 34th Street,(1947),"Comedy, Drama, Family",George Seaton,"['Edmund Gwenn', ""Maureen O'Hara"", 'John Payne', 'Gene Lockhart']",96 min,7.9,88        ,"43,916",$2.65M
+931,Vivre Sa Vie,(1962),Drama,Jean-Luc Godard,"['Anna Karina', 'Sady Rebbot', 'André S. Labarthe', 'Guylaine Schlumberger']",85 min,8.0,-,"29,711",-
+932,Talvar,(2015),"Crime, Drama, Mystery",Meghna Gulzar,"['Irrfan Khan', 'Konkona Sen Sharma', 'Neeraj Kabi', 'Sohum Shah']",132 min,8.2,-,"32,963",$0.34M
+933,Departures,(2008),"Drama, Music",Yôjirô Takita,"['Masahiro Motoki', 'Ryôko Hirosue', 'Tsutomu Yamazaki', 'Kazuko Yoshiyuki']",130 min,8.1,68        ,"50,002",$1.50M
+934,Special 26,(2013),"Crime, Drama, Thriller",Neeraj Pandey,"['Akshay Kumar', 'Anupam Kher', 'Manoj Bajpayee', 'Jimmy Sheirgill']",144 min,8.0,-,"53,151",$1.08M
+935,Veer-Zaara,(2004),"Drama, Family, Musical",Yash Chopra,"['Shah Rukh Khan', 'Preity Zinta', 'Rani Mukerji', 'Kirron Kher']",192 min,7.8,67        ,"50,719",$2.92M
+936,Jules and Jim,(1962),"Drama, Romance",François Truffaut,"['Jeanne Moreau', 'Oskar Werner', 'Henri Serre', 'Vanna Urbino']",105 min,7.8,97        ,"39,275",-
+937,Hindi Medium,(2017),"Comedy, Drama",Saket Chaudhary,"['Irrfan Khan', 'Saba Qamar', 'Dishita Sehgal', 'Deepak Dobriyal']",132 min,7.9,-,"25,431",-
+938,Queen,(2013),"Adventure, Comedy, Drama",Vikas Bahl,"['Kangana Ranaut', 'Rajkummar Rao', 'Lisa Haydon', 'Jeffrey Ho']",146 min,8.2,-,"62,537",$1.43M
+939,Celda 211,(2009),"Action, Adventure, Crime",Daniel Monzón,"['Luis Tosar', 'Alberto Ammann', 'Antonio Resines', 'Manuel Morón']",113 min,7.6,-,"65,482",-
+940,My Father and My Son,(2005),"Drama, Family",Cagan Irmak,"['Eser Sariyar', 'Çetin Tekindor', 'Fikret Kuskan', 'Hümeyra']",112 min,8.3,-,"82,339",-
+941,The Killer,(1989),"Action, Crime, Drama",John Woo,"['Chow Yun-Fat', 'Danny Lee', 'Sally Yeh', 'Kong Chu']",111 min,7.8,82        ,"46,886",-
+942,Fireworks,(1997),"Crime, Drama, Romance",Takeshi Kitano,"['Takeshi Kitano', 'Kayoko Kishimoto', 'Ren Ôsugi', 'Susumu Terajima']",103 min,7.8,-,"28,990",$0.23M
+943,G.O.R.A.,(2004),"Adventure, Comedy, Sci-Fi",Ömer Faruk Sorak,"['Cem Yilmaz', 'Özge Özberk', 'Ozan Güven', 'Safak Sezer']",127 min,8.0,-,"59,289",-
+944,The Magdalene Sisters,(2002),Drama,Peter Mullan,"['Eileen Walsh', 'Dorothy Duffy', 'Nora-Jane Noone', 'Anne-Marie Duff']",114 min,7.7,83        ,"26,562",$4.89M
+945,Battleship Potemkin,(1925),"Drama, History, Thriller",Sergei M. Eisenstein,"['Aleksandr Antonov', 'Vladimir Barskiy', 'Grigoriy Aleksandrov', 'Ivan Bobrov']",66 min,8.0,97        ,"55,089",$0.05M
+946,White Heat,(1949),"Action, Crime, Drama",Raoul Walsh,"['James Cagney', 'Virginia Mayo', ""Edmond O'Brien"", 'Margaret Wycherly']",114 min,8.1,-,"31,162",-
+947,The Lost Weekend,(1945),"Drama, Film-Noir",Billy Wilder,"['Ray Milland', 'Jane Wyman', 'Phillip Terry', 'Howard Da Silva']",101 min,7.9,-,"35,148",$9.46M
+948,Raise the Red Lantern,(1991),"Drama, History, Romance",Yimou Zhang,"['Gong Li', 'Jingwu Ma', 'Saifei He', 'Cuifen Cao']",125 min,8.1,-,"30,939",$2.60M
+949,The Purple Rose of Cairo,(1985),"Comedy, Fantasy, Romance",Woody Allen,"['Mia Farrow', 'Jeff Daniels', 'Danny Aiello', 'Irving Metzman']",82 min,7.7,75        ,"49,754",$10.63M
+950,Udaan,(2010),Drama,Vikramaditya Motwane,"['Rajat Barmecha', 'Ronit Roy', 'Manjot Singh', 'Ram Kapoor']",134 min,8.2,-,"43,674",$0.01M
+951,Tangerines,(2013),"Drama, War",Zaza Urushadze,"['Lembit Ulfsak', 'Elmo Nüganen', 'Giorgi Nakashidze', 'Misha Meskhi']",87 min,8.2,73        ,"43,450",$0.14M
+952,Sanjuro,(1962),"Action, Comedy, Crime",Akira Kurosawa,"['Toshirô Mifune', 'Tatsuya Nakadai', 'Keiju Kobayashi', 'Yûnosuke Itô']",96 min,8.1,-,"36,086",-
+953,The Shop Around the Corner,(1940),"Comedy, Drama, Romance",Ernst Lubitsch,"['Margaret Sullavan', 'James Stewart', 'Frank Morgan', 'Joseph Schildkraut']",99 min,8.1,96        ,"29,872",$0.20M
+954,Haider,(2014),"Action, Crime, Drama",Vishal Bhardwaj,"['Shahid Kapoor', 'Tabu', 'Shraddha Kapoor', 'Kay Kay Menon']",160 min,8.1,-,"51,978",$0.90M
+955,Once Upon a Time in Anatolia,(2011),"Crime, Drama",Nuri Bilge Ceylan,"['Muhammet Uzuner', 'Yilmaz Erdogan', 'Taner Birsel', 'Ahmet Mümtaz Taylan']",157 min,7.9,82        ,"44,061",$0.14M
+956,No Man's Land,(I) (2001),"Comedy, Drama, War",Danis Tanovic,"['Branko Djuric', 'Rene Bitorajac', 'Filip Sovagovic', 'Georges Siatidis']",98 min,7.9,84        ,"45,881",$1.06M
+957,Nine Queens,(2000),"Crime, Drama, Thriller",Fabián Bielinsky,"['Ricardo Darín', 'Gastón Pauls', 'Graciela Tenenbaum', 'María Mercedes Villagra']",114 min,7.9,80        ,"51,100",$1.22M
+958,Vampire Hunter D: Bloodlust,(2000),"Animation, Action, Fantasy",Jack Fletcher,"['Yoshiaki Kawajiri', 'Andrew Philpot', 'John Rafter Lee', 'Pamela Adlon', 'Wendee Lee']",103 min,7.7,62        ,"30,318",$0.15M
+959,Kind Hearts and Coronets,(1949),"Comedy, Crime",Robert Hamer,"['Dennis Price', 'Alec Guinness', 'Valerie Hobson', 'Joan Greenwood']",106 min,8.0,-,"35,927",-
+960,Barfi!,(2012),"Comedy, Drama, Romance",Anurag Basu,"['Ranbir Kapoor', 'Priyanka Chopra Jonas', ""Ileana D'Cruz"", 'Saurabh Shukla']",151 min,8.1,-,"78,243",$2.80M
+961,The Chorus,(2004),"Comedy, Drama, Music",Christophe Barratier,"['Gérard Jugnot', 'François Berléand', 'Jean-Baptiste Maunier', 'Kad Merad']",97 min,7.9,56        ,"59,173",$3.64M
+962,In a Better World,(2010),"Drama, Romance",Susanne Bier,"['Mikael Persbrandt', 'Trine Dyrholm', 'Markus Rygaard', 'Wil Johnson']",118 min,7.6,65        ,"39,257",$1.01M
+963,La Grande Illusion,(1937),"Drama, War",Jean Renoir,"['Jean Gabin', 'Dita Parlo', 'Pierre Fresnay', 'Erich von Stroheim']",113 min,8.1,-,"35,084",$0.17M
+964,The Muppet Christmas Carol,(1992),"Comedy, Drama, Family",Brian Henson,"['Michael Caine', 'Dave Goelz', 'Steve Whitmire', 'Jerry Nelson']",85 min,7.7,64        ,"51,624",$27.28M
+965,Waltz with Bashir,(2008),"Animation, Biography, Drama",Ari Folman,"['Ari Folman', 'Ron Ben-Yishai', 'Ronny Dayag', 'Ori Sivan']",90 min,8.0,91        ,"56,353",$2.28M
+966,Love and Death,(1975),"Comedy, War",Woody Allen,"['Woody Allen', 'Diane Keaton', 'Georges Adet', 'Frank Adu']",85 min,7.7,89        ,"37,244",-
+967,Sherlock Jr.,(1924),"Action, Comedy, Romance",Buster Keaton,"['Buster Keaton', 'Kathryn McGuire', 'Joe Keaton', 'Erwin Connelly']",45 min,8.2,-,"45,112",$0.98M
+968,A Wednesday,(2008),"Action, Crime, Drama",Neeraj Pandey,"['Anupam Kher', 'Naseeruddin Shah', 'Jimmy Sheirgill', 'Aamir Bashir']",104 min,8.1,-,"75,891",-
+969,Raazi,(2018),"Action, Drama, Thriller",Meghna Gulzar,"['Alia Bhatt', 'Vicky Kaushal', 'Rajit Kapoor', 'Shishir Sharma']",138 min,7.8,-,"27,307",-
+970,Central Station,(1998),Drama,Walter Salles,"['Fernanda Montenegro', 'Vinícius de Oliveira', 'Marília Pêra', 'Soia Lira']",115 min,8.0,80        ,"37,874",$5.60M
+971,Elite Squad 2: The Enemy Within,(2010),"Action, Crime, Drama",José Padilha,"['Wagner Moura', 'Irandhir Santos', 'André Ramiro', 'Milhem Cortaz']",115 min,8.0,71        ,"80,805",$0.10M
+972,Airlift,(2016),"Drama, History",Raja Menon,"['Akshay Kumar', 'Nimrat Kaur', 'Kumud Mishra', 'Prakash Belawadi']",130 min,8.0,-,"54,532",-
+973,Jab We Met,(2007),"Comedy, Drama, Romance",Imtiaz Ali,"['Shahid Kapoor', 'Kareena Kapoor', 'Tarun Arora', 'Dara Singh']",138 min,7.9,-,"49,744",$0.41M
+974,Sholay,(1975),"Action, Adventure, Comedy",Ramesh Sippy,"['Sanjeev Kumar', 'Dharmendra', 'Amitabh Bachchan', 'Amjad Khan']",162 min,8.2,-,"53,230",-
+975,Duck Soup,(1933),"Comedy, Musical",Leo McCarey,"['Groucho Marx', 'Harpo Marx', 'Chico Marx', 'Zeppo Marx']",69 min,7.8,93        ,"58,478",-
+976,Dev.D,(2009),"Comedy, Drama, Romance",Anurag Kashyap,"['Abhay Deol', 'Mahie Gill', 'Kalki Koechlin', 'Dibyendu Bhattacharya']",144 min,8.0,-,"29,643",$0.01M
+977,Black,(2005),Drama,Sanjay Leela Bhansali,"['Amitabh Bachchan', 'Rani Mukerji', 'Shernaz Patel', 'Ayesha Kapoor']",122 min,8.2,-,"34,071",$0.73M
+978,Le Dîner de Cons,(1998),Comedy,Francis Veber,"['Thierry Lhermitte', 'Jacques Villeret', 'Francis Huster', 'Daniel Prévost']",80 min,7.7,73        ,"39,813",$4.07M
+979,Udta Punjab,(2016),"Action, Crime, Drama",Abhishek Chaubey,"['Shahid Kapoor', 'Alia Bhatt', 'Kareena Kapoor', 'Diljit Dosanjh']",148 min,7.8,-,"28,505",-
+980,English Vinglish,(2012),"Comedy, Drama, Family",Gauri Shinde,"['Sridevi', 'Adil Hussain', 'Mehdi Nebbou', 'Priya Anand']",134 min,7.8,-,"34,729",$1.67M
+981,Tae Guk Gi: The Brotherhood of War,(2004),"Action, Drama, War",Je-kyu Kang,"['Jang Dong-Gun', 'Won Bin', 'Eun-ju Lee', 'Hyeong-jin Kong']",140 min,8.0,64        ,"38,646",$1.11M
+982,The Circus,(1928),"Comedy, Romance",Charles Chaplin,"['Charles Chaplin', 'Merna Kennedy', 'Al Ernest Garcia', 'Harry Crocker']",72 min,8.1,90        ,"31,767",-
+983,C.R.A.Z.Y.,(2005),"Comedy, Drama",Jean-Marc Vallée,"['Michel Côté', 'Marc-André Grondin', 'Danielle Proulx', 'Émile Vallée']",129 min,7.9,81        ,"31,967",-
+984,The Rules of the Game,(1939),"Comedy, Drama",Jean Renoir,"['Marcel Dalio', 'Nora Gregor', 'Paulette Dubost', 'Mila Parély']",110 min,8.0,-,"27,747",-
+985,Andaz Apna Apna,(1994),"Action, Comedy, Romance",Rajkumar Santoshi,"['Aamir Khan', 'Salman Khan', 'Raveena Tandon', 'Karisma Kapoor']",160 min,8.1,-,"51,427",-
+986,Joyeux Noel,(2005),"Drama, History, Music",Christian Carion,"['Diane Kruger', 'Benno Fürmann', 'Guillaume Canet', 'Natalie Dessay']",116 min,7.7,70        ,"28,585",$1.05M
+987,Knockin' on Heaven's Door,(1997),"Action, Crime, Comedy",Thomas Jahn,"['Til Schweiger', 'Jan Josef Liefers', 'Thierry van Werveke', 'Moritz Bleibtreu']",87 min,7.9,-,"28,699",$0.00M
+988,Paan Singh Tomar,(2012),"Action, Biography, Crime",Tigmanshu Dhulia,"['Irrfan Khan', 'Mahie Gill', 'Rajesh Abhay', 'Hemendra Dandotiya']",135 min,8.2,-,"34,654",$0.04M
+989,Zelig,(1983),Comedy,Woody Allen,"['Woody Allen', 'Mia Farrow', 'Patrick Horgan', 'John Buckwalter']",79 min,7.7,-,"40,939",$11.80M
+990,Lage Raho Munna Bhai,(2006),"Comedy, Drama, Romance",Rajkumar Hirani,"['Sanjay Dutt', 'Arshad Warsi', 'Vidya Balan', 'Boman Irani']",144 min,8.0,-,"44,800",$2.22M
+991,Vicky Donor,(2012),"Comedy, Romance",Shoojit Sircar,"['Ayushmann Khurrana', 'Yami Gautam', 'Annu Kapoor', 'Dolly Ahluwalia']",126 min,7.8,-,"41,151",$0.17M
+992,Anand,(1971),"Drama, Musical",Hrishikesh Mukherjee,"['Rajesh Khanna', 'Amitabh Bachchan', 'Sumita Sanyal', 'Ramesh Deo']",122 min,8.2,-,"32,503",-
+993,A Night at the Opera,(1935),"Comedy, Music, Musical",Sam Wood,"['Edmund Goulding', 'Groucho Marx', 'Chico Marx', 'Harpo Marx', 'Kitty Carlisle']",96 min,7.9,-,"31,657",$2.54M
+994,M.S. Dhoni: The Untold Story,(2016),"Biography, Drama, Sport",Neeraj Pandey,"['Sushant Singh Rajput', 'Kiara Advani', 'Anupam Kher', 'Disha Patani']",184 min,7.9,-,"45,339",$1.78M
+995,OMG: Oh My God!,(2012),"Comedy, Drama, Fantasy",Umesh Shukla,"['Paresh Rawal', 'Akshay Kumar', 'Mithun Chakraborty', 'Mahesh Manjrekar']",125 min,8.1,-,"54,359",$0.92M
+996,Kai Po Che,(2013),"Drama, Sport",Abhishek Kapoor,"['Amit Sadh', 'Sushant Singh Rajput', 'Rajkummar Rao', 'Amrita Puri']",120 min,7.8,40        ,"34,752",$1.12M
+997,The Edge of Heaven,(2007),Drama,Fatih Akin,"['Baki Davrak', 'Gürsoy Gemec', 'Cengiz Daner', 'Tuncel Kurtiz']",122 min,7.8,85        ,"31,428",$0.74M
+998,Vizontele,(2001),"Comedy, Drama",Yilmaz Erdogan,"['Ömer Faruk Sorak', 'Yilmaz Erdogan', 'Demet Akbag', 'Altan Erkekli', 'Cem Yilmaz']",110 min,8.0,-,"34,938",-
+999,The Breath,(2009),"Action, Drama, Thriller",Levent Semerci,"['Erdem Can', 'Mete Horozoglu', 'Ilker Kizmaz', 'Baris Bagci', 'Özgür Eren Koç']",128 min,8.0,-,"32,634",-
