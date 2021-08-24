@@ -5,7 +5,8 @@ Created on Wed Aug 18 13:13:10 2021
 @author: david
 """
 import pandas as pd
-
+# Recommend movies to users based on popularity, assuming the user has not watched any movies yet
+# Create a weighted rating to get an accurate score of a movie based on the number of votes it received
 df = pd.read_csv('cleaned_data.csv')
 m = df['votes'].quantile(0.90)
 C = df['ratings'].mean()
