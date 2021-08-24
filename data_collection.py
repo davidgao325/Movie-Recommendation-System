@@ -24,7 +24,8 @@ from time import sleep
 from random import randint
 
 headers = {"Accept-Language": "en-US,en;q=0.5"}
-
+# Scrape the data from the IMDB website
+# Create a dataframe by organizing the data into lists, containing information such titles, genres, and actors
 names = []
 genres = []
 directors = []
