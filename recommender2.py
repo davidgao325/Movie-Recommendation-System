@@ -11,7 +11,7 @@ from sklearn.metrics import mean_squared_error
 from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import linear_kernel
-
+# Recommend movies to users based on the types of genres they have watched in the past
 df = pd.read_csv('cleaned_data.csv')
 df['genres'] = df['genres'].fillna('')
 tfidf = TfidfVectorizer(stop_words='english')
