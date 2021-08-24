@@ -7,7 +7,7 @@ Created on Sat Aug 14 15:49:45 2021
 import pandas as pd
 
 df = pd.read_csv('movies.csv')
-
+# Remove any unecessary punctuation and coonvert some data types into integers for analysis and model building later on
 df['genres'] = df['genres'].str.replace(',','')
 df['us_grossMillions'] = df['us_grossMillions'].str.replace('$','')
 df['us_grossMillions'] = df['us_grossMillions'].str.replace('M','')
